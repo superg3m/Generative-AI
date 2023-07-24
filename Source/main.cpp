@@ -12,6 +12,11 @@
 
 // IMPORTANT NOTE SMART QUOTES ARE THE WORST
 
+// TODO: Extra this code into its own classes
+// TODO: Add extra parameters for the generative process
+// TODO: fix double quotes bug
+// TODO: Add more Texts and make it one amalgamation in a vector to pull from
+
 // Global Variables Not a good idea but you know how it is
 int depth;
 std::vector<char> acceptableEndingPunctuation = {'.', '?', '!'};
