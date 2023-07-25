@@ -45,7 +45,7 @@ void removeChars(std::string &str);
 
 int main() {
   srand(time(NULL));
-  std::ifstream file("../Alice_and_the_Wonderland.txt");
+  std::ifstream file("../Archive/Alice_and_the_Wonderland.txt");
   if (!file.is_open()) {
     std::cerr << "The file failed to open" << std::endl;
     return -1;
@@ -62,6 +62,32 @@ int main() {
   std::cout << "The Final word: " << finalWord << "\n";
   return 0;
 }
+// clang-format off
+
+// GLOBAL VARIABLES
+// std::vector<std::string> archiveTextData
+
+// ---- Class structure ----
+// File_Class(std::string fileName)
+  // void format_text_file_data(std::string fileName)
+  // read_and_store_file_data(std::string fileName)
+    // Open and close file in this method
+    // Push all data into the archiveTextData
+
+// Generative_Ai_Class()
+  // member variable int depth
+  // member variable std::string currentPrompt
+  // member variable std::string currentLine
+  // 
+  // memeber variable std::string finalWord
+  // std::string getUserPrompt()
+  // std::string getRandomLine(int index)
+    // int generateRandomIndex(int min, int max)
+    // check if prompt is found inside the randomLine
+      // getNextWord(std::string randomLine, int foundIndex)
+        // update currentPrompt
+
+// clang-format on
 
 std::string generateSentence(std::string userPrompt, std::vector<std::string> &fileData, std::vector<int> &cachedIndexes) {
   int depth = 0;
@@ -88,7 +114,6 @@ std::string generateSentence(std::string userPrompt, std::vector<std::string> &f
               << "Current word: " << currentWord << "\n";
     std::string nextWord = getNextWord(currentWord, currentPrompt);
     if (nextWord != "FAILED") {
-      // Check if the next word starts with acceptable punctuation
       for (char punctuation : punctuation) {
         if (nextWord.at(0) == punctuation) {
           finalWord += nextWord;
@@ -96,7 +121,6 @@ std::string generateSentence(std::string userPrompt, std::vector<std::string> &f
         }
       }
 
-      // If the next word doesn't start with punctuation, add a space before appending it
       if (finalWord.back() != ' ') {
         finalWord += ' ';
       }
@@ -123,27 +147,21 @@ std::string getNextWord(const std::string &targetString, const std::string &prom
   int startPos = targetString.find(prompt);
 
   if (startPos != std::string::npos) {
-    // Move the startPos to the end of the prompt
     startPos += prompt.length();
 
-    // Find the position of the next space character after the prompt
     while (startPos < targetString.length() && targetString.at(startPos) != ' ') {
       startPos++;
     }
 
-    // Check if startPos is still within bounds
     if (startPos < targetString.length()) {
-      // Create a stringstream from the targetString, starting from the end of the prompt
       std::stringstream ss(targetString.substr(startPos));
 
-      // Extract the first word from the stringstream
       if (ss >> ret) {
         return ret;
       }
     }
   }
 
-  // If the prompt is not found or there are no words after the prompt, return "FAILED"
   return "FAILED";
 }
 
