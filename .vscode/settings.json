@@ -48,6 +48,10 @@
         "sstream": "cpp",
         "bitset": "cpp",
         "ctime": "cpp",
-        "regex": "cpp"
-    }
+        "regex": "cpp",
+        "codecvt": "cpp",
+        "ratio": "cpp",
+        "iomanip": "cpp"
+    },
+    "python.analysis.typeCheckingMode": "basic"
 }

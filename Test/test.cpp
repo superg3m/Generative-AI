@@ -26,3 +26,27 @@ void test_generative_sentence() {
   // Varying parameters
   return;
 }
+
+void test_file_formating() {
+  // Testing for depth max
+  // Varying parameters
+  return;
+}
+
+void test_removal_of_smart_characters() {
+  // Testing for depth max
+  // Varying parameters
+  return;
+}
+
+void test_prompt_partioning() {
+  // Testing for depth max
+  // Varying parameters
+  return;
+}
+
+void test_erasing_first_word() {
+  // Testing for depth max
+  // Varying parameters
+  return;
+}
