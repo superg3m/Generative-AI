@@ -9,7 +9,7 @@ Generative_Ai::Generative_Ai() {
   this->number_of_completed_Sentences = 0;
 }
 
-std::string Generative_Ai::generateSentence(int targetSentenceCount, const int promptMaxWordLength, bool useUniqueLines, int numberOfPassthroughs, std::vector<std::string> &fileData) {
+std::string Generative_Ai::generateSentence(int sentenceCount, const int promptWordLength, bool useUniqueLines, bool usePunctuation, int passthroughs, std::vector<std::string> &fileData) {
   if (currentPrompt.empty()) {
     this->currentPrompt = getUserPrompt();
   }
@@ -18,17 +18,17 @@ std::string Generative_Ai::generateSentence(int targetSentenceCount, const int p
   this->finalWord = currentPrompt + " ";
   std::vector<std::string> promptVector = partitionPrompt(currentPrompt);
   std::cout << "working on it...\n";
-  while (this->depth < 100000000) {
+  while (this->depth < 10000000) {
     if (currentIndex == fileData.size() - 1) {
-      if (numberOfPassthroughs > 0) {
-        numberOfPassthroughs--;
+      if (passthroughs > 0) {
+        passthroughs--;
         currentIndex = 0;
         File::shuffleFileData(&fileData);
       } else {
         return "All lines used";
       }
     }
-    if (this->number_of_completed_Sentences >= targetSentenceCount) {
+    if (this->number_of_completed_Sentences >= sentenceCount) {
       return "Success";
     }
     if (!useUniqueLines) {
@@ -60,16 +60,19 @@ std::string Generative_Ai::generateSentence(int targetSentenceCount, const int p
       promptVector.clear();
       this->number_of_completed_Sentences++;
     }
-
-    nextWord = removeSpecialCharacters(nextWord);
-    if (promptVector.size() == promptMaxWordLength) {
-      promptVector.erase(promptVector.begin());
+    if (!usePunctuation) {
+      nextWord = removeSpecialCharacters(nextWord);
     }
 
+    while (promptVector.size() >= promptWordLength) {
+      promptVector.erase(promptVector.begin());
+    }
     promptVector.push_back(nextWord);
 
-    this->currentPrompt = constructCurrentPrompt(promptVector, promptMaxWordLength);
+    this->currentPrompt = constructCurrentPrompt(promptVector, promptWordLength);
     // std::cout << "new current prompt: " << this->currentPrompt << "\n";
+    //  std::cout << "Next Word NOW: " << nextWord << "\n";
+
     this->finalWord += nextWord + " ";
     // std::cout << "Final Word: " << this->finalWord << "\n";
     this->depth++;
