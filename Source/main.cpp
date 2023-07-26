@@ -11,6 +11,12 @@
 #include <string>
 #include <vector>
 
+// TODO take the available indexs and then randomize from that
+// TODO improve the algorithm to increase speed
+// TODO randomize the data somehow and have incremental access of the data
+// TODO make this multi Threaded
+// TODO Atomic hash table
+
 #include "../Header/File.h"
 #include "../Header/Generative_Ai.h"
 
@@ -36,7 +42,7 @@ int main() {
 
   Generative_Ai generativeAi;
 
-  std::string finalSentence = generativeAi.generateSentence(1, 1, false, fileData);
+  std::string finalSentence = generativeAi.generateSentence(1, 2, false, fileData);
 
   if (finalSentence == "Depth Exceeded") {
     std::cout << "\x1B[31mDepth Exceeded\033[0m\t\t\n";

@@ -118,11 +118,10 @@ std::string Generative_Ai::getRandomLine(std::vector<std::string> &fileData, boo
   }
   do {
     index = generateRandomIndex(0, fileData.size() - 1);
-  } while (std::find(this->usedIndices.begin(), this->usedIndices.end(), index) != usedIndices.end());
-  usedIndices.push_back(index);
-  this->randomLine = fileData.at(index);
+  } while (std::find(this->usedIndices.begin(), this->usedIndices.end(), index) != this->usedIndices.end());
+  usedIndices.insert(index);
 
-  return this->randomLine;
+  return fileData.at(index);
 }
 
 void Generative_Ai::eraseFirstWord(std::string &str) {

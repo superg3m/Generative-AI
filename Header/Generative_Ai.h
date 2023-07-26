@@ -16,6 +16,7 @@
 
 #include <algorithm>
 #include <iostream>
+#include <set>
 #include <sstream>
 #include <string>
 #include <vector>
@@ -65,5 +66,5 @@ class Generative_Ai {
   std::string randomLine;
   std::string finalWord;
   int number_of_completed_Sentences;
-  std::vector<int> usedIndices;  // New member variable to keep track of used line indices
+  std::set<int> usedIndices;  // New member variable to keep track of used line indices
 };
