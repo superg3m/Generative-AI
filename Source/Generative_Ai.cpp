@@ -111,6 +111,7 @@ int Generative_Ai::generateRandomIndex(const int min, const int max) {
 }
 
 std::string Generative_Ai::getRandomLine(std::vector<std::string> &fileData, bool useUniqueLines) {
+  // This is the problem
   int index;
   if (!useUniqueLines) {
     index = generateRandomIndex(0, fileData.size() - 1);
