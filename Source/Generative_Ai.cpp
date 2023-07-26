@@ -9,35 +9,45 @@ Generative_Ai::Generative_Ai() {
   this->number_of_completed_Sentences = 0;
 }
 
-std::string Generative_Ai::generateSentence(int targetSentenceCount, const int promptMaxWordLength, bool useUniqueLines, std::vector<std::string> &fileData) {
-  std::string userPrompt = getUserPrompt();
-  this->finalWord = userPrompt + " ";
-  std::vector<std::string> promptVector = partitionPrompt(userPrompt);
+std::string Generative_Ai::generateSentence(int targetSentenceCount, const int promptMaxWordLength, bool useUniqueLines, int numberOfPassthroughs, std::vector<std::string> &fileData) {
+  if (currentPrompt.empty()) {
+    this->currentPrompt = getUserPrompt();
+  }
   std::string nextWord;
-
   int foundIndex;
-
-  this->currentPrompt = constructCurrentPrompt(promptVector, promptMaxWordLength);
+  this->finalWord = currentPrompt + " ";
+  std::vector<std::string> promptVector = partitionPrompt(currentPrompt);
   std::cout << "working on it...\n";
   while (this->depth < 100000000) {
-    if (this->usedIndices.size() == fileData.size()) {
-      return "All lines used";
+    if (currentIndex == fileData.size() - 1) {
+      if (numberOfPassthroughs > 0) {
+        numberOfPassthroughs--;
+        currentIndex = 0;
+        File::shuffleFileData(&fileData);
+      } else {
+        return "All lines used";
+      }
     }
     if (this->number_of_completed_Sentences >= targetSentenceCount) {
-      return this->finalWord;
+      return "Success";
     }
-    this->randomLine = getRandomLine(fileData, useUniqueLines);
+    if (!useUniqueLines) {
+      this->randomLine = getRandomLine(fileData);
+    } else {
+      this->randomLine = fileData.at(this->currentIndex);
+      this->currentIndex++;
+    }
 
     foundIndex = this->randomLine.find(currentPrompt);
     nextWord.clear();
     nextWord = getNextWord(foundIndex);
 
     if (foundIndex != std::string::npos) {
-      printf("\n");
-      std::cout << "foundIndex: " << foundIndex << "\n";
-      std::cout << "Next Word: " << nextWord << "\n";
-      std::cout << "Current Prompt: " << this->currentPrompt << "\n";
-      std::cout << "Random Line: " << this->randomLine << "\n";
+      // printf("\n");
+      // std::cout << "foundIndex: " << foundIndex << "\n";
+      // std::cout << "Next Word: " << nextWord << "\n";
+      // std::cout << "Current Prompt: " << this->currentPrompt << "\n";
+      // std::cout << "Random Line: " << this->randomLine << "\n";
     }
 
     if (nextWord == "FAILED") {
@@ -46,7 +56,7 @@ std::string Generative_Ai::generateSentence(int targetSentenceCount, const int p
     }
 
     if (nextWord.find('.') != std::string::npos || nextWord.find('!') != std::string::npos || nextWord.find('?') != std::string::npos) {
-      std::cout << "Sentence Completed\n";
+      // std::cout << "Sentence Completed\n";
       promptVector.clear();
       this->number_of_completed_Sentences++;
     }
@@ -59,13 +69,14 @@ std::string Generative_Ai::generateSentence(int targetSentenceCount, const int p
     promptVector.push_back(nextWord);
 
     this->currentPrompt = constructCurrentPrompt(promptVector, promptMaxWordLength);
-    std::cout << "new current prompt: " << this->currentPrompt << "\n";
+    // std::cout << "new current prompt: " << this->currentPrompt << "\n";
     this->finalWord += nextWord + " ";
-    std::cout << "Final Word: " << this->finalWord << "\n";
+    // std::cout << "Final Word: " << this->finalWord << "\n";
     this->depth++;
     nextWord = "";
   }
   this->depth = 0;
+  this->currentIndex = 0;
   return "Depth Exceeded";
 }
 
@@ -80,6 +91,16 @@ std::string Generative_Ai::constructCurrentPrompt(std::vector<std::string> &prom
   }
 
   return ret;
+}
+
+void Generative_Ai::resetValues() {
+  this->depth = 0;
+  this->currentPrompt = "";
+  this->randomLine = "";
+  this->number_of_completed_Sentences = 0;
+  this->finalWord = "";
+  this->currentIndex = 0;
+  return;
 }
 
 std::vector<std::string> Generative_Ai::partitionPrompt(const std::string &prompt) {
@@ -99,7 +120,7 @@ std::vector<std::string> Generative_Ai::partitionPrompt(const std::string &promp
 std::string Generative_Ai::removeSpecialCharacters(const std::string &input) {
   std::string result = "";
   for (char c : input) {
-    if (c != '"' && c != '(' && c != ')' && c != '*' && c != ',') {  // Removing the comma is a temporary fix
+    if (c != '"' && c != '(' && c != ')' && c != '*' && c != ',' && c != '[' && c != ']') {  // Removing the comma is a temporary fix
       result += c;
     }
   }
@@ -110,18 +131,10 @@ int Generative_Ai::generateRandomIndex(const int min, const int max) {
   return rand() % (max - min + 1) + min;
 }
 
-std::string Generative_Ai::getRandomLine(std::vector<std::string> &fileData, bool useUniqueLines) {
+std::string Generative_Ai::getRandomLine(std::vector<std::string> &fileData) {
   // This is the problem
-  int index;
-  if (!useUniqueLines) {
-    index = generateRandomIndex(0, fileData.size() - 1);
-    return fileData.at(index);
-  }
-  do {
-    index = generateRandomIndex(0, fileData.size() - 1);
-  } while (std::find(this->usedIndices.begin(), this->usedIndices.end(), index) != this->usedIndices.end());
-  usedIndices.insert(index);
 
+  int index = generateRandomIndex(0, fileData.size() - 1);
   return fileData.at(index);
 }
 
@@ -151,7 +164,7 @@ std::string Generative_Ai::getFirstWord(const std::string &str) {
   return "FAILED";
 }
 
-std::string Generative_Ai::getNextWord(int &foundIndex) {
+std::string Generative_Ai::getNextWord(int &foundIndex) {  // Has an critical issue where The will pick up Then and other words that contain a substring of the prompt
   std::string ret;
 
   if (this->randomLine.empty() || currentPrompt.empty()) {

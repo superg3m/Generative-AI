@@ -1,7 +1,7 @@
 #include "../Header/File.h"
 
-File::File(std::vector<std::string>* textData) {
-  this->textData = textData;
+File::File(std::vector<std::string>* fileData) {
+  this->fileData = fileData;
 }
 
 void File::addFileData(const std::string& fileName) {
@@ -56,7 +56,7 @@ void File::format_and_save_text_data(const std::string& fileName) {
   while (std::getline(file, line)) {
     line = removeSmartCharacters(line);  // Doesn't work at all for some reason
     if (!line.empty()) {
-      this->textData->push_back(line);
+      this->fileData->push_back(line);
     }
   }
 

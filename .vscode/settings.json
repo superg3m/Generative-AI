@@ -51,7 +51,9 @@
         "regex": "cpp",
         "codecvt": "cpp",
         "ratio": "cpp",
-        "iomanip": "cpp"
+        "iomanip": "cpp",
+        "set": "cpp",
+        "filesystem": "cpp"
     },
     "python.analysis.typeCheckingMode": "basic"
 }

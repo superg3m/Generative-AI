@@ -48,7 +48,7 @@ def get_files_in_directory(directory_path):
 if __name__ == "__main__":
     directory_path = "../Archive"
   
-    files = get_files_in_directory("../Archive")
+    files = get_files_in_directory(directory_path)
   
     if files:
       print("Files in the directory (relative paths):")
