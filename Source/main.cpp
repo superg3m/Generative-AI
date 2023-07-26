@@ -11,9 +11,7 @@
 #include <string>
 #include <vector>
 
-// TODO take the available indexs and then randomize from that
-// TODO improve the algorithm to increase speed
-// TODO randomize the data somehow and have incremental access of the data
+// Look to see if Generators are viable
 // TODO make this multi Threaded
 // TODO Atomic hash table
 
