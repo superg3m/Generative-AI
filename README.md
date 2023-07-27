@@ -18,9 +18,9 @@ This is my take on a generative AI. It generates text based on a given dataset u
 
 ## Requirements
 
-- g++
-- gdb (if you want to debug)
-- python
+- g++ [Download here](https://code.visualstudio.com/docs/languages/cpp)
+- gdb (if you want to debug) [Download here](https://code.visualstudio.com/docs/languages/cpp)
+- python [Download here](https://www.python.org/downloads/)
 
 ## Getting Started
 
