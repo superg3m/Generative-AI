@@ -1,46 +1,47 @@
-## ---- Description ----
+# My Generative AI Project
 
-This is my take on a generative AI  
-special thanks to **Leo C. Ureel II** at MTU for prompting this idea
+## Description
 
-## ---- Requirements ----
+This is my take on a generative AI. It generates text based on a given dataset using various algorithms.
+
+## Requirements
 
 - g++
 - gdb (if you want to debug)
 - python
 
-## ---- commands to get started ----
+## Getting Started
 
-### install external dependencies
+### Install External Dependencies
 
-1. `mkdir ../CFileRunner` <button onclick="copyToClipboard('mkdir ../CFileRunner')">Copy</button>
-2. `git clone https://github.com/superg3m/CFileRunner.git ../CFileRunner` <button onclick="copyToClipboard('git clone https://github.com/superg3m/CFileRunner.git ../CFileRunner')">Copy</button>
+1. `mkdir ../CFileRunner`
+2. `git clone https://github.com/superg3m/CFileRunner.git ../CFileRunner`
 
-### running the program
+### Running the Program
 
-- `powershell -ExecutionPolicy Bypass -File ../CFileRunner/RunC.ps1` <button onclick="copyToClipboard('powershell -ExecutionPolicy Bypass -File ../CFileRunner/RunC.ps1')">Copy</button>
+- `powershell -ExecutionPolicy Bypass -File ../CFileRunner/RunC.ps1`
 
-### Debug the program
+### Debugging the Program
 
-- `powershell -ExecutionPolicy Bypass -File ../CFileRunner/DebugC.ps1` <button onclick="copyToClipboard('powershell -ExecutionPolicy Bypass -File ../CFileRunner/DebugC.ps1')">Copy</button>
+- `powershell -ExecutionPolicy Bypass -File ../CFileRunner/DebugC.ps1`
 
 ### Alternatively
 
-- `compile and run/debug the program using g++/gdb`
+- Compile and run/debug the program using g++/gdb.
 
-### Optional Step 3 for more data
+### Optional Step 3 for More Data
 
-1. `python .\PythonScripts\WebScrapper.py` <button onclick="copyToClipboard('python .\PythonScripts\WebScrapper.py')">Copy</button>
-2. `python .\PythonScripts\FormatTxtFiles.py` <button onclick="copyToClipboard('python .\PythonScripts\FormatTxtFiles.py')">Copy</button>
+1. `python .\PythonScripts\WebScrapper.py`
+2. `python .\PythonScripts\FormatTxtFiles.py`
 
-<script>
-  function copyToClipboard(command) {
-    const el = document.createElement("textarea");
-    el.value = command;
-    document.body.appendChild(el);
-    el.select();
-    document.execCommand("copy");
-    document.body.removeChild(el);
-    alert("Command copied to clipboard!");
-  }
-</script>
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Contact
+
+For questions or support, you can reach to me at jovannidstudent@gmail.com.
+
+## Acknowledgments
+
+Special thanks to **Leo C. Ureel II** at MTU for prompting this idea.
