@@ -35,10 +35,10 @@ int main() {
 
   std::vector<std::string> fileData;
   File file(&fileData);
-  // file.addFileData("../SmallSampleData/Frankenstein.txt");
+  file.addFileData("../SmallSampleData/Frankenstein.txt");
   // file.loadALlFilesInDirectory("../FileOutput");
   // file.loadALlFilesInDirectory("../MediumDataSet");
-  file.loadALlFilesInDirectory("../SmallSampleData");
+  // file.loadALlFilesInDirectory("../SmallSampleData");
 
   std::cout << "SIZE: " << fileData.size() << "\n";
 

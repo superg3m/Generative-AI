@@ -124,7 +124,7 @@ std::vector<std::string> Generative_Ai::partitionPrompt(const std::string &promp
 std::string Generative_Ai::removeSpecialCharacters(const std::string &input) const {
   std::string result = "";
   for (char c : input) {
-    if (c != '"' && c != '(' && c != ')' && c != '*' && c != '[' && c != ']' && c != '&') {  // Removing the comma is a temporary fix
+    if (c != '"' && c != '(' && c != ')' && c != '*' && c != '[' && c != ']' && c != '&' && c != '_') {  // Removing the comma is a temporary fix
       result += c;
     }
   }
