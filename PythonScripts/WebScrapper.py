@@ -1,7 +1,7 @@
 import os
 import requests
 
-for index in range(1, 500):
+for index in range(1, 250):
   URL = f"https://www.gutenberg.org/cache/epub/{index}/pg{index}.txt"
   page = requests.get(URL)
 
