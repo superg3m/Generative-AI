@@ -18,7 +18,7 @@ std::string Generative_Ai::generateSentence(int sentenceCount, const int promptW
   this->finalWord = currentPrompt + " ";
   std::vector<std::string> promptVector = partitionPrompt(currentPrompt);
   std::cout << "working on it...\n";
-  while (this->depth < 10000000) {
+  while (this->depth < 100000000) {
     if (currentIndex == fileData.size() - 1) {
       if (passthroughs > 0) {
         passthroughs--;
@@ -82,7 +82,7 @@ std::string Generative_Ai::generateSentence(int sentenceCount, const int promptW
   return "\x1B[31mDepth Exceeded\033[0m\t\t";
 }
 
-std::string Generative_Ai::constructCurrentPrompt(std::vector<std::string> &promptVector, const int promptMaxWordLength) const {
+std::string Generative_Ai::constructCurrentPrompt(const std::vector<std::string> &promptVector, const int promptMaxWordLength) const {
   std::string ret = "";
 
   for (int i = 0; i < promptMaxWordLength; i++) {

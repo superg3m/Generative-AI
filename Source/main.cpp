@@ -19,6 +19,7 @@
 #include "../Header/Generative_Ai.h"
 
 int main() {
+  /*
 #pragma region python
   const char* python_script = "python ../PythonScripts/FormatTxtFiles.py";
 
@@ -30,22 +31,25 @@ int main() {
     std::cerr << "Error executing Python script." << std::endl;
   }
 #pragma endregion
+  */
 
   std::vector<std::string> fileData;
   File file(&fileData);
-  file.addFileData("../FileOutput/Frankenstein.txt");
+  // file.addFileData("../FileOutput/Frankenstein.txt");
   // file.loadALlFilesInDirectory("../FileOutput");
+  // file.loadALlFilesInDirectory("../MediumDataSet");
+  file.loadALlFilesInDirectory("../SmallSampleData");
 
   std::cout << "SIZE: " << fileData.size() << "\n";
 
   int success;
 
   int total = 10;
-  int sentenceCount = 1;
+  int sentenceCount = 2;
   int promptWordLength = 3;
   bool useUniqueLines = true;
   bool usePunctuation = true;
-  int numberOfPassthroughs = 25;
+  int numberOfPassthroughs = 5;
 
   float successRate;
 

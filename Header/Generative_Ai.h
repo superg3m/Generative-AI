@@ -20,7 +20,7 @@ class Generative_Ai {
 
   std::vector<std::string> partitionPrompt(const std::string &prompt) const;
 
-  std::string constructCurrentPrompt(std::vector<std::string> &promptVector, const int promptMaxWordLength) const;
+  std::string constructCurrentPrompt(const std::vector<std::string> &promptVector, const int promptMaxWordLength) const;
 
   std::string getRandomLine(const std::vector<std::string> &fileData) const;
 
