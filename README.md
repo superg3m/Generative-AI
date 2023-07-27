@@ -4,6 +4,18 @@
 
 This is my take on a generative AI. It generates text based on a given dataset using various algorithms.
 
+#### ----- Rules of the Generative AI program -----
+
+1. Ask the user for a one word prompt.
+2. Start a sentence with the prompt word.
+3. Repeat until the word ends with a period, question mark, or exclamation point:
+4. Open the book to a random location.
+5. Read words until you find the prompt word.
+6. Choose the next word.
+7. add the word to the end of the sentence.
+8. This word becomes the next prompt.
+9. When the loop exits, print the sentence.
+
 ## Requirements
 
 - g++
