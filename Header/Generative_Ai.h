@@ -14,33 +14,33 @@ class Generative_Ai {
  public:
   Generative_Ai();
 
-  std::string generateSentence(int sentenceCount, const int promptWordLength, bool useUniqueLines, bool usePunctuation, int passthroughs, std::vector<std::string> &fileData);
+  std::string generateSentence(int sentenceCount, const int promptWordLength, const bool useUniqueLines, const bool usePunctuation, int passthroughs, std::vector<std::string> &fileData);
 
   void resetValues();
 
-  std::vector<std::string> partitionPrompt(const std::string &prompt);
+  std::vector<std::string> partitionPrompt(const std::string &prompt) const;
 
-  std::string constructCurrentPrompt(std::vector<std::string> &promptVector, int promptMaxWordLength);
+  std::string constructCurrentPrompt(std::vector<std::string> &promptVector, const int promptMaxWordLength) const;
 
-  std::string getRandomLine(std::vector<std::string> &fileData);
+  std::string getRandomLine(const std::vector<std::string> &fileData) const;
 
-  std::string removeSpecialCharacters(const std::string &input);
+  std::string removeSpecialCharacters(const std::string &input) const;
 
-  std::string getUserPrompt();
+  std::string getUserPrompt() const;
 
-  std::string getFirstWord(const std::string &str);
+  std::string getFirstWord(const std::string &str) const;
 
-  std::string getNextWord(int &foundIndex);
+  std::string getNextWord(int &foundIndex) const;
 
-  std::string getCurrentPrompt();
+  std::string getCurrentPrompt() const;
 
-  std::string getCurrentLine();
+  std::string getCurrentLine() const;
+
+  int getDepth() const;
 
   void setUserPrompt();
 
   void setDepth(const int depth);
-
-  int getDepth();
 
   void setCurrentPrompt(const std::string &prompt);
 
@@ -49,8 +49,8 @@ class Generative_Ai {
   std::string getFinalWord();
 
  private:
-  int generateRandomIndex(int min, int max);
-  void eraseFirstWord(std::string &str);
+  int generateRandomIndex(int min, int max) const;
+  void eraseFirstWord(std::string &str) const;
 
   int depth;
   std::string currentPrompt;

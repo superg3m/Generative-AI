@@ -26,7 +26,7 @@ class File {
   }
 
  private:
-  std::string removeSmartCharacters(const std::string& input);
+  std::string removeSmartCharacters(const std::string& input) const;
 
   void format_and_save_text_data(const std::string& fileName);
 

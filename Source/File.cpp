@@ -23,7 +23,7 @@ void File::loadALlFilesInDirectory(const std::string& directory) {
   }
 }
 
-std::string File::removeSmartCharacters(const std::string& input) {  // Doesn't work at all for some reason
+std::string File::removeSmartCharacters(const std::string& input) const {  // Doesn't work at all for some reason
   std::string result;
   for (char c : input) {
     if (c == '’') {  // Smart single quote
