@@ -29,7 +29,7 @@ This is my take on a generative AI. It generates text based on a given dataset u
 
 - Compile and run/debug the program using g++/gdb.
 
-### Optional Step 3 for More Data
+### For More Data (Optional)
 
 1. `python .\PythonScripts\WebScrapper.py`
 2. `python .\PythonScripts\FormatTxtFiles.py`
