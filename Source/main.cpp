@@ -49,7 +49,7 @@ int main() {
   int promptWordLength = 3;
   bool useUniqueLines = true;
   bool useSpecialChars = false;
-  int numberOfPassthroughs = 20;
+  int numberOfPassthroughs = 15;
 
   float successRate;
 

@@ -1,32 +1,33 @@
-### Description
+## ---- Description ----
 
-- Generative AI
+This is my take on a generative AI  
+special thanks to **Leo C. Ureel II** at MTU for prompting this idea
 
-### Requirements
+## ---- Requirements ----
 
 - g++
 - gdb (if you want to debug)
 - python
 
-### commands to get started
+## ---- commands to get started ----
 
-#### Step 1 -> install external dependencies
+### install external dependencies
 
-1. git clone https://github.com/superg3m/CFileRunner.git ..
+- `git clone https://github.com/superg3m/CFileRunner.git ..`
 
-#### running the program
+### running the program
 
-- powershell -ExecutionPolicy Bypass -File ../CFileRunner/RunC.ps1
+- `powershell -ExecutionPolicy Bypass -File ../CFileRunner/RunC.ps1`
 
-##### Debug the program
+### Debug the program
 
-- powershell -ExecutionPolicy Bypass -File ../CFileRunner/DebugC.ps1
+- `powershell -ExecutionPolicy Bypass -File ../CFileRunner/DebugC.ps1`
 
-#### Alternatively
+### Alternatively
 
-- compile and run/debug the program using g++/gdb
+- `compile and run/debug the program using g++/gdb`
 
-#### Optional Step 3 for more data
+### Optional Step 3 for more data
 
-- python .\PythonScripts\WebScrapper.py
-- python .\PythonScripts\FormatTxtFiles.py
+1. `python .\PythonScripts\WebScrapper.py`
+2. `python .\PythonScripts\FormatTxtFiles.py`
