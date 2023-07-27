@@ -54,7 +54,7 @@ void File::format_and_save_text_data(const std::string& fileName) {
     exit(1);
   }
   while (std::getline(file, line)) {
-    line = removeSmartCharacters(line);  // Doesn't work at all for some reason
+    // line = removeSmartCharacters(line);  // Doesn't work at all for some reason
     if (!line.empty()) {
       this->fileData->push_back(line);
     }

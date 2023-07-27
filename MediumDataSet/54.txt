@@ -28,11 +28,11 @@ Author's Note
 
 
 
-After the publication of “The Wonderful Wizard of OZ” I began to
+After the publication of "The Wonderful Wizard of OZ” I began to
 
 receive letters from children, telling me of their pleasure in reading
 
-the story and asking me to “write something more” about the Scarecrow
+the story and asking me to "write something more” about the Scarecrow
 
 and the Tin Woodman. At first I considered these little letters, frank
 
@@ -44,7 +44,7 @@ the letters continued to come during succeeding months, and even years.
 
 Finally I promised one little girl, who made a long journey to see me
 
-and prefer her request,—and she is a “Dorothy,” by the way—that when a
+and prefer her request,—and she is a "Dorothy,” by the way—that when a
 
 thousand little girls had written me a thousand little letters asking
 
@@ -52,7 +52,7 @@ for the Scarecrow and the Tin Woodman I would write the book, Either
 
 little Dorothy was a fairy in disguise, and waved her magic wand, or
 
-the success of the stage production of “The Wizard of OZ” made new
+the success of the stage production of "The Wizard of OZ” made new
 
 friends for the story, For the thousand letters reached their
 
@@ -162,7 +162,7 @@ Oz, lived a youth called Tip. There was more to his name than that, for
 
 old Mombi often declared that his whole name was Tippetarius; but no
 
-one was expected to say such a long word when “Tip” would do just as
+one was expected to say such a long word when "Tip” would do just as
 
 well.
 
@@ -248,7 +248,7 @@ that the four-horned cow might eat of them in the winter time. But one
 
 day, after the corn had all been cut and stacked, and Tip was carrying
 
-the pumpkins to the stable, he took a notion to make a “Jack Lantern”
+the pumpkins to the stable, he took a notion to make a "Jack Lantern”
 
 and try to give the old woman a fright with it.
 
@@ -274,7 +274,7 @@ expression, that even Tip laughed as he looked admiringly at his work.
 
 The child had no playmates, so he did not know that boys often dig out
 
-the inside of a “pumpkin-jack,” and in the space thus made put a
+the inside of a "pumpkin-jack,” and in the space thus made put a
 
 lighted candle to render the face more startling; but he conceived an
 
@@ -286,7 +286,7 @@ stand it in a place where old Mombi would meet it face to face.
 
 
 
-“And then,” said Tip to himself, with a laugh, “she'll squeal louder
+"And then,” said Tip to himself, with a laugh, "she'll squeal louder
 
 than the brown pig does when I pull her tail, and shiver with fright
 
@@ -372,7 +372,7 @@ any position he desired.
 
 
 
-“Now, that,” declared Tip, proudly, “is really a very fine man, and it
+"Now, that,” declared Tip, proudly, "is really a very fine man, and it
 
 ought to frighten several screeches out of old Mombi! But it would be
 
@@ -400,9 +400,9 @@ laughed aloud in boyish ecstacy.
 
 
 
-“I must give him a name!” he cried. “So good a man as this must surely
+"I must give him a name!” he cried. "So good a man as this must surely
 
-have a name. I believe,” he added, after a moment's thought, “I will
+have a name. I believe,” he added, after a moment's thought, "I will
 
 name the fellow ‘Jack Pumpkinhead!'”
 
@@ -454,7 +454,7 @@ on, and it pleased him to test the cleverness of his workmanship.
 
 
 
-“Jack's all right, and works fine!” he said to himself, panting with
+"Jack's all right, and works fine!” he said to himself, panting with
 
 the unusual exertion. But just then he discovered the man's left arm
 
@@ -508,7 +508,7 @@ nodded and said:
 
 
 
-“Good evening, sir.”
+"Good evening, sir.”
 
 
 
@@ -520,7 +520,7 @@ elaborately carved by Tip's jack-knife.
 
 
 
-“Heh!” ejaculated Mombi, giving a sort of grunt; “that rascally boy has
+"Heh!” ejaculated Mombi, giving a sort of grunt; "that rascally boy has
 
 been playing tricks again! Very good! ve—ry _good!_ I'll beat him
 
@@ -536,9 +536,9 @@ motionless in the air.
 
 
 
-“Why, here is a good chance to try my new powder!” said she, eagerly.
+"Why, here is a good chance to try my new powder!” said she, eagerly.
 
-“And then I can tell whether that crooked wizard has fairly traded
+"And then I can tell whether that crooked wizard has fairly traded
 
 secrets, or whether he has fooled me as wickedly as I fooled him.”
 
@@ -574,11 +574,11 @@ lead-pencil:
 
 
 
-“Powder of Life.”
+"Powder of Life.”
 
 
 
-“Ah—here it is!” she cried, joyfully. “And now let us see if it is
+"Ah—here it is!” she cried, joyfully. "And now let us see if it is
 
 potent. The stingy wizard didn't give me much of it, but I guess
 
@@ -612,7 +612,7 @@ left hand, with its little finger pointed upward, and said:
 
 
 
-“Weaugh!”
+"Weaugh!”
 
 
 
@@ -622,7 +622,7 @@ said:
 
 
 
-“Teaugh!”
+"Teaugh!”
 
 
 
@@ -632,7 +632,7 @@ and cried:
 
 
 
-“Peaugh!”
+"Peaugh!”
 
 
 
@@ -642,7 +642,7 @@ reproachful voice:
 
 
 
-“Don't yell like that! Do you think I'm deaf?”
+"Don't yell like that! Do you think I'm deaf?”
 
 
 
@@ -650,7 +650,7 @@ Old Mombi danced around him, frantic with delight.
 
 
 
-“He lives!” she screamed: “He lives! he lives!”
+"He lives!” she screamed: "He lives! he lives!”
 
 
 
@@ -662,7 +662,7 @@ and all the time she repeated, rapturously:
 
 
 
-“He lives!—he lives!—he lives!”
+"He lives!—he lives!—he lives!”
 
 
 
@@ -690,19 +690,19 @@ man.
 
 
 
-“You naughty, sneaking, wicked boy!” she exclaimed, furiously: “I'll
+"You naughty, sneaking, wicked boy!” she exclaimed, furiously: "I'll
 
 teach you to spy out my secrets and to make fun of me!”
 
 
 
-“I wasn't making fun of you,” protested Tip. “I was laughing at old
+"I wasn't making fun of you,” protested Tip. "I was laughing at old
 
 Pumpkinhead! Look at him! Isn't he a picture, though?”
 
 
 
-“I hope you are not reflecting on my personal appearance,” said Jack;
+"I hope you are not reflecting on my personal appearance,” said Jack;
 
 and it was so funny to hear his grave voice, while his face continued
 
@@ -722,11 +722,11 @@ asked:
 
 
 
-“What do you know?”
+"What do you know?”
 
 
 
-“Well, that is hard to tell,” replied Jack. “For although I feel that I
+"Well, that is hard to tell,” replied Jack. "For although I feel that I
 
 know a tremendous lot, I am not yet aware how much there is in the
 
@@ -736,33 +736,33 @@ whether I am very wise or very foolish.”
 
 
 
-“To be sure,” said Mombi, thoughtfully.
+"To be sure,” said Mombi, thoughtfully.
 
 
 
-“But what are you going to do with him, now he is alive?” asked Tip,
+"But what are you going to do with him, now he is alive?” asked Tip,
 
 wondering.
 
 
 
-“I must think it over,” answered Mombi. “But we must get home at once,
+"I must think it over,” answered Mombi. "But we must get home at once,
 
 for it is growing dark. Help the Pumpkinhead to walk.”
 
 
 
-“Never mind me,” said Jack; “I can walk as well as you can. Haven't I
+"Never mind me,” said Jack; "I can walk as well as you can. Haven't I
 
 got legs and feet, and aren't they jointed?”
 
 
 
-“Are they?” asked the woman, turning to Tip.
+"Are they?” asked the woman, turning to Tip.
 
 
 
-“Of course they are; I made 'em myself,” returned the boy, with pride.
+"Of course they are; I made 'em myself,” returned the boy, with pride.
 
 
 
@@ -774,7 +774,7 @@ stall, fastening the door securely on the outside.
 
 
 
-“I've got to attend to you, first,” she said, nodding her head at Tip.
+"I've got to attend to you, first,” she said, nodding her head at Tip.
 
 
 
@@ -808,11 +808,11 @@ a share of the bread and cheese; but Mombi refused him.
 
 
 
-“I'm hungry!” said Tip, in a sulky tone.
+"I'm hungry!” said Tip, in a sulky tone.
 
 
 
-“You won't be hungry long,” replied Mombi, with a grim look.
+"You won't be hungry long,” replied Mombi, with a grim look.
 
 
 
@@ -842,11 +842,11 @@ As Tip watched her his uneasiness increased.
 
 
 
-“What is that for?” he asked.
+"What is that for?” he asked.
 
 
 
-“For you,” returned Mombi, briefly.
+"For you,” returned Mombi, briefly.
 
 
 
@@ -870,19 +870,19 @@ Finally, Tip spoke again.
 
 
 
-“Have I got to drink that stuff?” he asked, nodding toward the pot.
+"Have I got to drink that stuff?” he asked, nodding toward the pot.
 
 
 
-“Yes,” said Mombi.
+"Yes,” said Mombi.
 
 
 
-“What'll it do to me?” asked Tip.
+"What'll it do to me?” asked Tip.
 
 
 
-“If it's properly made,” replied Mombi, “it will change or transform
+"If it's properly made,” replied Mombi, "it will change or transform
 
 you into a marble statue.”
 
@@ -894,7 +894,7 @@ sleeve.
 
 
 
-“I don't want to be a marble statue!” he protested.
+"I don't want to be a marble statue!” he protested.
 
 
 
@@ -902,19 +902,19 @@ sleeve.
 
 
 
-“That doesn't matter I want you to be one,” said the old woman, looking
+"That doesn't matter I want you to be one,” said the old woman, looking
 
 at him severely.
 
 
 
-“What use'll I be then?” asked Tip. “There won't be any one to work for
+"What use'll I be then?” asked Tip. "There won't be any one to work for
 
 you.”
 
 
 
-“I'll make the Pumpkinhead work for me,” said Mombi.
+"I'll make the Pumpkinhead work for me,” said Mombi.
 
 
 
@@ -922,13 +922,13 @@ Again Tip groaned.
 
 
 
-“Why don't you change me into a goat, or a chicken?” he asked,
+"Why don't you change me into a goat, or a chicken?” he asked,
 
-anxiously. “You can't do anything with a marble statue.”
+anxiously. "You can't do anything with a marble statue.”
 
 
 
-“Oh, yes, I can,” returned Mombi. “I'm going to plant a flower garden,
+"Oh, yes, I can,” returned Mombi. "I'm going to plant a flower garden,
 
 next Spring, and I'll put you in the middle of it, for an ornament. I
 
@@ -946,13 +946,13 @@ the kettle.
 
 
 
-“Perhaps it won't work,” he mutttered, in a voice that sounded weak and
+"Perhaps it won't work,” he mutttered, in a voice that sounded weak and
 
 discouraged.
 
 
 
-“Oh, I think it will,” answered Mombi, cheerfully. “I seldom make a
+"Oh, I think it will,” answered Mombi, cheerfully. "I seldom make a
 
 mistake.”
 
@@ -966,11 +966,11 @@ midnight.
 
 
 
-“You cannot drink it until it has become quite cold,” announced the old
+"You cannot drink it until it has become quite cold,” announced the old
 
 witch for in spite of the law she had acknowledged practising
 
-witchcraft. “We must both go to bed now, and at daybreak I will call
+witchcraft. "We must both go to bed now, and at daybreak I will call
 
 you and at once complete your transformation into a marble statue.”
 
@@ -1012,9 +1012,9 @@ Tip reflected.
 
 
 
-“It's a hard thing, to be a marble statue,” he thought, rebelliously,
+"It's a hard thing, to be a marble statue,” he thought, rebelliously,
 
-“and I'm not going to stand it. For years I've been a bother to her,
+"and I'm not going to stand it. For years I've been a bother to her,
 
 she says; so she's going to get rid of me. Well, there's an easier way
 
@@ -1032,7 +1032,7 @@ something to eat.
 
 
 
-“No use starting on a journey without food,” he decided, searching upon
+"No use starting on a journey without food,” he decided, searching upon
 
 the narrow shelves.
 
@@ -1044,11 +1044,11 @@ to find the cheese she had brought from the village. While turning over
 
 the contents of the basket he came upon the pepper-box which contained
 
-the “Powder of Life.”
+the "Powder of Life.”
 
 
 
-“I may as well take this with me,” he thought, “or Mombi'll be using it
+"I may as well take this with me,” he thought, "or Mombi'll be using it
 
 to make more mischief with.” So he put the box in his pocket, together
 
@@ -1064,7 +1064,7 @@ peaceful and inviting after the close and ill-smelling kitchen.
 
 
 
-“I'll be glad to get away,” said Tip, softly; “for I never did like
+"I'll be glad to get away,” said Tip, softly; "for I never did like
 
 that old woman. I wonder how I ever came to live with her.”
 
@@ -1074,9 +1074,9 @@ He was walking slowly toward the road when a thought made him pause.
 
 
 
-“I don't like to leave Jack Pumpkinhead to the tender mercies of old
+"I don't like to leave Jack Pumpkinhead to the tender mercies of old
 
-Mombi,” he muttered. “And Jack belongs to me, for I made him even if
+Mombi,” he muttered. "And Jack belongs to me, for I made him even if
 
 the old witch did bring him to life.”
 
@@ -1094,25 +1094,25 @@ could see he was smiling just as jovially as ever.
 
 
 
-“Come on!” said the boy, beckoning.
+"Come on!” said the boy, beckoning.
 
 
 
-“Where to?” asked Jack.
+"Where to?” asked Jack.
 
 
 
-“You'll know as soon as I do,” answered Tip, smiling sympathetically
+"You'll know as soon as I do,” answered Tip, smiling sympathetically
 
 into the pumpkin face.
 
 
 
-“All we've got to do now is to tramp.”
+"All we've got to do now is to tramp.”
 
 
 
-“Very well,” returned Jack, and walked awkwardly out of the stable and
+"Very well,” returned Jack, and walked awkwardly out of the stable and
 
 into the moonlight.
 
@@ -1158,21 +1158,21 @@ upon a rock by the roadside.
 
 
 
-“Let's have some breakfast,” he said.
+"Let's have some breakfast,” he said.
 
 
 
 Jack Pumpkinhead watched Tip curiously, but refused to join in the
 
-repast. “I don't seem to be made the same way you are,” he said.
+repast. "I don't seem to be made the same way you are,” he said.
 
 
 
-“I know you are not,” returned Tip; “for I made you.”
+"I know you are not,” returned Tip; "for I made you.”
 
 
 
-“Oh! Did you?” asked Jack.
+"Oh! Did you?” asked Jack.
 
 
 
@@ -1180,9 +1180,9 @@ repast. “I don't seem to be made the same way you are,” he said.
 
 
 
-“Certainly. And put you together. And carved your eyes and nose and
+"Certainly. And put you together. And carved your eyes and nose and
 
-ears and mouth,” said Tip proudly. “And dressed you.”
+ears and mouth,” said Tip proudly. "And dressed you.”
 
 
 
@@ -1190,55 +1190,55 @@ Jack looked at his body and limbs critically.
 
 
 
-“It strikes me you made a very good job of it,” he remarked.
+"It strikes me you made a very good job of it,” he remarked.
 
 
 
-“Just so-so,” replied Tip, modestly; for he began to see certain
+"Just so-so,” replied Tip, modestly; for he began to see certain
 
-defects in the construction of his man. “If I'd known we were going to
+defects in the construction of his man. "If I'd known we were going to
 
 travel together I might have been a little more particular.”
 
 
 
-“Why, then,” said the Pumpkinhead, in a tone that expressed surprise,
+"Why, then,” said the Pumpkinhead, in a tone that expressed surprise,
 
-“you must be my creator my parent my father!”
+"you must be my creator my parent my father!”
 
 
 
-“Or your inventor,” replied the boy with a laugh. “Yes, my son; I
+"Or your inventor,” replied the boy with a laugh. "Yes, my son; I
 
 really believe I am!”
 
 
 
-“Then I owe you obedience,” continued the man, “and you owe
+"Then I owe you obedience,” continued the man, "and you owe
 
 me—support.”
 
 
 
-“That's it, exactly”, declared Tip, jumping up. “So let us be off.”
+"That's it, exactly”, declared Tip, jumping up. "So let us be off.”
 
 
 
-“Where are we going?” asked Jack, when they had resumed their journey.
+"Where are we going?” asked Jack, when they had resumed their journey.
 
 
 
-“I'm not exactly sure,” said the boy; “but I believe we are headed
+"I'm not exactly sure,” said the boy; "but I believe we are headed
 
 South, and that will bring us, sooner or later, to the Emerald City.”
 
 
 
-“What city is that?” enquired the Pumpkinhead.
+"What city is that?” enquired the Pumpkinhead.
 
 
 
-“Why, it's the center of the Land of Oz, and the biggest town in all
+"Why, it's the center of the Land of Oz, and the biggest town in all
 
 the country. I've never been there, myself, but I've heard all about
 
@@ -1250,23 +1250,23 @@ Country of the Gillikins is of a purple color.”
 
 
 
-“Is everything here purple?” asked Jack.
+"Is everything here purple?” asked Jack.
 
 
 
-“Of course it is. Can't you see?” returned the boy.
+"Of course it is. Can't you see?” returned the boy.
 
 
 
-“I believe I must be color-blind,” said the Pumpkinhead, after staring
+"I believe I must be color-blind,” said the Pumpkinhead, after staring
 
 about him.
 
 
 
-“Well, the grass is purple, and the trees are purple, and the houses
+"Well, the grass is purple, and the trees are purple, and the houses
 
-and fences are purple,” explained Tip. “Even the mud in the roads is
+and fences are purple,” explained Tip. "Even the mud in the roads is
 
 purple. But in the Emerald City everything is green that is purple
 
@@ -1280,13 +1280,13 @@ everything is yellow.”
 
 
 
-“Oh!” said Jack. Then, after a pause, he asked: “Did you say a Tin
+"Oh!” said Jack. Then, after a pause, he asked: "Did you say a Tin
 
 Woodman rules the Winkies?”
 
 
 
-“Yes; he was one of those who helped Dorothy to destroy the Wicked
+"Yes; he was one of those who helped Dorothy to destroy the Wicked
 
 Witch of the West, and the Winkies were so grateful that they invited
 
@@ -1296,21 +1296,21 @@ invited the Scarecrow to rule them.”
 
 
 
-“Dear me!” said Jack. “I'm getting confused with all this history. Who
+"Dear me!” said Jack. "I'm getting confused with all this history. Who
 
 is the Scarecrow?”
 
 
 
-“Another friend of Dorothy's,” replied Tip.
+"Another friend of Dorothy's,” replied Tip.
 
 
 
-“And who is Dorothy?”
+"And who is Dorothy?”
 
 
 
-“She was a girl that came here from Kansas, a place in the big, outside
+"She was a girl that came here from Kansas, a place in the big, outside
 
 World. She got blown to the Land of Oz by a cyclone, and while she was
 
@@ -1318,35 +1318,35 @@ here the Scarecrow and the Tin Woodman accompanied her on her travels.”
 
 
 
-“And where is she now?” inquired the Pumpkinhead.
+"And where is she now?” inquired the Pumpkinhead.
 
 
 
-“Glinda the Good, who rules the Quadlings, sent her home again,” said
+"Glinda the Good, who rules the Quadlings, sent her home again,” said
 
 the boy.
 
 
 
-“Oh. And what became of the Scarecrow?”
+"Oh. And what became of the Scarecrow?”
 
 
 
-“I told you. He rules the Emerald City,” answered Tip.
+"I told you. He rules the Emerald City,” answered Tip.
 
 
 
-“I thought you said it was ruled by a wonderful Wizard,” objected Jack,
+"I thought you said it was ruled by a wonderful Wizard,” objected Jack,
 
 seeming more and more confused.
 
 
 
-“Well, so I did. Now, pay attention, and I'll explain it,” said Tip,
+"Well, so I did. Now, pay attention, and I'll explain it,” said Tip,
 
 speaking slowly and looking the smiling Pumpkinhead squarely in the
 
-eye. “Dorothy went to the Emerald City to ask the Wizard to send her
+eye. "Dorothy went to the Emerald City to ask the Wizard to send her
 
 back to Kansas; and the Scarecrow and the Tin Woodman went with her.
 
@@ -1360,13 +1360,13 @@ escaped in it, and no one has ever seen him since.”
 
 
 
-“Now, that is very interesting history,” said Jack, well pleased; “and
+"Now, that is very interesting history,” said Jack, well pleased; "and
 
 I understand it perfectly all but the explanation.”
 
 
 
-“I'm glad you do,” responded Tip. “After the Wizard was gone, the
+"I'm glad you do,” responded Tip. "After the Wizard was gone, the
 
 people of the Emerald City made His Majesty, the Scarecrow, their King;
 
@@ -1374,17 +1374,17 @@ and I have heard that he became a very popular ruler.”
 
 
 
-“Are we going to see this queer King?” asked Jack, with interest.
+"Are we going to see this queer King?” asked Jack, with interest.
 
 
 
-“I think we may as well,” replied the boy; “unless you have something
+"I think we may as well,” replied the boy; "unless you have something
 
 better to do.”
 
 
 
-“Oh, no, dear father,” said the Pumpkinhead. “I am quite willing to go
+"Oh, no, dear father,” said the Pumpkinhead. "I am quite willing to go
 
 wherever you please.”
 
@@ -1416,7 +1416,7 @@ Tip Makes an Experiment in Magic
 
 The boy, small and rather delicate in appearance seemed somewhat
 
-embarrassed at being called “father” by the tall, awkward,
+embarrassed at being called "father” by the tall, awkward,
 
 pumpkinheaded man, but to deny the relationship would involve another
 
@@ -1426,13 +1426,13 @@ abruptly:
 
 
 
-“Are you tired?”
+"Are you tired?”
 
 
 
-“Of course not!” replied the other. “But,” he continued, after a pause,
+"Of course not!” replied the other. "But,” he continued, after a pause,
 
-“it is quite certain I shall wear out my wooden joints if I keep on
+"it is quite certain I shall wear out my wooden joints if I keep on
 
 walking.”
 
@@ -1462,15 +1462,15 @@ down to rest upon an old sawhorse that some woodcutter had left there.
 
 
 
-“Why don't you sit down?” he asked the Pumpkinhead.
+"Why don't you sit down?” he asked the Pumpkinhead.
 
 
 
-“Won't it strain my joints?” inquired the other.
+"Won't it strain my joints?” inquired the other.
 
 
 
-“Of course not. It'll rest them,” declared the boy.
+"Of course not. It'll rest them,” declared the boy.
 
 
 
@@ -1496,13 +1496,13 @@ him:
 
 
 
-“I guess you'd better remain standing, hereafter. It seems the safest
+"I guess you'd better remain standing, hereafter. It seems the safest
 
 way.”
 
 
 
-“Very well, dear father.” just as you say, replied the smiling Jack,
+"Very well, dear father.” just as you say, replied the smiling Jack,
 
 who had been in no wise confused by his tumble.
 
@@ -1512,37 +1512,37 @@ Tip sat down again. Presently the Pumpkinhead asked:
 
 
 
-“What is that thing you are sitting on?”
+"What is that thing you are sitting on?”
 
 
 
-“Oh, this is a horse,” replied the boy, carelessly.
+"Oh, this is a horse,” replied the boy, carelessly.
 
 
 
-“What is a horse?” demanded Jack.
+"What is a horse?” demanded Jack.
 
 
 
-“A horse? Why, there are two kinds of horses,” returned Tip, slightly
+"A horse? Why, there are two kinds of horses,” returned Tip, slightly
 
-puzzled how to explain. “One kind of horse is alive, and has four legs
+puzzled how to explain. "One kind of horse is alive, and has four legs
 
 and a head and a tail. And people ride upon its back.”
 
 
 
-“I understand,” said Jack, cheerfully “That's the kind of horse you are
+"I understand,” said Jack, cheerfully "That's the kind of horse you are
 
 now sitting on.”
 
 
 
-“No, it isn't,” answered Tip, promptly.
+"No, it isn't,” answered Tip, promptly.
 
 
 
-“Why not? That one has four legs, and a head, and a tail.” Tip looked
+"Why not? That one has four legs, and a head, and a tail.” Tip looked
 
 at the saw-horse more carefully, and found that the Pumpkinhead was
 
@@ -1562,9 +1562,9 @@ stand firmly when a log was laid across it to be sawed.
 
 
 
-“This thing resembles a real horse more than I imagined,” said Tip,
+"This thing resembles a real horse more than I imagined,” said Tip,
 
-trying to explain. “But a real horse is alive, and trots and prances
+trying to explain. "But a real horse is alive, and trots and prances
 
 and eats oats, while this is nothing more than a dead horse, made of
 
@@ -1572,21 +1572,21 @@ wood, and used to saw logs upon.”
 
 
 
-“If it were alive, wouldn't it trot, and prance, and eat oats?”
+"If it were alive, wouldn't it trot, and prance, and eat oats?”
 
 inquired the Pumpkinhead.
 
 
 
-“It would trot and prance, perhaps; but it wouldn't eat oats,” replied
+"It would trot and prance, perhaps; but it wouldn't eat oats,” replied
 
-the boy, laughing at the idea. “And of course it can't ever be alive,
+the boy, laughing at the idea. "And of course it can't ever be alive,
 
 because it is made of wood.”
 
 
 
-“So am I,” answered the man.
+"So am I,” answered the man.
 
 
 
@@ -1594,7 +1594,7 @@ Tip looked at him in surprise.
 
 
 
-“Why, so you are!” he exclaimed. “And the magic powder that brought you
+"Why, so you are!” he exclaimed. "And the magic powder that brought you
 
 to life is here in my pocket.”
 
@@ -1608,21 +1608,21 @@ He brought out the pepper box, and eyed it curiously.
 
 
 
-“I wonder,” said he, musingly, “if it would bring the saw-horse to
+"I wonder,” said he, musingly, "if it would bring the saw-horse to
 
 life.”
 
 
 
-“If it would,” returned Jack, calmly for nothing seemed to surprise him
+"If it would,” returned Jack, calmly for nothing seemed to surprise him
 
-“I could ride on its back, and that would save my joints from wearing
+"I could ride on its back, and that would save my joints from wearing
 
 out.”
 
 
 
-“I'll try it!” cried the boy, jumping up. “But I wonder if I can
+"I'll try it!” cried the boy, jumping up. "But I wonder if I can
 
 remember the words old Mombi said, and the way she held her hands up.”
 
@@ -1640,31 +1640,31 @@ So he began by sprinkling some of the magic Powder of Life from the
 
 pepper-box upon the body of the saw-horse. Then he lifted his left
 
-hand, with the little finger pointing upward, and said: “Weaugh!”
+hand, with the little finger pointing upward, and said: "Weaugh!”
 
 
 
-“What does that mean, dear father?” asked Jack, curiously.
+"What does that mean, dear father?” asked Jack, curiously.
 
 
 
-“I don't know,” answered Tip. Then he lifted his right hand, with the
+"I don't know,” answered Tip. Then he lifted his right hand, with the
 
-thumb pointing upward and said: “Teaugh!”
-
-
-
-“What's that, dear father?” inquired Jack.
+thumb pointing upward and said: "Teaugh!”
 
 
 
-“It means you must keep quiet!” replied the boy, provoked at being
+"What's that, dear father?” inquired Jack.
+
+
+
+"It means you must keep quiet!” replied the boy, provoked at being
 
 interrupted at so important a moment.
 
 
 
-“How fast I am learning!” remarked the Pumpkinhead, with his eternal
+"How fast I am learning!” remarked the Pumpkinhead, with his eternal
 
 smile.
 
@@ -1672,7 +1672,7 @@ smile.
 
 Tip now lifted both hands above his head, with all the fingers and
 
-thumbs spread out, and cried in a loud voice: “Peaugh!”
+thumbs spread out, and cried in a loud voice: "Peaugh!”
 
 
 
@@ -1686,7 +1686,7 @@ horse.
 
 
 
-“Good!” called Jack, while the boy looked on in astonishment. “You are
+"Good!” called Jack, while the boy looked on in astonishment. "You are
 
 a very clever sorcerer, dear father!”
 
@@ -1742,7 +1742,7 @@ the Saw-Horse in prancing around in a circle; so he called out:
 
 
 
-“Whoa! Whoa, there!”
+"Whoa! Whoa, there!”
 
 
 
@@ -1756,7 +1756,7 @@ again yelled:
 
 
 
-“Whoa! Whoa, I say!”
+"Whoa! Whoa, I say!”
 
 
 
@@ -1766,19 +1766,19 @@ looked at the Saw-Horse with much interest.
 
 
 
-“I don't believe the animal can hear you,” he remarked.
+"I don't believe the animal can hear you,” he remarked.
 
 
 
-“I shout loud enough, don't I?” answered Tip, angrily.
+"I shout loud enough, don't I?” answered Tip, angrily.
 
 
 
-“Yes; but the horse has no ears,” said the smiling Pumpkinhead.
+"Yes; but the horse has no ears,” said the smiling Pumpkinhead.
 
 
 
-“Sure enough!” exclaimed Tip, noting the fact for the first time. “How,
+"Sure enough!” exclaimed Tip, noting the fact for the first time. "How,
 
 then, am I going to stop him?”
 
@@ -1800,7 +1800,7 @@ pacing horse does; and that made its body rock sidewise, like a cradle.
 
 
 
-Tip patted it upon the head, and said “Good boy! Good Boy!” in a
+Tip patted it upon the head, and said "Good boy! Good Boy!” in a
 
 coaxing tone; and the Saw-Horse pranced away to examine with its
 
@@ -1808,7 +1808,7 @@ bulging eyes the form of Jack Pumpkinhead.
 
 
 
-“I must find a halter for him,” said Tip; and having made a search in
+"I must find a halter for him,” said Tip; and having made a search in
 
 his pocket he produced a roll of strong cord. Unwinding this, he
 
@@ -1822,25 +1822,25 @@ easily; but it made no attempt to run away.
 
 
 
-“He's stronger than I thought,” said the boy, “and rather obstinate,
+"He's stronger than I thought,” said the boy, "and rather obstinate,
 
 too.”
 
 
 
-“Why don't you make him some ears?” asked Jack. “Then you can tell him
+"Why don't you make him some ears?” asked Jack. "Then you can tell him
 
 what to do.”
 
 
 
-“That's a splendid idea!” said Tip. “How did you happen to think of
+"That's a splendid idea!” said Tip. "How did you happen to think of
 
 it?”
 
 
 
-“Why, I didn't think of it,” answered the Pumpkinhead; “I didn't need
+"Why, I didn't think of it,” answered the Pumpkinhead; "I didn't need
 
 to, for it's the simplest and easiest thing to do.”
 
@@ -1852,37 +1852,37 @@ small tree.
 
 
 
-“I mustn't make them too big,” he said, as he whittled, “or our horse
+"I mustn't make them too big,” he said, as he whittled, "or our horse
 
 would become a donkey.”
 
 
 
-“How is that?” inquired Jack, from the roadside.
+"How is that?” inquired Jack, from the roadside.
 
 
 
-“Why, a horse has bigger ears than a man; and a donkey has bigger ears
+"Why, a horse has bigger ears than a man; and a donkey has bigger ears
 
 than a horse,” explained Tip.
 
 
 
-“Then, if my ears were longer, would I be a horse?” asked Jack.
+"Then, if my ears were longer, would I be a horse?” asked Jack.
 
 
 
-“My friend,” said Tip, gravely, “you'll never be anything but a
+"My friend,” said Tip, gravely, "you'll never be anything but a
 
 Pumpkinhead, no matter how big your ears are.”
 
 
 
-“Oh,” returned Jack, nodding; “I think I understand.”
+"Oh,” returned Jack, nodding; "I think I understand.”
 
 
 
-“If you do, you're a wonder,” remarked the boy “but there's no harm in
+"If you do, you're a wonder,” remarked the boy "but there's no harm in
 
 _thinking_ you understand. I guess these ears are ready now. Will you
 
@@ -1890,7 +1890,7 @@ hold the horse while I stick them on?”
 
 
 
-“Certainly, if you'll help me up,” said Jack.
+"Certainly, if you'll help me up,” said Jack.
 
 
 
@@ -1902,7 +1902,7 @@ knife-blade and inserted the ears.
 
 
 
-“They make him look very handsome,” said Jack, admiringly.
+"They make him look very handsome,” said Jack, admiringly.
 
 
 
@@ -1918,7 +1918,7 @@ foot-steps.
 
 
 
-“Whoa!” shouted Tip, picking himself up; “whoa! you idiot whoa!” The
+"Whoa!” shouted Tip, picking himself up; "whoa! you idiot whoa!” The
 
 Saw-Horse would probably have paid no attention to this, but just then
 
@@ -1934,45 +1934,45 @@ Tip ran up to it.
 
 
 
-“You're a nice sort of a horse, I must say!” he exclaimed. “Why didn't
+"You're a nice sort of a horse, I must say!” he exclaimed. "Why didn't
 
 you stop when I yelled ‘whoa?'”
 
 
 
-“Does ‘whoa' mean to stop?” asked the Saw-Horse, in a surprised voice,
+"Does ‘whoa' mean to stop?” asked the Saw-Horse, in a surprised voice,
 
 as it rolled its eyes upward to look at the boy.
 
 
 
-“Of course it does,” answered Tip.
+"Of course it does,” answered Tip.
 
 
 
-“And a hole in the ground means to stop, also, doesn't it?” continued
+"And a hole in the ground means to stop, also, doesn't it?” continued
 
 the horse.
 
 
 
-“To be sure; unless you step over it,” said Tip.
+"To be sure; unless you step over it,” said Tip.
 
 
 
-“What a strange place this is,” the creature exclaimed, as if amazed.
+"What a strange place this is,” the creature exclaimed, as if amazed.
 
-“What am I doing here, anyway?”
+"What am I doing here, anyway?”
 
 
 
-“Why, I've brought you to life,” answered the boy “but it won't hurt
+"Why, I've brought you to life,” answered the boy "but it won't hurt
 
 you any, if you mind me and do as I tell you.”
 
 
 
-“Then I will do as you tell me,” replied the Saw-Horse, humbly. “But
+"Then I will do as you tell me,” replied the Saw-Horse, humbly. "But
 
 what happened to me, a moment ago? I don't seem to be just right,
 
@@ -1984,17 +1984,17 @@ someway.”
 
 
 
-“You're upside down,” explained Tip. “But just keep those legs still a
+"You're upside down,” explained Tip. "But just keep those legs still a
 
 minute and I'll set you right side up again.”
 
 
 
-“How many sides have I?” asked the creature, wonderingly.
+"How many sides have I?” asked the creature, wonderingly.
 
 
 
-“Several,” said Tip, briefly. “But do keep those legs still.”
+"Several,” said Tip, briefly. "But do keep those legs still.”
 
 
 
@@ -2004,13 +2004,13 @@ after several efforts, was able to roll him over and set him upright.
 
 
 
-“Ah, I seem all right now,” said the queer animal, with a sigh.
+"Ah, I seem all right now,” said the queer animal, with a sigh.
 
 
 
-“One of your ears is broken,” Tip announced, after a careful
+"One of your ears is broken,” Tip announced, after a careful
 
-examination. “I'll have to make a new one.”
+examination. "I'll have to make a new one.”
 
 
 
@@ -2022,7 +2022,7 @@ Tip whittled out a new ear and fastened it to the horse's head.
 
 
 
-“Now,” said he, addressing his steed, “pay attention to what I'm going
+"Now,” said he, addressing his steed, "pay attention to what I'm going
 
 to tell you. ‘Whoa!' means to stop; ‘Get-Up!' means to walk forward;
 
@@ -2030,11 +2030,11 @@ to tell you. ‘Whoa!' means to stop; ‘Get-Up!' means to walk forward;
 
 
 
-“I believe I do,” returned the horse.
+"I believe I do,” returned the horse.
 
 
 
-“Very good. We are all going on a journey to the Emerald City, to see
+"Very good. We are all going on a journey to the Emerald City, to see
 
 His Majesty, the Scarecrow; and Jack Pumpkinhead is going to ride on
 
@@ -2042,7 +2042,7 @@ your back, so he won't wear out his joints.”
 
 
 
-“I don't mind,” said the Saw-Horse. “Anything that suits you suits me.”
+"I don't mind,” said the Saw-Horse. "Anything that suits you suits me.”
 
 
 
@@ -2050,23 +2050,23 @@ Then Tip assisted Jack to get upon the horse.
 
 
 
-“Hold on tight,” he cautioned, “or you may fall off and crack your
+"Hold on tight,” he cautioned, "or you may fall off and crack your
 
 pumpkin head.”
 
 
 
-“That would be horrible!” said Jack, with a shudder. “What shall I hold
+"That would be horrible!” said Jack, with a shudder. "What shall I hold
 
 on to?”
 
 
 
-“Why, hold on to his ears,” replied Tip, after a moment's hesitation.
+"Why, hold on to his ears,” replied Tip, after a moment's hesitation.
 
 
 
-“Don't do that!” remonstrated the Saw-Horse; “for then I can't hear.”
+"Don't do that!” remonstrated the Saw-Horse; "for then I can't hear.”
 
 
 
@@ -2074,7 +2074,7 @@ That seemed reasonable, so Tip tried to think of something else.
 
 
 
-“I'll fix it!” said he, at length. He went into the wood and cut a
+"I'll fix it!” said he, at length. He went into the wood and cut a
 
 short length of limb from a young, stout tree. One end of this he
 
@@ -2086,7 +2086,7 @@ the road and hammered the post firmly into the animal's back.
 
 
 
-“Stop! Stop!” shouted the horse; “you're jarring me terribly.”
+"Stop! Stop!” shouted the horse; "you're jarring me terribly.”
 
 
 
@@ -2094,17 +2094,17 @@ the road and hammered the post firmly into the animal's back.
 
 
 
-“Does it hurt?” asked the boy.
+"Does it hurt?” asked the boy.
 
 
 
-“Not exactly hurt,” answered the animal; “but it makes me quite nervous
+"Not exactly hurt,” answered the animal; "but it makes me quite nervous
 
 to be jarred.”
 
 
 
-“Well, it's all over now” said Tip, encouragingly. “Now, Jack, be sure
+"Well, it's all over now” said Tip, encouragingly. "Now, Jack, be sure
 
 to hold fast to this post and then you can't fall off and get smashed.”
 
@@ -2114,7 +2114,7 @@ So Jack held on tight, and Tip said to the horse:
 
 
 
-“Get up.”
+"Get up.”
 
 
 
@@ -2130,19 +2130,19 @@ their party. Presently he began to whistle.
 
 
 
-“What does that sound mean?” asked the horse.
+"What does that sound mean?” asked the horse.
 
 
 
-“Don't pay any attention to it,” said Tip. “I'm just whistling, and
+"Don't pay any attention to it,” said Tip. "I'm just whistling, and
 
 that only means I'm pretty well satisfied.”
 
 
 
-“I'd whistle myself, if I could push my lips together,” remarked Jack.
+"I'd whistle myself, if I could push my lips together,” remarked Jack.
 
-“I fear, dear father, that in some respects I am sadly lacking.”
+"I fear, dear father, that in some respects I am sadly lacking.”
 
 
 
@@ -2158,7 +2158,7 @@ side of the road Tip noticed a sign-post that read:
 
 
 
-“NINE MILES TO THE EMERALD CITY.”
+"NINE MILES TO THE EMERALD CITY.”
 
 
 
@@ -2172,17 +2172,17 @@ carefully assisted the Pumpkinhead to alight.
 
 
 
-“I think I'll lay you upon the ground, overnight,” said the boy. “You
+"I think I'll lay you upon the ground, overnight,” said the boy. "You
 
 will be safer that way.”
 
 
 
-“How about me?” asked the Saw-Horse.
+"How about me?” asked the Saw-Horse.
 
 
 
-“It won't hurt you to stand,” replied Tip; “and, as you can't sleep,
+"It won't hurt you to stand,” replied Tip; "and, as you can't sleep,
 
 you may as well watch out and see that no one comes near to disturb
 
@@ -2228,7 +2228,7 @@ bread and cheese. Having thus prepared for a new day the boy said:
 
 
 
-“Let us start at once. Nine miles is quite a distance, but we ought to
+"Let us start at once. Nine miles is quite a distance, but we ought to
 
 reach the Emerald City by noon if no accidents happen.” So the
 
@@ -2262,35 +2262,35 @@ When the man reached the bank Tip asked:
 
 
 
-“Will you row us to the other side?”
+"Will you row us to the other side?”
 
 
 
-“Yes, if you have money,” returned the ferryman, whose face looked
+"Yes, if you have money,” returned the ferryman, whose face looked
 
 cross and disagreeable.
 
 
 
-“But I have no money,” said Tip.
+"But I have no money,” said Tip.
 
 
 
-“None at all?” inquired the man.
+"None at all?” inquired the man.
 
 
 
-“None at all,” answered the boy.
+"None at all,” answered the boy.
 
 
 
-“Then I'll not break my back rowing you over,” said the ferryman,
+"Then I'll not break my back rowing you over,” said the ferryman,
 
 decidedly.
 
 
 
-“What a nice man!” remarked the Pumpkinhead, smilingly.
+"What a nice man!” remarked the Pumpkinhead, smilingly.
 
 
 
@@ -2302,9 +2302,9 @@ suddenly brought to an end.
 
 
 
-“I must certainly get to the Emerald City,” he said to the boatman;
+"I must certainly get to the Emerald City,” he said to the boatman;
 
-“but how can I cross the river if you do not take me?”
+"but how can I cross the river if you do not take me?”
 
 
 
@@ -2312,7 +2312,7 @@ The man laughed, and it was not a nice laugh.
 
 
 
-“That wooden horse will float,” said he; “and you can ride him across.
+"That wooden horse will float,” said he; "and you can ride him across.
 
 As for the pumpkinheaded loon who accompanies you, let him sink or swim
 
@@ -2324,9 +2324,9 @@ it won't matter greatly which.”
 
 
 
-“Don't worry about me,” said Jack, smiling pleasantly upon the crabbed
+"Don't worry about me,” said Jack, smiling pleasantly upon the crabbed
 
-ferryman; “I'm sure I ought to float beautifully.”
+ferryman; "I'm sure I ought to float beautifully.”
 
 
 
@@ -2342,7 +2342,7 @@ keep his pumpkin head above the water.
 
 
 
-“Now,” said Tip, instructing the Saw-Horse, “if you wiggle your legs
+"Now,” said Tip, instructing the Saw-Horse, "if you wiggle your legs
 
 you will probably swim; and if you swim we shall probably reach the
 
@@ -2370,17 +2370,17 @@ dripped water.
 
 
 
-“The sun will soon dry us,” said Tip “and, anyhow, we are now safely
+"The sun will soon dry us,” said Tip "and, anyhow, we are now safely
 
 across, in spite of the ferryman, and can continue our journey.”
 
 
 
-“I didn't mind swimming, at all,” remarked the horse.
+"I didn't mind swimming, at all,” remarked the horse.
 
 
 
-“Nor did I,” added Jack.
+"Nor did I,” added Jack.
 
 
 
@@ -2392,7 +2392,7 @@ once more mounted the Pumpkinhead upon the back of the Saw-Horse.
 
 
 
-“If you ride fast,” said he, “the wind will help to dry your clothing.
+"If you ride fast,” said he, "the wind will help to dry your clothing.
 
 I will hold on to the horse's tail and run after you. In this way we
 
@@ -2400,23 +2400,23 @@ all will become dry in a very short time.”
 
 
 
-“Then the horse must step lively,” said Jack.
+"Then the horse must step lively,” said Jack.
 
 
 
-“I'll do my best,” returned the Saw-Horse, cheerfully.
+"I'll do my best,” returned the Saw-Horse, cheerfully.
 
 
 
 Tip grasped the end of the branch that served as tail to the Saw-Horse,
 
-and called loudly: “Get-up!”
+and called loudly: "Get-up!”
 
 
 
 The horse started at a good pace, and Tip followed behind. Then he
 
-decided they could go faster, so he shouted: “Trot!”
+decided they could go faster, so he shouted: "Trot!”
 
 
 
@@ -2434,7 +2434,7 @@ his life—to keep his feet.
 
 
 
-Soon he was out of breath, and although he wanted to call “Whoa!” to
+Soon he was out of breath, and although he wanted to call "Whoa!” to
 
 the horse, he found he could not get the word out of his throat. Then
 
@@ -2450,7 +2450,7 @@ dashed on and quickly disappeared in the distance.
 
 By the time Tip had picked himself up and cleared the dust from his
 
-throat so he could say “Whoa!” there was no further need of saying it,
+throat so he could say "Whoa!” there was no further need of saying it,
 
 for the horse was long since out of sight.
 
@@ -2462,7 +2462,7 @@ good rest, and afterward began walking along the road.
 
 
 
-“Some time I will surely overtake them,” he reflected; “for the road
+"Some time I will surely overtake them,” he reflected; "for the road
 
 will end at the gates of the Emerald City, and they can go no further
 
@@ -2494,7 +2494,7 @@ loomed up before them; and fearing the Saw-Horse would not know enough
 
 to stop and so might smash them both against this wall, Jack ventured
 
-to cry “Whoa!” as loud as he could.
+to cry "Whoa!” as loud as he could.
 
 
 
@@ -2506,7 +2506,7 @@ ruined.
 
 
 
-“That was a fast ride, dear father!” he exclaimed; and then, hearing no
+"That was a fast ride, dear father!” he exclaimed; and then, hearing no
 
 reply, he turned around and discovered for the first time that Tip was
 
@@ -2534,13 +2534,13 @@ Pumpkinhead he said:
 
 
 
-“I am the Guardian of the Gates of the Emerald City. May I inquire who
+"I am the Guardian of the Gates of the Emerald City. May I inquire who
 
 you are, and what is your business?”
 
 
 
-“My name is Jack Pumpkinhead,” returned the other, smilingly; “but as
+"My name is Jack Pumpkinhead,” returned the other, smilingly; "but as
 
 to my business, I haven't the least idea in the world what it is.”
 
@@ -2552,15 +2552,15 @@ dissatisfied with the reply.
 
 
 
-“What are you, a man or a pumpkin?” he asked, politely.
+"What are you, a man or a pumpkin?” he asked, politely.
 
 
 
-“Both, if you please,” answered Jack.
+"Both, if you please,” answered Jack.
 
 
 
-“And this wooden horse—is it alive?” questioned the Guardian.
+"And this wooden horse—is it alive?” questioned the Guardian.
 
 
 
@@ -2570,13 +2570,13 @@ a prance and brought one leg down on the Guardian's toes.
 
 
 
-“Ouch!” cried the man; “I'm sorry I asked that question. But the answer
+"Ouch!” cried the man; "I'm sorry I asked that question. But the answer
 
 is most convincing. Have you any errand, sir, in the Emerald City?”
 
 
 
-“It seems to me that I have,” replied the Pumpkinhead, seriously; “but
+"It seems to me that I have,” replied the Pumpkinhead, seriously; "but
 
 I cannot think what it is. My father knows all about it, but he is not
 
@@ -2584,7 +2584,7 @@ here.”
 
 
 
-“This is a strange affair very strange!” declared the Guardian. “But
+"This is a strange affair very strange!” declared the Guardian. "But
 
 you seem harmless. Folks do not smile so delightfully when they mean
 
@@ -2592,13 +2592,13 @@ mischief.”
 
 
 
-“As for that,” said Jack, “I cannot help my smile, for it is carved on
+"As for that,” said Jack, "I cannot help my smile, for it is carved on
 
 my face with a jack-knife.”
 
 
 
-“Well, come with me into my room,” resumed the Guardian, “and I will
+"Well, come with me into my room,” resumed the Guardian, "and I will
 
 see what can be done for you.”
 
@@ -2618,7 +2618,7 @@ addressed him, saying:
 
 
 
-“Here is a strange gentleman who doesn't know why he has come to the
+"Here is a strange gentleman who doesn't know why he has come to the
 
 Emerald City, or what he wants. Tell me, what shall we do with him?”
 
@@ -2632,17 +2632,17 @@ rippled down his whiskers, and then he said:
 
 
 
-“I must take him to His Majesty, the Scarecrow.”
+"I must take him to His Majesty, the Scarecrow.”
 
 
 
-“But what will His Majesty, the Scarecrow, do with him?” asked the
+"But what will His Majesty, the Scarecrow, do with him?” asked the
 
 Guardian of the Gates.
 
 
 
-“That is His Majesty's business,” returned the soldier. “I have
+"That is His Majesty's business,” returned the soldier. "I have
 
 troubles enough of my own. All outside troubles must be turned over to
 
@@ -2658,15 +2658,15 @@ to Jack's great round eyes.
 
 
 
-“I haven't a pair in stock that will really cover those eyes up,” said
+"I haven't a pair in stock that will really cover those eyes up,” said
 
-the little man, with a sigh; “and your head is so big that I shall be
+the little man, with a sigh; "and your head is so big that I shall be
 
 obliged to tie the spectacles on.”
 
 
 
-“But why need I wear spectacles?” asked Jack.
+"But why need I wear spectacles?” asked Jack.
 
 
 
@@ -2674,19 +2674,19 @@ obliged to tie the spectacles on.”
 
 
 
-“It's the fashion here,” said the Soldier, “and they will keep you from
+"It's the fashion here,” said the Soldier, "and they will keep you from
 
 being blinded by the glitter and glare of the gorgeous Emerald City.”
 
 
 
-“Oh!” exclaimed Jack. “Tie them on, by all means. I don't wish to be
+"Oh!” exclaimed Jack. "Tie them on, by all means. I don't wish to be
 
 blinded.”
 
 
 
-“Nor I!” broke in the Saw-Horse; so a pair of green spectacles was
+"Nor I!” broke in the Saw-Horse; so a pair of green spectacles was
 
 quickly fastened over the bulging knots that served it for eyes.
 
@@ -2858,27 +2858,27 @@ he said, in a tone of wonder:
 
 
 
-“Where on earth did you come from, and how do you happen to be alive?”
+"Where on earth did you come from, and how do you happen to be alive?”
 
 
 
-“I beg your Majesty's pardon,” returned the Pumpkinhead; “but I do not
+"I beg your Majesty's pardon,” returned the Pumpkinhead; "but I do not
 
 understand you.”
 
 
 
-“What don't you understand?” asked the Scarecrow.
+"What don't you understand?” asked the Scarecrow.
 
 
 
-“Why, I don't understand your language. You see, I came from the
+"Why, I don't understand your language. You see, I came from the
 
 Country of the Gillikins, so that I am a foreigner.”
 
 
 
-“Ah, to be sure!” exclaimed the Scarecrow. “I myself speak the language
+"Ah, to be sure!” exclaimed the Scarecrow. "I myself speak the language
 
 of the Munchkins, which is also the language of the Emerald City. But
 
@@ -2886,23 +2886,23 @@ you, I suppose, speak the language of the Pumpkinheads?”
 
 
 
-“Exactly so, your Majesty” replied the other, bowing; “so it will be
+"Exactly so, your Majesty” replied the other, bowing; "so it will be
 
 impossible for us to understand one another.”
 
 
 
-“That is unfortunate, certainly,” said the Scarecrow, thoughtfully. “We
+"That is unfortunate, certainly,” said the Scarecrow, thoughtfully. "We
 
 must have an interpreter.”
 
 
 
-“What is an interpreter?” asked Jack.
+"What is an interpreter?” asked Jack.
 
 
 
-“A person who understands both my language and your own. When I say
+"A person who understands both my language and your own. When I say
 
 anything, the interpreter can tell you what I mean; and when you say
 
@@ -2912,7 +2912,7 @@ interpreter can speak both languages as well as understand them.”
 
 
 
-“That is certainly clever,” said Jack, greatly pleased at finding so
+"That is certainly clever,” said Jack, greatly pleased at finding so
 
 simple a way out of the difficulty.
 
@@ -2932,7 +2932,7 @@ When the Soldier had departed the Scarecrow said:
 
 
 
-“Won't you take a chair while we are waiting?”
+"Won't you take a chair while we are waiting?”
 
 
 
@@ -2940,9 +2940,9 @@ When the Soldier had departed the Scarecrow said:
 
 
 
-“Your Majesty forgets that I cannot understand you,” replied the
+"Your Majesty forgets that I cannot understand you,” replied the
 
-Pumpkinhead. “If you wish me to sit down you must make a sign for me to
+Pumpkinhead. "If you wish me to sit down you must make a sign for me to
 
 do so.” The Scarecrow came down from his throne and rolled an armchair
 
@@ -2954,11 +2954,11 @@ he doubled up like a jackknife, and had hard work to untangle himself.
 
 
 
-“Did you understand that sign?” asked His Majesty, politely.
+"Did you understand that sign?” asked His Majesty, politely.
 
 
 
-“Perfectly,” declared Jack, reaching up his arms to turn his head to
+"Perfectly,” declared Jack, reaching up his arms to turn his head to
 
 the front, the pumpkin having twisted around upon the stick that
 
@@ -2966,17 +2966,17 @@ supported it.
 
 
 
-“You seem hastily made,” remarked the Scarecrow, watching Jack's
+"You seem hastily made,” remarked the Scarecrow, watching Jack's
 
 efforts to straighten himself.
 
 
 
-“Not more so than your Majesty,” was the frank reply.
+"Not more so than your Majesty,” was the frank reply.
 
 
 
-“There is this difference between us,” said the Scarecrow, “that
+"There is this difference between us,” said the Scarecrow, "that
 
 whereas I will bend, but not break, you will break, but not bend.”
 
@@ -3000,21 +3000,21 @@ uniform size.
 
 
 
-“Why, it's little Jellia Jamb!” exclaimed the Scarecrow, as the green
+"Why, it's little Jellia Jamb!” exclaimed the Scarecrow, as the green
 
-maiden bowed her pretty head before him. “Do you understand the
+maiden bowed her pretty head before him. "Do you understand the
 
 language of the Gillikins, my dear?”
 
 
 
-“Yes, your Majesty,” she answered, “for I was born in the North
+"Yes, your Majesty,” she answered, "for I was born in the North
 
 Country.”
 
 
 
-“Then you shall be our interpreter,” said the Scarecrow, “and explain
+"Then you shall be our interpreter,” said the Scarecrow, "and explain
 
 to this Pumpkinhead all that I say, and also explain to me all that
 
@@ -3024,13 +3024,13 @@ his guest.
 
 
 
-“Very satisfactory indeed,” was the reply.
+"Very satisfactory indeed,” was the reply.
 
 
 
-“Then ask him, to begin with,” resumed the Scarecrow, turning to
+"Then ask him, to begin with,” resumed the Scarecrow, turning to
 
-Jellia, “what brought him to the Emerald City”
+Jellia, "what brought him to the Emerald City”
 
 
 
@@ -3040,21 +3040,21 @@ him:
 
 
 
-“You are certainly a wonderful creature. Who made you?”
+"You are certainly a wonderful creature. Who made you?”
 
 
 
-“A boy named Tip,” answered Jack.
+"A boy named Tip,” answered Jack.
 
 
 
-“What does he say?” inquired the Scarecrow. “My ears must have deceived
+"What does he say?” inquired the Scarecrow. "My ears must have deceived
 
 me. What did he say?”
 
 
 
-“He says that your Majesty's brains seem to have come loose,” replied
+"He says that your Majesty's brains seem to have come loose,” replied
 
 the girl, demurely.
 
@@ -3066,19 +3066,19 @@ his left hand.
 
 
 
-“What a fine thing it is to understand two different languages,” he
+"What a fine thing it is to understand two different languages,” he
 
-said, with a perplexed sigh. “Ask him, my dear, if he has any objection
+said, with a perplexed sigh. "Ask him, my dear, if he has any objection
 
 to being put in jail for insulting the ruler of the Emerald City.”
 
 
 
-“I didn't insult you!” protested Jack, indignantly.
+"I didn't insult you!” protested Jack, indignantly.
 
 
 
-“Tut—tut!” cautioned the Scarecrow “wait, until Jellia translates my
+"Tut—tut!” cautioned the Scarecrow "wait, until Jellia translates my
 
 speech. What have we got an interpreter for, if you break out in this
 
@@ -3086,31 +3086,31 @@ rash way?”
 
 
 
-“All right, I'll wait,” replied the Pumpkinhead, in a surly
+"All right, I'll wait,” replied the Pumpkinhead, in a surly
 
-tone—although his face smiled as genially as ever. “Translate the
+tone—although his face smiled as genially as ever. "Translate the
 
 speech, young woman.”
 
 
 
-“His Majesty inquires if you are hungry,” said Jellia.
+"His Majesty inquires if you are hungry,” said Jellia.
 
 
 
-“Oh, not at all!” answered Jack, more pleasantly, “for it is impossible
+"Oh, not at all!” answered Jack, more pleasantly, "for it is impossible
 
 for me to eat.”
 
 
 
-“It's the same way with me,” remarked the Scarecrow. “What did he say,
+"It's the same way with me,” remarked the Scarecrow. "What did he say,
 
 Jellia, my dear?”
 
 
 
-“He asked if you were aware that one of your eyes is painted larger
+"He asked if you were aware that one of your eyes is painted larger
 
 than the other,” said the girl, mischievously.
 
@@ -3120,101 +3120,101 @@ than the other,” said the girl, mischievously.
 
 
 
-“Don't you believe her, your Majesty,” cried Jack.
+"Don't you believe her, your Majesty,” cried Jack.
 
 
 
-“Oh, I don't,” answered the Scarecrow, calmly. Then, casting a sharp
+"Oh, I don't,” answered the Scarecrow, calmly. Then, casting a sharp
 
 look at the girl, he asked:
 
 
 
-“Are you quite certain you understand the languages of both the
+"Are you quite certain you understand the languages of both the
 
 Gillikins and the Munchkins?”
 
 
 
-“Quite certain, your Majesty,” said Jellia Jamb, trying hard not to
+"Quite certain, your Majesty,” said Jellia Jamb, trying hard not to
 
 laugh in the face of royalty.
 
 
 
-“Then how is it that I seem to understand them myself?” inquired the
+"Then how is it that I seem to understand them myself?” inquired the
 
 Scarecrow.
 
 
 
-“Because they are one and the same!” declared the girl, now laughing
+"Because they are one and the same!” declared the girl, now laughing
 
-merrily. “Does not your Majesty know that in all the land of Oz but one
+merrily. "Does not your Majesty know that in all the land of Oz but one
 
 language is spoken?”
 
 
 
-“Is it indeed so?” cried the Scarecrow, much relieved to hear this;
+"Is it indeed so?” cried the Scarecrow, much relieved to hear this;
 
-“then I might easily have been my own interpreter!”
+"then I might easily have been my own interpreter!”
 
 
 
-“It was all my fault, your Majesty,” said Jack, looking rather foolish,
+"It was all my fault, your Majesty,” said Jack, looking rather foolish,
 
-“I thought we must surely speak different languages, since we came from
+"I thought we must surely speak different languages, since we came from
 
 different countries.”
 
 
 
-“This should be a warning to you never to think,” returned the
+"This should be a warning to you never to think,” returned the
 
-Scarecrow, severely. “For unless one can think wisely it is better to
+Scarecrow, severely. "For unless one can think wisely it is better to
 
 remain a dummy—which you most certainly are.”
 
 
 
-“I am!—I surely am!” agreed the Pumpkinhead.
+"I am!—I surely am!” agreed the Pumpkinhead.
 
 
 
-“It seems to me,” continued the Scarecrow, more mildly, “that your
+"It seems to me,” continued the Scarecrow, more mildly, "that your
 
 manufacturer spoiled some good pies to create an indifferent man.”
 
 
 
-“I assure your Majesty that I did not ask to be created,” answered
+"I assure your Majesty that I did not ask to be created,” answered
 
 Jack.
 
 
 
-“Ah! It was the same in my case,” said the King, pleasantly. “And so,
+"Ah! It was the same in my case,” said the King, pleasantly. "And so,
 
 as we differ from all ordinary people, let us become friends.”
 
 
 
-“With all my heart!” exclaimed Jack.
+"With all my heart!” exclaimed Jack.
 
 
 
-“What! Have you a heart?” asked the Scarecrow, surprised.
+"What! Have you a heart?” asked the Scarecrow, surprised.
 
 
 
-“No; that was only imaginative—I might say, a figure of speech,” said
+"No; that was only imaginative—I might say, a figure of speech,” said
 
 the other.
 
 
 
-“Well, your most prominent figure seems to be a figure of wood; so I
+"Well, your most prominent figure seems to be a figure of wood; so I
 
 must beg you to restrain an imagination which, having no brains, you
 
@@ -3222,7 +3222,7 @@ have no right to exercise,” suggested the Scarecrow, warningly.
 
 
 
-“To be sure!” said Jack, without in the least comprehending.
+"To be sure!” said Jack, without in the least comprehending.
 
 
 
@@ -3316,7 +3316,7 @@ and brushed the crumbs from her lap.
 
 
 
-“There!” said she; “it is time for me to go. Carry that basket for me
+"There!” said she; "it is time for me to go. Carry that basket for me
 
 and help yourself to its contents if you are hungry.”
 
@@ -3342,45 +3342,45 @@ she was much taller than he, and evidently in a hurry.
 
 
 
-“Thank you very much for the sandwiches,” said Tip, as he trotted
+"Thank you very much for the sandwiches,” said Tip, as he trotted
 
-along. “May I ask your name?”
-
-
-
-“I am General Jinjur,” was the brief reply.
+along. "May I ask your name?”
 
 
 
-“Oh!” said the boy surprised. “What sort of a General?”
+"I am General Jinjur,” was the brief reply.
 
 
 
-“I command the Army of Revolt in this war,” answered the General, with
+"Oh!” said the boy surprised. "What sort of a General?”
+
+
+
+"I command the Army of Revolt in this war,” answered the General, with
 
 unnecessary sharpness.
 
 
 
-“Oh!” he again exclaimed. “I didn't know there was a war.”
+"Oh!” he again exclaimed. "I didn't know there was a war.”
 
 
 
-“You were not supposed to know it,” she returned, “for we have kept it
+"You were not supposed to know it,” she returned, "for we have kept it
 
 a secret; and considering that our army is composed entirely of girls,”
 
-she added, with some pride, “it is surely a remarkable thing that our
+she added, with some pride, "it is surely a remarkable thing that our
 
 Revolt is not yet discovered.”
 
 
 
-“It is, indeed,” acknowledged Tip. “But where is your army?”
+"It is, indeed,” acknowledged Tip. "But where is your army?”
 
 
 
-“About a mile from here,” said General Jinjur. “The forces have
+"About a mile from here,” said General Jinjur. "The forces have
 
 assembled from all parts of the Land of Oz, at my express command. For
 
@@ -3392,7 +3392,7 @@ upon the Emerald City.”
 
 
 
-“Well!” declared Tip, drawing a long breath, “this is certainly a
+"Well!” declared Tip, drawing a long breath, "this is certainly a
 
 surprising thing! May I ask why you wish to conquer His Majesty the
 
@@ -3400,13 +3400,13 @@ Scarecrow?”
 
 
 
-“Because the Emerald City has been ruled by men long enough, for one
+"Because the Emerald City has been ruled by men long enough, for one
 
 reason,” said the girl.
 
 
 
-“Moreover, the City glitters with beautiful gems, which might far
+"Moreover, the City glitters with beautiful gems, which might far
 
 better be used for rings, bracelets and necklaces; and there is enough
 
@@ -3424,19 +3424,19 @@ was in earnest.
 
 
 
-“But war is a terrible thing,” said Tip, thoughtfully.
+"But war is a terrible thing,” said Tip, thoughtfully.
 
 
 
-“This war will be pleasant,” replied the girl, cheerfully.
+"This war will be pleasant,” replied the girl, cheerfully.
 
 
 
-“Many of you will be slain!” continued the boy, in an awed voice.
+"Many of you will be slain!” continued the boy, in an awed voice.
 
 
 
-“Oh, no”, said Jinjur. “What man would oppose a girl, or dare to harm
+"Oh, no”, said Jinjur. "What man would oppose a girl, or dare to harm
 
 her? And there is not an ugly face in my entire Army.”
 
@@ -3446,7 +3446,7 @@ Tip laughed.
 
 
 
-“Perhaps you are right,” said he. “But the Guardian of the Gate is
+"Perhaps you are right,” said he. "But the Guardian of the Gate is
 
 considered a faithful Guardian, and the King's Army will not let the
 
@@ -3454,7 +3454,7 @@ City be conquered without a struggle.”
 
 
 
-“The Army is old and feeble,” replied General Jinjur, scornfully. “His
+"The Army is old and feeble,” replied General Jinjur, scornfully. "His
 
 strength has all been used to grow whiskers, and his wife has such a
 
@@ -3518,7 +3518,7 @@ her army.
 
 
 
-“Friends, fellow-citizens, and girls!” she said; “we are about to begin
+"Friends, fellow-citizens, and girls!” she said; "we are about to begin
 
 our great Revolt against the men of Oz! We march to conquer the Emerald
 
@@ -3538,7 +3538,7 @@ oppressors!”
 
 
 
-“Hurrah!” said those who had listened; but Tip thought most of the Army
+"Hurrah!” said those who had listened; but Tip thought most of the Army
 
 was too much engaged in chattering to pay attention to the words of the
 
@@ -3580,41 +3580,41 @@ threatened by rebels. Speaking pleasantly to the girls, he said:
 
 
 
-“Good morning, my dears! What can I do for you?”
+"Good morning, my dears! What can I do for you?”
 
 
 
-“Surrender instantly!” answered General Jinjur, standing before him and
+"Surrender instantly!” answered General Jinjur, standing before him and
 
 frowning as terribly as her pretty face would allow her to.
 
 
 
-“Surrender!” echoed the man, astounded. “Why, it's impossible. It's
+"Surrender!” echoed the man, astounded. "Why, it's impossible. It's
 
 against the law! I never heard of such a thing in my life.”
 
 
 
-“Still, you must surrender!” exclaimed the General, fiercely. “We are
+"Still, you must surrender!” exclaimed the General, fiercely. "We are
 
 revolting!”
 
 
 
-“You don't look it,” said the Guardian, gazing from one to another,
+"You don't look it,” said the Guardian, gazing from one to another,
 
 admiringly.
 
 
 
-“But we are!” cried Jinjur, stamping her foot, impatiently; “and we
+"But we are!” cried Jinjur, stamping her foot, impatiently; "and we
 
 mean to conquer the Emerald City!”
 
 
 
-“Good gracious!” returned the surprised Guardian of the Gates; “what a
+"Good gracious!” returned the surprised Guardian of the Gates; "what a
 
 nonsensical idea! Go home to your mothers, my good girls, and milk the
 
@@ -3628,7 +3628,7 @@ conquer a city?”
 
 
 
-“We are not afraid!” responded the General; and she looked so
+"We are not afraid!” responded the General; and she looked so
 
 determined that it made the Guardian uneasy.
 
@@ -3660,7 +3660,7 @@ Soldier with the Green Whiskers.
 
 
 
-“Halt!” he cried, and pointed his long gun full in the face of the
+"Halt!” he cried, and pointed his long gun full in the face of the
 
 leader.
 
@@ -3672,19 +3672,19 @@ stood her ground and said, reproachfully:
 
 
 
-“Why, how now? Would you shoot a poor, defenceless girl?”
+"Why, how now? Would you shoot a poor, defenceless girl?”
 
 
 
-“No,” replied the soldier. “for my gun isn't loaded.”
+"No,” replied the soldier. "for my gun isn't loaded.”
 
 
 
-“Not loaded?”
+"Not loaded?”
 
 
 
-“No; for fear of accidents. And I've forgotten where I hid the powder
+"No; for fear of accidents. And I've forgotten where I hid the powder
 
 and shot to load it with. But if you'll wait a short time I'll try to
 
@@ -3692,17 +3692,17 @@ hunt them up.”
 
 
 
-“Don't trouble yourself,” said Jinjur, cheerfully. Then she turned to
+"Don't trouble yourself,” said Jinjur, cheerfully. Then she turned to
 
 her Army and cried:
 
 
 
-“Girls, the gun isn't loaded!”
+"Girls, the gun isn't loaded!”
 
 
 
-“Hooray,” shrieked the rebels, delighted at this good news, and they
+"Hooray,” shrieked the rebels, delighted at this good news, and they
 
 proceeded to rush upon the Soldier with the Green Whiskers in such a
 
@@ -3778,19 +3778,19 @@ as he ran.
 
 
 
-“Tally one for me,” said the Scarecrow, calmly “What's wrong, my man?”
+"Tally one for me,” said the Scarecrow, calmly "What's wrong, my man?”
 
 he added, addressing the Soldier.
 
 
 
-“Oh! your Majesty—your Majesty! The City is conquered!” gasped the
+"Oh! your Majesty—your Majesty! The City is conquered!” gasped the
 
 Royal Army, who was all out of breath.
 
 
 
-“This is quite sudden,” said the Scarecrow. “But please go and bar all
+"This is quite sudden,” said the Scarecrow. "But please go and bar all
 
 the doors and windows of the palace, while I show this Pumpkinhead how
 
@@ -3814,17 +3814,17 @@ ambled toward the boy as fast as his wooden legs would go.
 
 
 
-“Good afternoon, noble parent!” he cried, delightedly. “I'm glad to see
+"Good afternoon, noble parent!” he cried, delightedly. "I'm glad to see
 
 you are here. That terrible Saw-Horse ran away with me.”
 
 
 
-“I suspected it,” said Tip. “Did you get hurt? Are you cracked at all?”
+"I suspected it,” said Tip. "Did you get hurt? Are you cracked at all?”
 
 
 
-“No, I arrived safely,” answered Jack, “and his Majesty has been very
+"No, I arrived safely,” answered Jack, "and his Majesty has been very
 
 kind indeed to me.”
 
@@ -3836,29 +3836,29 @@ Scarecrow asked:
 
 
 
-“By the way, who has conquered me?”
+"By the way, who has conquered me?”
 
 
 
-“A regiment of girls, gathered from the four corners of the Land of
+"A regiment of girls, gathered from the four corners of the Land of
 
 Oz,” replied the Soldier, still pale with fear.
 
 
 
-“But where was my Standing Army at the time?” inquired his Majesty,
+"But where was my Standing Army at the time?” inquired his Majesty,
 
 looking at the Soldier, gravely.
 
 
 
-“Your Standing Army was running,” answered the fellow, honestly; “for
+"Your Standing Army was running,” answered the fellow, honestly; "for
 
 no man could face the terrible weapons of the invaders.”
 
 
 
-“Well,” said the Scarecrow, after a moment's thought, “I don't mind
+"Well,” said the Scarecrow, after a moment's thought, "I don't mind
 
 much the loss of my throne, for it's a tiresome job to rule over the
 
@@ -3870,7 +3870,7 @@ because I happen to be the King.”
 
 
 
-“I heard them, say” remarked Tip, with some hesitation, “that they
+"I heard them, say” remarked Tip, with some hesitation, "that they
 
 intend to make a rag carpet of your outside and stuff their
 
@@ -3878,7 +3878,7 @@ sofa-cushions with your inside.”
 
 
 
-“Then I am really in danger,” declared his Majesty, positively, “and it
+"Then I am really in danger,” declared his Majesty, positively, "and it
 
 will be wise for me to consider a means to escape.”
 
@@ -3888,13 +3888,13 @@ will be wise for me to consider a means to escape.”
 
 
 
-“Where can you go?” asked Jack Pumpkinhead.
+"Where can you go?” asked Jack Pumpkinhead.
 
 
 
-“Why, to my friend the Tin Woodman, who rules over the Winkies, and
+"Why, to my friend the Tin Woodman, who rules over the Winkies, and
 
-calls himself their Emperor,” was the answer. “I am sure he will
+calls himself their Emperor,” was the answer. "I am sure he will
 
 protect me.”
 
@@ -3904,7 +3904,7 @@ Tip was looking out the window.
 
 
 
-“The palace is surrounded by the enemy,” said he. “It is too late to
+"The palace is surrounded by the enemy,” said he. "It is too late to
 
 escape. They would soon tear you to pieces.”
 
@@ -3914,37 +3914,37 @@ The Scarecrow sighed.
 
 
 
-“In an emergency,” he announced, “it is always a good thing to pause
+"In an emergency,” he announced, "it is always a good thing to pause
 
 and reflect. Please excuse me while I pause and reflect.”
 
 
 
-“But we also are in danger,” said the Pumpkinhead, anxiously. “If any
+"But we also are in danger,” said the Pumpkinhead, anxiously. "If any
 
 of these girls understand cooking, my end is not far off!”
 
 
 
-“Nonsense!” exclaimed the Scarecrow. “they're too busy to cook, even if
+"Nonsense!” exclaimed the Scarecrow. "they're too busy to cook, even if
 
 they know how!”
 
 
 
-“But should I remain here a prisoner for any length of time,” protested
+"But should I remain here a prisoner for any length of time,” protested
 
-Jack, “I'm liable to spoil.”
-
-
-
-“Ah! then you would not be fit to associate with,” returned the
-
-Scarecrow. “The matter is more serious than I suspected.”
+Jack, "I'm liable to spoil.”
 
 
 
-“You,” said the Pumpkinhead, gloomily, “are liable to live for many
+"Ah! then you would not be fit to associate with,” returned the
+
+Scarecrow. "The matter is more serious than I suspected.”
+
+
+
+"You,” said the Pumpkinhead, gloomily, "are liable to live for many
 
 years. My life is necessarily short. So I must take advantage of the
 
@@ -3952,7 +3952,7 @@ few days that remain to me.”
 
 
 
-“There, there! Don't worry,” answered the Scarecrow soothingly; “if
+"There, there! Don't worry,” answered the Scarecrow soothingly; "if
 
 you'll keep quiet long enough for me to think, I'll try to find some
 
@@ -3970,33 +3970,33 @@ his painted face.
 
 
 
-“Where is the Saw-Horse you rode here?” he asked the Pumpkinhead.
+"Where is the Saw-Horse you rode here?” he asked the Pumpkinhead.
 
 
 
-“Why, I said he was a jewel, and so your man locked him up in the royal
+"Why, I said he was a jewel, and so your man locked him up in the royal
 
 treasury,” said Jack.
 
 
 
-“It was the only place I could think of your Majesty,” added the
+"It was the only place I could think of your Majesty,” added the
 
 Soldier, fearing he had made a blunder.
 
 
 
-“It pleases me very much,” said the Scarecrow. “Has the animal been
+"It pleases me very much,” said the Scarecrow. "Has the animal been
 
 fed?”
 
 
 
-“Oh, yes; I gave him a heaping peck of sawdust.”
+"Oh, yes; I gave him a heaping peck of sawdust.”
 
 
 
-“Excellent!” cried the Scarecrow. “Bring the horse here at once.”
+"Excellent!” cried the Scarecrow. "Bring the horse here at once.”
 
 
 
@@ -4008,17 +4008,17 @@ courtyard.
 
 
 
-His Majesty regarded the steed critically. “He doesn't seem especially
+His Majesty regarded the steed critically. "He doesn't seem especially
 
-graceful!” he remarked, musingly. “but I suppose he can run?”
-
-
-
-“He can, indeed,” said Tip, gazing upon the Saw-Horse admiringly.
+graceful!” he remarked, musingly. "but I suppose he can run?”
 
 
 
-“Then, bearing us upon his back, he must make a dash through the ranks
+"He can, indeed,” said Tip, gazing upon the Saw-Horse admiringly.
+
+
+
+"Then, bearing us upon his back, he must make a dash through the ranks
 
 of the rebels and carry us to my friend the Tin Woodman,” announced the
 
@@ -4026,11 +4026,11 @@ Scarecrow.
 
 
 
-“He can't carry four!” objected Tip.
+"He can't carry four!” objected Tip.
 
 
 
-“No, but he may be induced to carry three,” said his Majesty. “I shall
+"No, but he may be induced to carry three,” said his Majesty. "I shall
 
 therefore leave my Royal Army Behind. For, from the ease with which he
 
@@ -4038,11 +4038,11 @@ was conquered, I have little confidence in his powers.”
 
 
 
-“Still, he can run,” declared Tip, laughing.
+"Still, he can run,” declared Tip, laughing.
 
 
 
-“I expected this blow” said the Soldier, sulkily; “but I can bear it. I
+"I expected this blow” said the Soldier, sulkily; "but I can bear it. I
 
 shall disguise myself by cutting off my lovely green whiskers. And,
 
@@ -4052,7 +4052,7 @@ ride this fiery, untamed wooden horse!”
 
 
 
-“Perhaps you are right,” observed his Majesty. “But, for my part, not
+"Perhaps you are right,” observed his Majesty. "But, for my part, not
 
 being a soldier, I am fond of danger. Now, my boy, you must mount
 
@@ -4070,7 +4070,7 @@ soon as the horse started.
 
 
 
-“Fetch a clothesline,” said the King to his Army, “and tie us all
+"Fetch a clothesline,” said the King to his Army, "and tie us all
 
 together. Then if one falls off we will all fall off.”
 
@@ -4078,17 +4078,17 @@ together. Then if one falls off we will all fall off.”
 
 And while the Soldier was gone for the clothesline his Majesty
 
-continued, “it is well for me to be careful, for my very existence is
+continued, "it is well for me to be careful, for my very existence is
 
 in danger.”
 
 
 
-“I have to be as careful as you do,” said Jack.
+"I have to be as careful as you do,” said Jack.
 
 
 
-“Not exactly,” replied the Scarecrow. “for if anything happened to me,
+"Not exactly,” replied the Scarecrow. "for if anything happened to me,
 
 that would be the end of me. But if anything happened to you, they
 
@@ -4104,7 +4104,7 @@ seemed little danger of their tumbling off.
 
 
 
-“Now throw open the gates,” commanded the Scarecrow, “and we will make
+"Now throw open the gates,” commanded the Scarecrow, "and we will make
 
 a dash to liberty or to death.”
 
@@ -4128,13 +4128,13 @@ unbarred the gate, which swung backward with a loud crash.
 
 
 
-“Now,” said Tip to the horse, “you must save us all. Run as fast as you
+"Now,” said Tip to the horse, "you must save us all. Run as fast as you
 
 can for the gate of the City, and don't let anything stop you.”
 
 
 
-“All right!” answered the Saw-Horse, gruffly, and dashed away so
+"All right!” answered the Saw-Horse, gruffly, and dashed away so
 
 suddenly that Tip had to gasp for breath and hold firmly to the post he
 
@@ -4188,7 +4188,7 @@ philosopher.
 
 
 
-“Slow him up! Slow him up!” shouted the Scarecrow. “My straw is all
+"Slow him up! Slow him up!” shouted the Scarecrow. "My straw is all
 
 shaking down into my legs.”
 
@@ -4246,7 +4246,7 @@ But he managed to lean forward and shout in the ear of the Saw-Horse:
 
 
 
-“Keep still, you fool! Keep still!”
+"Keep still, you fool! Keep still!”
 
 
 
@@ -4256,19 +4256,19 @@ surface, its wooden body being as buoyant as a raft.
 
 
 
-“What does that word ‘fool' mean?” enquired the horse.
+"What does that word ‘fool' mean?” enquired the horse.
 
 
 
-“It is a term of reproach,” answered Tip, somewhat ashamed of the
+"It is a term of reproach,” answered Tip, somewhat ashamed of the
 
-expression. “I only use it when I am angry.”
+expression. "I only use it when I am angry.”
 
 
 
-“Then it pleases me to be able to call you a fool, in return,” said the
+"Then it pleases me to be able to call you a fool, in return,” said the
 
-horse. “For I did not make the river, nor put it in our way; so only a
+horse. "For I did not make the river, nor put it in our way; so only a
 
 term of, reproach is fit for one who becomes angry with me for falling
 
@@ -4276,15 +4276,15 @@ into the water.”
 
 
 
-“That is quite evident,” replied Tip; “so I will acknowledge myself in
+"That is quite evident,” replied Tip; "so I will acknowledge myself in
 
-the wrong.” Then he called out to the Pumpkinhead: “are you all right,
+the wrong.” Then he called out to the Pumpkinhead: "are you all right,
 
 Jack?”
 
 
 
-There was no reply. So the boy called to the King “are you all right,
+There was no reply. So the boy called to the King "are you all right,
 
 your majesty?”
 
@@ -4294,7 +4294,7 @@ The Scarecrow groaned.
 
 
 
-“I'm all wrong, somehow,” he said, in a weak voice. “How very wet this
+"I'm all wrong, somehow,” he said, in a weak voice. "How very wet this
 
 water is!”
 
@@ -4306,7 +4306,7 @@ look at his companions; so he said to the Saw-Horse:
 
 
 
-“Paddle with your legs toward the shore.”
+"Paddle with your legs toward the shore.”
 
 
 
@@ -4386,7 +4386,7 @@ with it to Jack and replaced the head upon the man's neck.
 
 
 
-“Dear me!” were Jack's first words. “What a dreadful experience! I
+"Dear me!” were Jack's first words. "What a dreadful experience! I
 
 wonder if water is liable to spoil pumpkins?”
 
@@ -4402,13 +4402,13 @@ clothing he hung over the body of the Saw-Horse.
 
 
 
-“If water spoils pumpkins,” observed Jack, with a deep sigh, “then my
+"If water spoils pumpkins,” observed Jack, with a deep sigh, "then my
 
 days are numbered.”
 
 
 
-“I've never noticed that water spoils pumpkins,” returned Tip; “unless
+"I've never noticed that water spoils pumpkins,” returned Tip; "unless
 
 the water happens to be boiling. If your head isn't cracked, my friend,
 
@@ -4416,17 +4416,17 @@ you must be in fairly good condition.”
 
 
 
-“Oh, my head isn't cracked in the least,” declared Jack, more
+"Oh, my head isn't cracked in the least,” declared Jack, more
 
 cheerfully.
 
 
 
-“Then don't worry,” retorted the boy. “Care once killed a cat.”
+"Then don't worry,” retorted the boy. "Care once killed a cat.”
 
 
 
-“Then,” said Jack, seriously, “I am very glad indeed that I am not a
+"Then,” said Jack, seriously, "I am very glad indeed that I am not a
 
 cat.”
 
@@ -4444,9 +4444,9 @@ so that he wore his usual gay and charming expression.
 
 
 
-“Thank you very much,” said the monarch, brightly, as he walked about
+"Thank you very much,” said the monarch, brightly, as he walked about
 
-and found himself to be well balanced. “There are several distinct
+and found himself to be well balanced. "There are several distinct
 
 advantages in being a Scarecrow. For if one has friends near at hand to
 
@@ -4454,13 +4454,13 @@ repair damages, nothing very serious can happen to you.”
 
 
 
-“I wonder if hot sunshine is liable to crack pumpkins,” said Jack, with
+"I wonder if hot sunshine is liable to crack pumpkins,” said Jack, with
 
 an anxious ring in his voice.
 
 
 
-“Not at all—not at all!” replied the Scarecrow, gaily. “All you need
+"Not at all—not at all!” replied the Scarecrow, gaily. "All you need
 
 fear, my boy, is old age. When your golden youth has decayed we shall
 
@@ -4484,17 +4484,17 @@ the wooden form of Jack.
 
 
 
-“Go slowly, for now there is no danger of pursuit,” said Tip to his
+"Go slowly, for now there is no danger of pursuit,” said Tip to his
 
 steed.
 
 
 
-“All right!” responded the creature, in a voice rather gruff.
+"All right!” responded the creature, in a voice rather gruff.
 
 
 
-“Aren't you a little hoarse?” asked the Pumpkinhead politely.
+"Aren't you a little hoarse?” asked the Pumpkinhead politely.
 
 
 
@@ -4504,11 +4504,11 @@ toward Tip.
 
 
 
-“See here,” he growled, “can't you protect me from insult?”
+"See here,” he growled, "can't you protect me from insult?”
 
 
 
-“To be sure!” answered Tip, soothingly. “I am sure Jack meant no harm.
+"To be sure!” answered Tip, soothingly. "I am sure Jack meant no harm.
 
 And it will not do for us to quarrel, you know; we must all remain good
 
@@ -4516,9 +4516,9 @@ friends.”
 
 
 
-“I'll have nothing more to do with that Pumpkinhead,” declared the
+"I'll have nothing more to do with that Pumpkinhead,” declared the
 
-Saw-Horse, viciously. “he loses his head too easily to suit me.”
+Saw-Horse, viciously. "he loses his head too easily to suit me.”
 
 
 
@@ -4532,7 +4532,7 @@ After a while the Scarecrow remarked:
 
 
 
-“This reminds me of old times. It was upon this grassy knoll that I
+"This reminds me of old times. It was upon this grassy knoll that I
 
 once saved Dorothy from the Stinging Bees of the Wicked Witch of the
 
@@ -4540,23 +4540,23 @@ West.”
 
 
 
-“Do Stinging Bees injure pumpkins?” asked Jack, glancing around
+"Do Stinging Bees injure pumpkins?” asked Jack, glancing around
 
 fearfully.
 
 
 
-“They are all dead, so it doesn't matter,” replied the Scarecrow. “And
+"They are all dead, so it doesn't matter,” replied the Scarecrow. "And
 
 here is where Nick Chopper destroyed the Wicked Witch's Grey Wolves.”
 
 
 
-“Who was Nick Chopper?” asked Tip.
+"Who was Nick Chopper?” asked Tip.
 
 
 
-“That is the name of my friend the Tin Woodman, answered his Majesty.
+"That is the name of my friend the Tin Woodman, answered his Majesty.
 
 And here is where the Winged Monkeys captured and bound us, and flew
 
@@ -4566,13 +4566,13 @@ little way farther.
 
 
 
-“Do Winged Monkeys ever eat pumpkins?” asked Jack, with a shiver of
+"Do Winged Monkeys ever eat pumpkins?” asked Jack, with a shiver of
 
 fear.
 
 
 
-“I do not know; but you have little cause to, worry, for the Winged
+"I do not know; but you have little cause to, worry, for the Winged
 
 Monkeys are now the slaves of Glinda the Good, who owns the Golden Cap
 
@@ -4594,29 +4594,29 @@ stopped the horse and they all proceeded to dismount.
 
 
 
-“I'm tired out,” said the boy, yawning wearily; “and the grass is soft
+"I'm tired out,” said the boy, yawning wearily; "and the grass is soft
 
 and cool. Let us lie down here and sleep until morning.”
 
 
 
-“I can't sleep,” said Jack.
+"I can't sleep,” said Jack.
 
 
 
-“I never do,” said the Scarecrow.
+"I never do,” said the Scarecrow.
 
 
 
-“I do not even know what sleep is,” said the Saw-Horse.
+"I do not even know what sleep is,” said the Saw-Horse.
 
 
 
-“Still, we must have consideration for this poor boy, who is made of
+"Still, we must have consideration for this poor boy, who is made of
 
 flesh and blood and bone, and gets tired,” suggested the Scarecrow, in
 
-his usual thoughtful manner. “I remember it was the same way with
+his usual thoughtful manner. "I remember it was the same way with
 
 little Dorothy. We always had to sit through the night while she
 
@@ -4624,35 +4624,35 @@ slept.”
 
 
 
-“I'm sorry,” said Tip, meekly, “but I can't help it. And I'm dreadfully
+"I'm sorry,” said Tip, meekly, "but I can't help it. And I'm dreadfully
 
 hungry, too!”
 
 
 
-“Here is a new danger!” remarked Jack, gloomily. “I hope you are not
+"Here is a new danger!” remarked Jack, gloomily. "I hope you are not
 
 fond of eating pumpkins.”
 
 
 
-“Not unless they're stewed and made into pies,” answered the boy,
+"Not unless they're stewed and made into pies,” answered the boy,
 
-laughing. “So have no fears of me, friend Jack.”
-
-
-
-“What a coward that Pumpkinhead is!” said the Saw-Horse, scornfully.
+laughing. "So have no fears of me, friend Jack.”
 
 
 
-“You might be a coward yourself, if you knew you were liable to spoil!”
+"What a coward that Pumpkinhead is!” said the Saw-Horse, scornfully.
+
+
+
+"You might be a coward yourself, if you knew you were liable to spoil!”
 
 retorted Jack, angrily.
 
 
 
-“There!—there!” interrupted the Scarecrow; “don't let us quarrel. We
+"There!—there!” interrupted the Scarecrow; "don't let us quarrel. We
 
 all have our weaknesses, dear friends; so we must strive to be
 
@@ -4664,7 +4664,7 @@ sleep; for it is said that in sleep a mortal may forget even hunger.”
 
 
 
-“Thank you!” exclaimed Tip, gratefully. “Your Majesty is fully as good
+"Thank you!” exclaimed Tip, gratefully. "Your Majesty is fully as good
 
 as you are wise—and that is saying a good deal!”
 
@@ -4722,7 +4722,7 @@ The Scarecrow became greatly animated at this sight, and exclaimed:
 
 
 
-“How delighted I shall be to see my old friend the Tin Woodman again! I
+"How delighted I shall be to see my old friend the Tin Woodman again! I
 
 hope that he rules his people more successfully than I have ruled
 
@@ -4730,11 +4730,11 @@ mine!”
 
 
 
-“Is the Tin Woodman the Emperor of the Winkies?” asked the horse.
+"Is the Tin Woodman the Emperor of the Winkies?” asked the horse.
 
 
 
-“Yes, indeed. They invited him to rule over them soon after the Wicked
+"Yes, indeed. They invited him to rule over them soon after the Wicked
 
 Witch was destroyed; and as Nick Chopper has the best heart in all the
 
@@ -4742,15 +4742,15 @@ world I am sure he has proved an excellent and able emperor.”
 
 
 
-“I thought that ‘Emperor' was the title of a person who rules an
+"I thought that ‘Emperor' was the title of a person who rules an
 
-empire,” said Tip, “and the Country of the Winkies is only a Kingdom.”
+empire,” said Tip, "and the Country of the Winkies is only a Kingdom.”
 
 
 
-“Don't mention that to the Tin Woodman!” exclaimed the Scarecrow,
+"Don't mention that to the Tin Woodman!” exclaimed the Scarecrow,
 
-earnestly. “You would hurt his feelings terribly. He is a proud man, as
+earnestly. "You would hurt his feelings terribly. He is a proud man, as
 
 he has every reason to be, and it pleases him to be termed Emperor
 
@@ -4758,7 +4758,7 @@ rather than King.”
 
 
 
-“I'm sure it makes no difference to me,” replied the boy.
+"I'm sure it makes no difference to me,” replied the boy.
 
 
 
@@ -4776,7 +4776,7 @@ assist them to alight. Said the Scarecrow to his personage:
 
 
 
-“Show us at once to your master, the Emperor.”
+"Show us at once to your master, the Emperor.”
 
 
 
@@ -4786,19 +4786,19 @@ and finally answered:
 
 
 
-“I fear I must ask you to wait for a time. The Emperor is not receiving
+"I fear I must ask you to wait for a time. The Emperor is not receiving
 
 this morning.”
 
 
 
-“How is that?” enquired the Scarecrow, anxiously. “I hope nothing has
+"How is that?” enquired the Scarecrow, anxiously. "I hope nothing has
 
 happened to him.”
 
 
 
-“Oh, no; nothing serious,” returned the man. “But this is his Majesty's
+"Oh, no; nothing serious,” returned the man. "But this is his Majesty's
 
 day for being polished; and just now his august presence is thickly
 
@@ -4806,7 +4806,7 @@ smeared with putz-pomade.”
 
 
 
-“Oh, I see!” cried the Scarecrow, greatly reassured. “My friend was
+"Oh, I see!” cried the Scarecrow, greatly reassured. "My friend was
 
 ever inclined to be a dandy, and I suppose he is now more proud than
 
@@ -4814,13 +4814,13 @@ ever of his personal appearance.”
 
 
 
-“He is, indeed,” said the man, with a polite bow. “Our mighty Emperor
+"He is, indeed,” said the man, with a polite bow. "Our mighty Emperor
 
 has lately caused himself to be nickel-plated.”
 
 
 
-“Good Gracious!” the Scarecrow exclaimed at hearing this. “If his wit
+"Good Gracious!” the Scarecrow exclaimed at hearing this. "If his wit
 
 bears the same polish, how sparkling it must be! But show us in—I'm
 
@@ -4828,7 +4828,7 @@ sure the Emperor will receive us, even in his present state”
 
 
 
-“The Emperor's state is always magnificent,” said the man. “But I will
+"The Emperor's state is always magnificent,” said the man. "But I will
 
 venture to tell him of your arrival, and will receive his commands
 
@@ -4874,7 +4874,7 @@ suddenly heard a loud voice in the next room exclaim:
 
 
 
-“Well! well! well! What a great surprise!”
+"Well! well! well! What a great surprise!”
 
 
 
@@ -4890,9 +4890,9 @@ into many folds and wrinkles.
 
 
 
-“My dear old friend! My noble comrade!” cried the Tin Woodman,
+"My dear old friend! My noble comrade!” cried the Tin Woodman,
 
-joyfully. “how delighted! I am to meet you once again.”
+joyfully. "how delighted! I am to meet you once again.”
 
 
 
@@ -4914,21 +4914,21 @@ comrade.
 
 
 
-“Dear me!” said the Scarecrow dolefully. “What a mess I'm in!”
+"Dear me!” said the Scarecrow dolefully. "What a mess I'm in!”
 
 
 
-“Never mind, my friend,” returned the Tin Woodman, “I'll send you to my
+"Never mind, my friend,” returned the Tin Woodman, "I'll send you to my
 
 Imperial Laundry, and you'll come out as good as new.”
 
 
 
-“Won't I be mangled?” asked the Scarecrow.
+"Won't I be mangled?” asked the Scarecrow.
 
 
 
-“No, indeed!” was the reply. “But tell me, how came your Majesty here?
+"No, indeed!” was the reply. "But tell me, how came your Majesty here?
 
 and who are your companions?”
 
@@ -4942,7 +4942,7 @@ Woodman greatly.
 
 
 
-“You are not very substantial, I must admit,” said the Emperor. “but
+"You are not very substantial, I must admit,” said the Emperor. "but
 
 you are certainly unusual, and therefore worthy to become a member of
 
@@ -4954,21 +4954,21 @@ our select society.”
 
 
 
-“I thank your Majesty,” said Jack, humbly.
+"I thank your Majesty,” said Jack, humbly.
 
 
 
-“I hope you are enjoying good health?” continued the Woodman.
+"I hope you are enjoying good health?” continued the Woodman.
 
 
 
-“At present, yes;” replied the Pumpkinhead, with a sigh; “but I am in
+"At present, yes;” replied the Pumpkinhead, with a sigh; "but I am in
 
 constant terror of the day when I shall spoil.”
 
 
 
-“Nonsense!” said the Emperor—but in a kindly, sympathetic tone. “Do
+"Nonsense!” said the Emperor—but in a kindly, sympathetic tone. "Do
 
 not, I beg of you, dampen today's sun with the showers of tomorrow. For
 
@@ -5008,7 +5008,7 @@ the Scarecrow heartily congratulated him on his improved appearance.
 
 
 
-“That nickel-plate was, I confess, a happy thought,” said Nick; “and it
+"That nickel-plate was, I confess, a happy thought,” said Nick; "and it
 
 was the more necessary because I had become somewhat scratched during
 
@@ -5022,11 +5022,11 @@ placed that valued organ in my breast with his own skillful hands.”
 
 
 
-“Is your heart, then, a hand-organ?” asked the Pumpkinhead, curiously.
+"Is your heart, then, a hand-organ?” asked the Pumpkinhead, curiously.
 
 
 
-“By no means,” responded the emperor, with dignity. “It is, I am
+"By no means,” responded the emperor, with dignity. "It is, I am
 
 convinced, a strictly orthodox heart, although somewhat larger and
 
@@ -5038,25 +5038,25 @@ Then he turned to the Scarecrow and asked:
 
 
 
-“Are your subjects happy and contented, my dear friend?”
+"Are your subjects happy and contented, my dear friend?”
 
 
 
-“I cannot, say” was the reply. “for the girls of Oz have risen in
+"I cannot, say” was the reply. "for the girls of Oz have risen in
 
 revolt and driven me out of the emerald City.”
 
 
 
-“Great Goodness!” cried the Tin Woodman, “What a calamity! They surely
+"Great Goodness!” cried the Tin Woodman, "What a calamity! They surely
 
 do not complain of your wise and gracious rule?”
 
 
 
-“No; but they say it is a poor rule that don't work both ways,”
+"No; but they say it is a poor rule that don't work both ways,”
 
-answered the Scarecrow; “and these females are also of the opinion that
+answered the Scarecrow; "and these females are also of the opinion that
 
 men have ruled the land long enough. So they have captured my city,
 
@@ -5066,33 +5066,33 @@ themselves.”
 
 
 
-“Dear me! What an extraordinary idea!” cried the Emperor, who was both
+"Dear me! What an extraordinary idea!” cried the Emperor, who was both
 
 shocked and surprised.
 
 
 
-“And I heard some of them say,” said Tip, “that they intend to march
+"And I heard some of them say,” said Tip, "that they intend to march
 
 here and capture the castle and city of the Tin Woodman.”
 
 
 
-“Ah! we must not give them time to do that,” said the Emperor, quickly;
+"Ah! we must not give them time to do that,” said the Emperor, quickly;
 
-“we will go at once and recapture the Emerald City and place the
+"we will go at once and recapture the Emerald City and place the
 
 Scarecrow again upon his throne.”
 
 
 
-“I was sure you would help me,” remarked the Scarecrow in a pleased
+"I was sure you would help me,” remarked the Scarecrow in a pleased
 
-voice. “How large an army can you assemble?”
+voice. "How large an army can you assemble?”
 
 
 
-“We do not need an army,” replied the Woodman. “We four, with the aid
+"We do not need an army,” replied the Woodman. "We four, with the aid
 
 of my gleaming axe, are enough to strike terror into the hearts of the
 
@@ -5100,15 +5100,15 @@ rebels.”
 
 
 
-“We five,” corrected the Pumpkinhead.
+"We five,” corrected the Pumpkinhead.
 
 
 
-“Five?” repeated the Tin Woodman.
+"Five?” repeated the Tin Woodman.
 
 
 
-“Yes; the Saw-Horse is brave and fearless,” answered Jack, forgetting
+"Yes; the Saw-Horse is brave and fearless,” answered Jack, forgetting
 
 his recent quarrel with the quadruped.
 
@@ -5126,25 +5126,25 @@ center-table and the engraved oil-can.
 
 
 
-“I begin to think,” remarked the Tin Woodman as he looked earnestly at
+"I begin to think,” remarked the Tin Woodman as he looked earnestly at
 
-the Saw-Horse, “that wonders will never cease! How came this creature
+the Saw-Horse, "that wonders will never cease! How came this creature
 
 alive?”
 
 
 
-“I did it with a magic powder,” modestly asserted the boy. “and the
+"I did it with a magic powder,” modestly asserted the boy. "and the
 
 Saw-Horse has been very useful to us.”
 
 
 
-“He enabled us to escape the rebels,” added the Scarecrow.
+"He enabled us to escape the rebels,” added the Scarecrow.
 
 
 
-“Then we must surely accept him as a comrade,” declared the emperor. “A
+"Then we must surely accept him as a comrade,” declared the emperor. "A
 
 live Saw-Horse is a distinct novelty, and should prove an interesting
 
@@ -5152,15 +5152,15 @@ study. Does he know anything?”
 
 
 
-“Well, I cannot claim any great experience in life,” the Saw-Horse
+"Well, I cannot claim any great experience in life,” the Saw-Horse
 
-answered for himself. “but I seem to learn very quickly, and often it
+answered for himself. "but I seem to learn very quickly, and often it
 
 occurs to me that I know more than any of those around me.”
 
 
 
-“Perhaps you do,” said the emperor; “for experience does not always
+"Perhaps you do,” said the emperor; "for experience does not always
 
 mean wisdom. But time is precious just now, so let us quickly make
 
@@ -5288,19 +5288,19 @@ That was why the Tin Woodman presently stopped and said:
 
 
 
-“Something very curious has happened. I ought to know by heart and
+"Something very curious has happened. I ought to know by heart and
 
 every step of this Journey, yet I fear we have already lost our way.”
 
 
 
-“That is quite impossible!” protested the Scarecrow. “Why do you think,
+"That is quite impossible!” protested the Scarecrow. "Why do you think,
 
 my dear friend, that we have gone astray?”
 
 
 
-“Why, here before us is a great field of sunflowers—and I never saw
+"Why, here before us is a great field of sunflowers—and I never saw
 
 this field before in all my life.”
 
@@ -5322,7 +5322,7 @@ which way to turn.
 
 
 
-“It's witchcraft!” exclaimed Tip.
+"It's witchcraft!” exclaimed Tip.
 
 
 
@@ -5342,7 +5342,7 @@ laughter at the dismay their appearance caused.
 
 
 
-“Stop! stop!” cried Tip, seizing the Woodman's arm; “they're alive!
+"Stop! stop!” cried Tip, seizing the Woodman's arm; "they're alive!
 
 they're girls!”
 
@@ -5358,23 +5358,23 @@ The Tin Woodman dropped his axe and sat down upon the ground.
 
 
 
-“It would be heartless to chop down those pretty creatures,” said he,
+"It would be heartless to chop down those pretty creatures,” said he,
 
-despondently. “and yet I do not know how else we can proceed upon our
+despondently. "and yet I do not know how else we can proceed upon our
 
 way”
 
 
 
-“They looked to me strangely like the faces of the Army of Revolt,”
+"They looked to me strangely like the faces of the Army of Revolt,”
 
-mused the Scarecrow. “But I cannot conceive how the girls could have
+mused the Scarecrow. "But I cannot conceive how the girls could have
 
 followed us here so quickly.”
 
 
 
-“I believe it's magic,” said Tip, positively, “and that someone is
+"I believe it's magic,” said Tip, positively, "and that someone is
 
 playing a trick upon us. I've known old Mombi do things like that
 
@@ -5384,11 +5384,11 @@ sunflowers here at all.”
 
 
 
-“Then let us shut our eyes and walk forward,” suggested the Woodman.
+"Then let us shut our eyes and walk forward,” suggested the Woodman.
 
 
 
-“Excuse me,” replied the Scarecrow. “My eyes are not painted to shut.
+"Excuse me,” replied the Scarecrow. "My eyes are not painted to shut.
 
 Because you happen to have tin eyelids, you must not imagine we are all
 
@@ -5396,13 +5396,13 @@ built in the same way.”
 
 
 
-“And the eyes of the Saw-Horse are knot eyes,” said Jack, leaning
+"And the eyes of the Saw-Horse are knot eyes,” said Jack, leaning
 
 forward to examine them.
 
 
 
-“Nevertheless, you must ride quickly forward,” commanded Tip, “and we
+"Nevertheless, you must ride quickly forward,” commanded Tip, "and we
 
 will follow after you and so try to escape. My eyes are already so
 
@@ -5464,7 +5464,7 @@ must be replaced or repaired before he could go a step farther.
 
 
 
-“This is quite serious,” said the Tin Woodman. “If there were trees
+"This is quite serious,” said the Tin Woodman. "If there were trees
 
 near by I might soon manufacture another leg for this animal; but I
 
@@ -5472,25 +5472,25 @@ cannot see even a shrub for miles around.”
 
 
 
-“And there are neither fences nor houses in this part of the land of
+"And there are neither fences nor houses in this part of the land of
 
 Oz,” added the Scarecrow, disconsolately.
 
 
 
-“Then what shall we do?” enquired the boy.
+"Then what shall we do?” enquired the boy.
 
 
 
-“I suppose I must start my brains working,” replied his Majesty the
+"I suppose I must start my brains working,” replied his Majesty the
 
-Scarecrow; “for experience has, taught me that I can do anything if I
+Scarecrow; "for experience has, taught me that I can do anything if I
 
 but take time to think it out.”
 
 
 
-“Let us all think,” said Tip; “and perhaps we shall find a way to
+"Let us all think,” said Tip; "and perhaps we shall find a way to
 
 repair the Saw-Horse.”
 
@@ -5506,11 +5506,11 @@ Saw-Horse occupied itself by gazing curiously upon its broken limb.
 
 
 
-“Does it hurt?” asked the Tin Woodman, in a soft, sympathetic voice.
+"Does it hurt?” asked the Tin Woodman, in a soft, sympathetic voice.
 
 
 
-“Not in the least,” returned the Saw-Horse; “but my pride is injured to
+"Not in the least,” returned the Saw-Horse; "but my pride is injured to
 
 find that my anatomy is so brittle.”
 
@@ -5522,7 +5522,7 @@ Tin Woodman raised his head and looked over the fields.
 
 
 
-“What sort of creature is that which approaches us?” he asked,
+"What sort of creature is that which approaches us?” he asked,
 
 wonderingly.
 
@@ -5546,7 +5546,7 @@ The Scarecrow was calm under all circumstances.
 
 
 
-“Good morning!” he said, politely.
+"Good morning!” he said, politely.
 
 
 
@@ -5556,7 +5556,7 @@ responded:
 
 
 
-“Good morning, one and all. I hope you are, as an aggregation, enjoying
+"Good morning, one and all. I hope you are, as an aggregation, enjoying
 
 excellent health. Permit me to present my card.”
 
@@ -5574,15 +5574,15 @@ The boy read aloud:
 
 
 
-“MR. H. M. WOGGLE-BUG, T. E.”
+"MR. H. M. WOGGLE-BUG, T. E.”
 
 
 
-“Dear me!” ejaculated the Pumpkinhead, staring somewhat intently.
+"Dear me!” ejaculated the Pumpkinhead, staring somewhat intently.
 
 
 
-“How very peculiar!” said the Tin Woodman.
+"How very peculiar!” said the Tin Woodman.
 
 
 
@@ -5592,31 +5592,31 @@ and turned away its head.
 
 
 
-“Are you really a Woggle-Bug?” enquired the Scarecrow.
+"Are you really a Woggle-Bug?” enquired the Scarecrow.
 
 
 
-“Most certainly, my dear sir!” answered the stranger, briskly. “Is not
+"Most certainly, my dear sir!” answered the stranger, briskly. "Is not
 
 my name upon the card?”
 
 
 
-“It is,” said the Scarecrow. “But may I ask what ‘H. M.' stands for?”
+"It is,” said the Scarecrow. "But may I ask what ‘H. M.' stands for?”
 
 
 
-“‘H. M.' means Highly Magnified,” returned the Woggle-Bug, proudly.
+"‘H. M.' means Highly Magnified,” returned the Woggle-Bug, proudly.
 
 
 
-“Oh, I see.” The Scarecrow viewed the stranger critically. “And are
+"Oh, I see.” The Scarecrow viewed the stranger critically. "And are
 
 you, in truth, highly magnified?”
 
 
 
-“Sir,” said the Woggle-Bug, “I take you for a gentleman of judgment and
+"Sir,” said the Woggle-Bug, "I take you for a gentleman of judgment and
 
 discernment. Does it not occur to you that I am several thousand times
 
@@ -5628,7 +5628,7 @@ why you should doubt the fact.”
 
 
 
-“Pardon me,” returned the Scarecrow. “My brains are slightly mixed
+"Pardon me,” returned the Scarecrow. "My brains are slightly mixed
 
 since I was last laundered. Would it be improper for me to ask, also,
 
@@ -5636,15 +5636,15 @@ what the ‘T.E.' at the end of your name stands for?”
 
 
 
-“Those letters express my degree,” answered the Woggle-Bug, with a
+"Those letters express my degree,” answered the Woggle-Bug, with a
 
-condescending smile. “To be more explicit, the initials mean that I am
+condescending smile. "To be more explicit, the initials mean that I am
 
 Thoroughly Educated.”
 
 
 
-“Oh!” said the Scarecrow, much relieved.
+"Oh!” said the Scarecrow, much relieved.
 
 
 
@@ -5664,7 +5664,7 @@ together at the edges. Its arms were fully as slender as its legs, and
 
 upon a rather long neck was perched its head—not unlike the head of a
 
-man, except that its nose ended in a curling antenna, or “feeler,” and
+man, except that its nose ended in a curling antenna, or "feeler,” and
 
 its ears from the upper points bore antennae that decorated the sides
 
@@ -5696,7 +5696,7 @@ of Oz had ever before attained so enormous a size.
 
 
 
-“I confess,” said the Scarecrow, “that your abrupt appearance has
+"I confess,” said the Scarecrow, "that your abrupt appearance has
 
 caused me surprise, and no doubt has startled my companions. I hope,
 
@@ -5706,9 +5706,9 @@ probably get used to you in time.”
 
 
 
-“Do not apologize, I beg of you!” returned the Woggle-Bug, earnestly.
+"Do not apologize, I beg of you!” returned the Woggle-Bug, earnestly.
 
-“It affords me great pleasure to surprise people; for surely I cannot
+"It affords me great pleasure to surprise people; for surely I cannot
 
 be classed with ordinary insects and am entitled to both curiosity and
 
@@ -5716,13 +5716,13 @@ admiration from those I meet.”
 
 
 
-“You are, indeed,” agreed his Majesty.
+"You are, indeed,” agreed his Majesty.
 
 
 
-“If you will permit me to seat myself in your august company,”
+"If you will permit me to seat myself in your august company,”
 
-continued the stranger, “I will gladly relate my history, so that you
+continued the stranger, "I will gladly relate my history, so that you
 
 will be better able to comprehend my unusual—may I say
 
@@ -5730,7 +5730,7 @@ remarkable?—appearance.”
 
 
 
-“You may say what you please,” answered the Tin Woodman, briefly.
+"You may say what you please,” answered the Tin Woodman, briefly.
 
 
 
@@ -5760,11 +5760,11 @@ A Highly Magnified History
 
 
 
-“It is but honest that I should acknowledge at the beginning of my
+"It is but honest that I should acknowledge at the beginning of my
 
 recital that I was born an ordinary Woggle-Bug,” began the creature, in
 
-a frank and friendly tone. “Knowing no better, I used my arms as well
+a frank and friendly tone. "Knowing no better, I used my arms as well
 
 as my legs for walking, and crawled under the edges of stones or hid
 
@@ -5774,7 +5774,7 @@ smaller than myself to feed upon.
 
 
 
-“The chill nights rendered me stiff and motionless, for I wore no
+"The chill nights rendered me stiff and motionless, for I wore no
 
 clothing, but each morning the warm rays of the sun gave me new life
 
@@ -5786,7 +5786,7 @@ as of many other tiny creatures that inhabit the earth.
 
 
 
-“But Destiny had singled me out, humble though I was, for a grander
+"But Destiny had singled me out, humble though I was, for a grander
 
 fate! One day I crawled near to a country school house, and my
 
@@ -5800,7 +5800,7 @@ the master at his desk.
 
 
 
-“No one noticed so small a creature as a Woggle-Bug, and when I found
+"No one noticed so small a creature as a Woggle-Bug, and when I found
 
 that the hearth was even warmer and more comfortable than the sunshine,
 
@@ -5810,7 +5810,7 @@ nest between two bricks and hid myself therein for many, many months.
 
 
 
-“Professor Nowitall is, doubtless, the most famous scholar in the land
+"Professor Nowitall is, doubtless, the most famous scholar in the land
 
 of Oz, and after a few days I began to listen to the lectures and
 
@@ -5828,7 +5828,7 @@ a tenth part of my own culture and erudition.”
 
 
 
-“I do not blame you,” said the Scarecrow. “Education is a thing to be
+"I do not blame you,” said the Scarecrow. "Education is a thing to be
 
 proud of. I'm educated myself. The mess of brains given me by the Great
 
@@ -5836,29 +5836,29 @@ Wizard is considered by my friends to be unexcelled.”
 
 
 
-“Nevertheless,” interrupted the Tin Woodman, “a good heart is, I
+"Nevertheless,” interrupted the Tin Woodman, "a good heart is, I
 
 believe, much more desirable than education or brains.”
 
 
 
-“To me,” said the Saw-Horse, “a good leg is more desirable than
+"To me,” said the Saw-Horse, "a good leg is more desirable than
 
 either.”
 
 
 
-“Could seeds be considered in the light of brains?” enquired the
+"Could seeds be considered in the light of brains?” enquired the
 
 Pumpkinhead, abruptly.
 
 
 
-“Keep quiet!” commanded Tip, sternly.
+"Keep quiet!” commanded Tip, sternly.
 
 
 
-“Very well, dear father,” answered the obedient Jack.
+"Very well, dear father,” answered the obedient Jack.
 
 
 
@@ -5868,21 +5868,21 @@ and then resumed his story.
 
 
 
-“I must have lived fully three years in that secluded school-house
+"I must have lived fully three years in that secluded school-house
 
-hearth,” said he, “drinking thirstily of the ever-flowing fount of
+hearth,” said he, "drinking thirstily of the ever-flowing fount of
 
 limpid knowledge before me.”
 
 
 
-“Quite poetical,” commented the Scarecrow, nodding his head
+"Quite poetical,” commented the Scarecrow, nodding his head
 
 approvingly.
 
 
 
-“But one, day” continued the Bug, “a marvelous circumstance occurred
+"But one, day” continued the Bug, "a marvelous circumstance occurred
 
 that altered my very existence and brought me to my present pinnacle of
 
@@ -5898,17 +5898,17 @@ thumb and forefinger.
 
 
 
-“‘My dear children,' said he, ‘I have captured a Woggle-Bug—a very rare
+"‘My dear children,' said he, ‘I have captured a Woggle-Bug—a very rare
 
 and interesting specimen. Do any of you know what a Woggle-Bug is?'
 
 
 
-“‘No!' yelled the scholars, in chorus.
+"‘No!' yelled the scholars, in chorus.
 
 
 
-“‘Then,' said the Professor, ‘I will get out my famous magnifying-glass
+"‘Then,' said the Professor, ‘I will get out my famous magnifying-glass
 
 and throw the insect upon a screen in a highly-magnified condition,
 
@@ -5918,7 +5918,7 @@ acquainted with its habits and manner of life.'
 
 
 
-“He then brought from a cupboard a most curious instrument, and before
+"He then brought from a cupboard a most curious instrument, and before
 
 I could realize what had happened I found myself thrown upon a screen
 
@@ -5930,7 +5930,7 @@ in a highly-magnified state—even as you now behold me.
 
 
 
-“The students stood up on their stools and craned their heads forward
+"The students stood up on their stools and craned their heads forward
 
 to get a better view of me, and two little girls jumped upon the sill
 
@@ -5938,13 +5938,13 @@ of an open window where they could see more plainly.
 
 
 
-“‘Behold!' cried the Professor, in a loud voice, ‘this highly-magnified
+"‘Behold!' cried the Professor, in a loud voice, ‘this highly-magnified
 
 Woggle-Bug; one of the most curious insects in existence!'
 
 
 
-“Being Thoroughly Educated, and knowing what is required of a cultured
+"Being Thoroughly Educated, and knowing what is required of a cultured
 
 gentleman, at this juncture I stood upright and, placing my hand upon
 
@@ -5958,7 +5958,7 @@ companion with her as she disappeared.
 
 
 
-“The Professor uttered a cry of horror and rushed away through the door
+"The Professor uttered a cry of horror and rushed away through the door
 
 to see if the poor children were injured by the fall. The scholars
 
@@ -5970,7 +5970,7 @@ pleased.
 
 
 
-“It immediately occurred to me that this was a good opportunity to
+"It immediately occurred to me that this was a good opportunity to
 
 escape. I was proud of my great size, and realized that now I could
 
@@ -5982,7 +5982,7 @@ meet.
 
 
 
-“So, while the Professor picked the little girls—who were more
+"So, while the Professor picked the little girls—who were more
 
 frightened than hurt—off the ground, and the pupils clustered around
 
@@ -5992,11 +5992,11 @@ corner, and escaped unnoticed to a grove of trees that stood near”
 
 
 
-“Wonderful!” exclaimed the Pumpkinhead, admiringly.
+"Wonderful!” exclaimed the Pumpkinhead, admiringly.
 
 
 
-“It was, indeed,” agreed the Woggle-Bug. “I have never ceased to
+"It was, indeed,” agreed the Woggle-Bug. "I have never ceased to
 
 congratulate myself for escaping while I was Highly Magnified; for even
 
@@ -6010,13 +6010,13 @@ remained a tiny, insignificant insect.”
 
 
 
-“I didn't know before,” said Tip, looking at the Woggle-Bug with a
+"I didn't know before,” said Tip, looking at the Woggle-Bug with a
 
-puzzled expression, “that insects wore clothes.”
+puzzled expression, "that insects wore clothes.”
 
 
 
-“Nor do they, in their natural state,” returned the stranger. “But in
+"Nor do they, in their natural state,” returned the stranger. "But in
 
 the course of my wanderings I had the good fortune to save the ninth
 
@@ -6034,21 +6034,21 @@ slowly, that all might examine his person.
 
 
 
-“He must have been a good tailor,” said the Scarecrow, somewhat
+"He must have been a good tailor,” said the Scarecrow, somewhat
 
 enviously.
 
 
 
-“He was a good-hearted tailor, at any rate,” observed Nick Chopper.
+"He was a good-hearted tailor, at any rate,” observed Nick Chopper.
 
 
 
-“But where were you going, when you met us?” Tip asked the Woggle-Bug.
+"But where were you going, when you met us?” Tip asked the Woggle-Bug.
 
 
 
-“Nowhere in particular,” was the reply, “although it is my intention
+"Nowhere in particular,” was the reply, "although it is my intention
 
 soon to visit the Emerald City and arrange to give a course of lectures
 
@@ -6056,7 +6056,7 @@ to select audiences on the ‘Advantages of Magnification.'”
 
 
 
-“We are bound for the Emerald City now,” said the Tin Woodman; “so, if
+"We are bound for the Emerald City now,” said the Tin Woodman; "so, if
 
 it pleases you to do so, you are welcome to travel in our company.”
 
@@ -6066,7 +6066,7 @@ The Woggle-Bug bowed with profound grace.
 
 
 
-“It will give me great pleasure,” said he “to accept your kind
+"It will give me great pleasure,” said he "to accept your kind
 
 invitation; for nowhere in the Land of Oz could I hope to meet with so
 
@@ -6074,13 +6074,13 @@ congenial a company.”
 
 
 
-“That is true,” acknowledged the Pumpkinhead. “We are quite as
+"That is true,” acknowledged the Pumpkinhead. "We are quite as
 
 congenial as flies and honey.”
 
 
 
-“But—pardon me if I seem inquisitive—are you not all rather—ahem!
+"But—pardon me if I seem inquisitive—are you not all rather—ahem!
 
 rather unusual?” asked the Woggle-Bug, looking from one to another with
 
@@ -6088,29 +6088,29 @@ unconcealed interest.
 
 
 
-“Not more so than yourself,” answered the Scarecrow. “Everything in
+"Not more so than yourself,” answered the Scarecrow. "Everything in
 
 life is unusual until you get accustomed to it.”
 
 
 
-“What rare philosophy!” exclaimed the Woggle-Bug, admiringly.
+"What rare philosophy!” exclaimed the Woggle-Bug, admiringly.
 
 
 
-“Yes; my brains are working well today,” admitted the Scarecrow, an
+"Yes; my brains are working well today,” admitted the Scarecrow, an
 
 accent of pride in his voice.
 
 
 
-“Then, if you are sufficiently rested and refreshed, let us bend our
+"Then, if you are sufficiently rested and refreshed, let us bend our
 
 steps toward the Emerald City,” suggested the magnified one.
 
 
 
-“We can't,” said Tip. “The Saw-Horse has broken a leg, so he can't bend
+"We can't,” said Tip. "The Saw-Horse has broken a leg, so he can't bend
 
 his steps. And there is no wood around to make him a new limb from. And
 
@@ -6120,13 +6120,13 @@ his Joints that he has to ride.”
 
 
 
-“How very unfortunate!” cried the Woggle-Bug. Then he looked the party
+"How very unfortunate!” cried the Woggle-Bug. Then he looked the party
 
 over carefully and said:
 
 
 
-“If the Pumpkinhead is to ride, why not use one of his legs to make a
+"If the Pumpkinhead is to ride, why not use one of his legs to make a
 
 leg for the horse that carries him? I judge that both are made of
 
@@ -6134,9 +6134,9 @@ wood.”
 
 
 
-“Now, that is what I call real cleverness,” said the Scarecrow,
+"Now, that is what I call real cleverness,” said the Scarecrow,
 
-approvingly. “I wonder my brains did not think of that long ago! Get to
+approvingly. "I wonder my brains did not think of that long ago! Get to
 
 work, my dear Nick, and fit the Pumpkinhead's leg to the Saw-Horse.”
 
@@ -6150,33 +6150,33 @@ fit the left leg of the Saw-Horse. Nor was the Saw-Horse especially
 
 pleased with the operation, either; for he growled a good deal about
 
-being “butchered,” as he called it, and afterward declared that the new
+being "butchered,” as he called it, and afterward declared that the new
 
 leg was a disgrace to a respectable Saw-Horse.
 
 
 
-“I beg you to be more careful in your speech,” said the Pumpkinhead,
+"I beg you to be more careful in your speech,” said the Pumpkinhead,
 
-sharply. “Remember, if you please, that it is my leg you are abusing.”
+sharply. "Remember, if you please, that it is my leg you are abusing.”
 
 
 
-“I cannot forget it,” retorted the Saw-Horse, “for it is quite as
+"I cannot forget it,” retorted the Saw-Horse, "for it is quite as
 
 flimsy as the rest of your person.”
 
 
 
-“Flimsy! me flimsy!” cried Jack, in a rage. “How dare you call me
+"Flimsy! me flimsy!” cried Jack, in a rage. "How dare you call me
 
 flimsy?”
 
 
 
-“Because you are built as absurdly as a jumping-jack,” sneered the
+"Because you are built as absurdly as a jumping-jack,” sneered the
 
-horse, rolling his knotty eyes in a vicious manner. “Even your head
+horse, rolling his knotty eyes in a vicious manner. "Even your head
 
 won't stay straight, and you never can tell whether you are looking
 
@@ -6184,21 +6184,21 @@ backwards or forwards!”
 
 
 
-“Friends, I entreat you not to quarrel!” pleaded the Tin Woodman,
+"Friends, I entreat you not to quarrel!” pleaded the Tin Woodman,
 
-anxiously. “As a matter of fact, we are none of us above criticism; so
+anxiously. "As a matter of fact, we are none of us above criticism; so
 
 let us bear with each others' faults.”
 
 
 
-“An excellent suggestion,” said the Woggle-Bug, approvingly. “You must
+"An excellent suggestion,” said the Woggle-Bug, approvingly. "You must
 
 have an excellent heart, my metallic friend.”
 
 
 
-“I have,” returned Nick, well pleased. “My heart is quite the best part
+"I have,” returned Nick, well pleased. "My heart is quite the best part
 
 of me. But now let us start upon our Journey.
 
@@ -6252,27 +6252,27 @@ yet.
 
 
 
-“It was a shame that I broke my other leg!” it growled.
+"It was a shame that I broke my other leg!” it growled.
 
 
 
-“On the contrary,” airily remarked the Woggle-Bug, who was walking
+"On the contrary,” airily remarked the Woggle-Bug, who was walking
 
-alongside, “you should consider the accident most fortunate. For a
+alongside, "you should consider the accident most fortunate. For a
 
 horse is never of much use until he has been broken.”
 
 
 
-“I beg your pardon,” said Tip, rather provoked, for he felt a warm
+"I beg your pardon,” said Tip, rather provoked, for he felt a warm
 
-interest in both the Saw-Horse and his man Jack; “but permit me to say
+interest in both the Saw-Horse and his man Jack; "but permit me to say
 
 that your joke is a poor one, and as old as it is poor.”
 
 
 
-“Still, it is a Joke,” declared the Woggle-Bug; firmly, “and a Joke
+"Still, it is a Joke,” declared the Woggle-Bug; firmly, "and a Joke
 
 derived from a play upon words is considered among educated people to
 
@@ -6280,11 +6280,11 @@ be eminently proper.”
 
 
 
-“What does that mean?” enquired the Pumpkinhead, stupidly.
+"What does that mean?” enquired the Pumpkinhead, stupidly.
 
 
 
-“It means, my dear friend,” explained the Woggle-Bug, “that our
+"It means, my dear friend,” explained the Woggle-Bug, "that our
 
 language contains many words having a double meaning; and that to
 
@@ -6296,21 +6296,21 @@ thorough command of the language.”
 
 
 
-“I don't believe that,” said Tip, plainly; “anybody can make a pun.”
+"I don't believe that,” said Tip, plainly; "anybody can make a pun.”
 
 
 
-“Not so,” rejoined the Woggle-Bug, stiffly. “It requires education of a
+"Not so,” rejoined the Woggle-Bug, stiffly. "It requires education of a
 
 high order. Are you educated, young sir?”
 
 
 
-“Not especially,” admitted Tip.
+"Not especially,” admitted Tip.
 
 
 
-“Then you cannot judge the matter. I myself am Thoroughly Educated, and
+"Then you cannot judge the matter. I myself am Thoroughly Educated, and
 
 I say that puns display genius. For instance, were I to ride upon this
 
@@ -6338,7 +6338,7 @@ remark, and the Scarecrow was obliged to say:
 
 
 
-“I have heard, my dear friend, that a person can become over-educated;
+"I have heard, my dear friend, that a person can become over-educated;
 
 and although I have a high respect for brains, no matter how they may
 
@@ -6350,7 +6350,7 @@ education while in our society.”
 
 
 
-“We are not very particular,” added the Tin Woodman; “and we are
+"We are not very particular,” added the Tin Woodman; "and we are
 
 exceedingly kind hearted. But if your superior culture gets leaky
 
@@ -6368,11 +6368,11 @@ period of deep thought, said in an humble voice:
 
 
 
-“I will endeavor to restrain myself.”
+"I will endeavor to restrain myself.”
 
 
 
-“That is all we can expect,” returned the Scarecrow pleasantly; and
+"That is all we can expect,” returned the Scarecrow pleasantly; and
 
 good nature being thus happily restored to the party, they proceeded
 
@@ -6388,17 +6388,17 @@ the grassy meadow.
 
 
 
-“This must be a village of the Field Mice,” he said to the Scarecrow.
+"This must be a village of the Field Mice,” he said to the Scarecrow.
 
-“I wonder if my old friend, the Queen of the Mice, is in this
+"I wonder if my old friend, the Queen of the Mice, is in this
 
 neighborhood.”
 
 
 
-“If she is, she may be of great service to us,” answered the Scarecrow,
+"If she is, she may be of great service to us,” answered the Scarecrow,
 
-who was impressed by a sudden thought. “See if you can call her, my
+who was impressed by a sudden thought. "See if you can call her, my
 
 dear Nick.”
 
@@ -6416,31 +6416,31 @@ trusted.
 
 
 
-“Good day, your Majesty,” said Nick, politely addressing the mouse; “I
+"Good day, your Majesty,” said Nick, politely addressing the mouse; "I
 
 trust you are enjoying good health?”
 
 
 
-“Thank you, I am quite well,” answered the Queen, demurely, as she sat
+"Thank you, I am quite well,” answered the Queen, demurely, as she sat
 
-up and displayed the tiny golden crown upon her head. “Can I do
+up and displayed the tiny golden crown upon her head. "Can I do
 
 anything to assist my old friends?”
 
 
 
-“You can, indeed,” replied the Scarecrow, eagerly. “Let me, I intreat
+"You can, indeed,” replied the Scarecrow, eagerly. "Let me, I intreat
 
 you, take a dozen of your subjects with me to the Emerald City.”
 
 
 
-“Will they be injured in any way?” asked the Queen, doubtfully.
+"Will they be injured in any way?” asked the Queen, doubtfully.
 
 
 
-“I think not,” replied the Scarecrow. “I will carry them hidden in the
+"I think not,” replied the Scarecrow. "I will carry them hidden in the
 
 straw which stuffs my body, and when I give them the signal by
 
@@ -6452,7 +6452,7 @@ my throne, which the Army of Revolt has taken from me.”
 
 
 
-“In that case,” said the Queen, “I will not refuse your request.
+"In that case,” said the Queen, "I will not refuse your request.
 
 Whenever you are ready, I will call twelve of my most intelligent
 
@@ -6460,7 +6460,7 @@ subjects.”
 
 
 
-“I am ready now” returned the Scarecrow. Then he lay flat upon the
+"I am ready now” returned the Scarecrow. Then he lay flat upon the
 
 ground and unbuttoned his jacket, displaying the mass of straw with
 
@@ -6498,15 +6498,15 @@ Queen for her kindness.
 
 
 
-“One thing more you might do to serve us,” suggested the Tin Woodman;
+"One thing more you might do to serve us,” suggested the Tin Woodman;
 
-“and that is to run ahead and show us the way to the Emerald City. For
+"and that is to run ahead and show us the way to the Emerald City. For
 
 some enemy is evidently trying to prevent us from reaching it.”
 
 
 
-“I will do that gladly,” returned the Queen. “Are you ready?”
+"I will do that gladly,” returned the Queen. "Are you ready?”
 
 
 
@@ -6514,7 +6514,7 @@ The Tin Woodman looked at Tip.
 
 
 
-“I'm rested,” said the boy. “Let us start.”
+"I'm rested,” said the boy. "Let us start.”
 
 
 
@@ -6582,25 +6582,25 @@ first time the Scarecrow became afraid and turned to fly.
 
 
 
-“If that fire reaches me I will be gone in no time!” said he, trembling
+"If that fire reaches me I will be gone in no time!” said he, trembling
 
-until his straw rattled. “It's the most dangerous thing I ever
+until his straw rattled. "It's the most dangerous thing I ever
 
 encountered.”
 
 
 
-“I'm off, too!” cried the Saw-Horse, turning and prancing with
+"I'm off, too!” cried the Saw-Horse, turning and prancing with
 
-agitation; “for my wood is so dry it would burn like kindlings.”
-
-
-
-“Is fire dangerous to pumpkins?” asked Jack, fearfully.
+agitation; "for my wood is so dry it would burn like kindlings.”
 
 
 
-“You'll be baked like a tart—and so will I!” answered the Woggle-Bug,
+"Is fire dangerous to pumpkins?” asked Jack, fearfully.
+
+
+
+"You'll be baked like a tart—and so will I!” answered the Woggle-Bug,
 
 getting down on all fours so he could run the faster.
 
@@ -6612,7 +6612,7 @@ few sensible words.
 
 
 
-“Look at the Field Mouse!” he shouted. “The fire does not burn her in
+"Look at the Field Mouse!” he shouted. "The fire does not burn her in
 
 the least. In fact, it is no fire at all, but only a deception.”
 
@@ -6626,15 +6626,15 @@ her without being even scorched.
 
 
 
-“This is surely a most extraordinary adventure,” said the Woggle-Bug,
+"This is surely a most extraordinary adventure,” said the Woggle-Bug,
 
-who was greatly amazed; “for it upsets all the Natural Laws that I
+who was greatly amazed; "for it upsets all the Natural Laws that I
 
 heard Professor Nowitall teach in the school-house.”
 
 
 
-“Of course it does,” said the Scarecrow, wisely. “All magic is
+"Of course it does,” said the Scarecrow, wisely. "All magic is
 
 unnatural, and for that reason is to be feared and avoided. But I see
 
@@ -6652,13 +6652,13 @@ them good-bye.
 
 
 
-“We are very grateful to your Majesty for your kind assistance,” said
+"We are very grateful to your Majesty for your kind assistance,” said
 
 the Tin Woodman, bowing before the pretty creature.
 
 
 
-“I am always pleased to be of service to my friends,” answered the
+"I am always pleased to be of service to my friends,” answered the
 
 Queen, and in a flash she had darted away upon her journey home.
 
@@ -6698,9 +6698,9 @@ But the Tin Woodman was not afraid.
 
 
 
-“At the worst they can but scratch my beautiful nickel-plate,” he said.
+"At the worst they can but scratch my beautiful nickel-plate,” he said.
 
-“But there will be no ‘worst,' for I think I can manage to frighten
+"But there will be no ‘worst,' for I think I can manage to frighten
 
 these absurd soldiers very easily. Follow me closely, all of you!”
 
@@ -6724,13 +6724,13 @@ green marble pavement of the wide street toward the royal palace.
 
 
 
-“At this rate we will soon have your Majesty upon the throne again,”
+"At this rate we will soon have your Majesty upon the throne again,”
 
 said the Tin Woodman, laughing at his easy conquest of the guards.
 
 
 
-“Thank you, friend Nick,” returned the Scarecrow, gratefully. “Nothing
+"Thank you, friend Nick,” returned the Scarecrow, gratefully. "Nothing
 
 can resist your kind heart and your sharp axe.”
 
@@ -6744,7 +6744,7 @@ around in groups, gossiping and laughing.
 
 
 
-“What has happened?” the Scarecrow asked a sad-looking man with a bushy
+"What has happened?” the Scarecrow asked a sad-looking man with a bushy
 
 beard, who wore an apron and was wheeling a baby-carriage along the
 
@@ -6752,9 +6752,9 @@ sidewalk.
 
 
 
-“Why, we've had a revolution, your Majesty as you ought to know very
+"Why, we've had a revolution, your Majesty as you ought to know very
 
-well,” replied the man; “and since you went away the women have been
+well,” replied the man; "and since you went away the women have been
 
 running things to suit themselves. I'm glad you have decided to come
 
@@ -6764,13 +6764,13 @@ wearing out the strength of every man in the Emerald City.”
 
 
 
-“Hm!” said the Scarecrow, thoughtfully. “If it is such hard work as you
+"Hm!” said the Scarecrow, thoughtfully. "If it is such hard work as you
 
 say, how did the women manage it so easily?”
 
 
 
-“I really do not know” replied the man, with a deep sigh. “Perhaps the
+"I really do not know” replied the man, with a deep sigh. "Perhaps the
 
 women are made of castiron.”
 
@@ -6796,11 +6796,11 @@ This action rendered the Scarecrow uneasy.
 
 
 
-“I'm afraid we are walking into a trap,” said he.
+"I'm afraid we are walking into a trap,” said he.
 
 
 
-“Nonsense!” returned Nick Chopper, confidently; “the silly creatures
+"Nonsense!” returned Nick Chopper, confidently; "the silly creatures
 
 are conquered already!”
 
@@ -6816,11 +6816,11 @@ said:
 
 
 
-“It's too easy, altogether. Look out for trouble ahead.”
+"It's too easy, altogether. Look out for trouble ahead.”
 
 
 
-“I will,” returned his Majesty. Unopposed they reached the royal palace
+"I will,” returned his Majesty. Unopposed they reached the royal palace
 
 and marched up the marble steps, which had once been thickly crusted
 
@@ -6860,17 +6860,17 @@ Majesty's person.
 
 
 
-“How dare you sit in my throne?” demanded the Scarecrow, sternly eyeing
+"How dare you sit in my throne?” demanded the Scarecrow, sternly eyeing
 
-the intruder. “Don't you know you are guilty of treason, and that there
+the intruder. "Don't you know you are guilty of treason, and that there
 
 is a law against treason?”
 
 
 
-“The throne belongs to whoever is able to take it,” answered Jinjur, as
+"The throne belongs to whoever is able to take it,” answered Jinjur, as
 
-she slowly ate another caramel. “I have taken it, as you see; so just
+she slowly ate another caramel. "I have taken it, as you see; so just
 
 now I am the Queen, and all who oppose me are guilty of treason, and
 
@@ -6882,29 +6882,29 @@ This view of the case puzzled the Scarecrow.
 
 
 
-“How is it, friend Nick?” he asked, turning to the Tin Woodman.
+"How is it, friend Nick?” he asked, turning to the Tin Woodman.
 
 
 
-“Why, when it comes to Law, I have nothing to, say” answered that
+"Why, when it comes to Law, I have nothing to, say” answered that
 
-personage. “for laws were never meant to be understood, and it is
+personage. "for laws were never meant to be understood, and it is
 
 foolish to make the attempt.”
 
 
 
-“Then what shall we do?” asked the Scarecrow, in dismay.
+"Then what shall we do?” asked the Scarecrow, in dismay.
 
 
 
-“Why don't you marry the Queen? And then you can both rule,” suggested
+"Why don't you marry the Queen? And then you can both rule,” suggested
 
 the Woggle-Bug.
 
 
 
-Jinjur glared at the insect fiercely. “Why don't you send her back to
+Jinjur glared at the insect fiercely. "Why don't you send her back to
 
 her mother, where she belongs?” asked Jack Pumpkinhead.
 
@@ -6914,17 +6914,17 @@ Jinjur frowned.
 
 
 
-“Why don't you shut her up in a closet until she behaves herself, and
+"Why don't you shut her up in a closet until she behaves herself, and
 
 promises to be good?” enquired Tip. Jinjur's lip curled scornfully.
 
 
 
-“Or give her a good shaking!” added the Saw-Horse.
+"Or give her a good shaking!” added the Saw-Horse.
 
 
 
-“No,” said the Tin Woodman, “we must treat the poor girl with
+"No,” said the Tin Woodman, "we must treat the poor girl with
 
 gentleness. Let us give her all the Jewels she can carry, and send her
 
@@ -6942,7 +6942,7 @@ pretty hands together thrice, as if for a signal.
 
 
 
-“You are very absurd creatures,” said she; “but I am tired of your
+"You are very absurd creatures,” said she; "but I am tired of your
 
 nonsense and have no time to bother with you longer.”
 
@@ -6968,9 +6968,9 @@ realized that they were prisoners.
 
 
 
-“You see how foolish it is to oppose a woman's wit,” said Jinjur,
+"You see how foolish it is to oppose a woman's wit,” said Jinjur,
 
-gaily; “and this event only proves that I am more fit to rule the
+gaily; "and this event only proves that I am more fit to rule the
 
 Emerald City than a Scarecrow. I bear you no ill will, I assure you;
 
@@ -6992,11 +6992,11 @@ small pieces and fed to the goats. As for this immense Woggle-Bug—”
 
 
 
-“Highly Magnified, if you please!” interrupted the insect.
+"Highly Magnified, if you please!” interrupted the insect.
 
 
 
-“I think I will ask the cook to make green-turtle soup of you,”
+"I think I will ask the cook to make green-turtle soup of you,”
 
 continued the Queen, reflectively.
 
@@ -7006,7 +7006,7 @@ The Woggle-Bug shuddered.
 
 
 
-“Or, if that won't do, we might use you for a Hungarian goulash, stewed
+"Or, if that won't do, we might use you for a Hungarian goulash, stewed
 
 and highly spiced,” she added, cruelly.
 
@@ -7078,17 +7078,17 @@ deep sigh of relief as he exclaimed:
 
 
 
-“Thank goodness, we are saved!”
+"Thank goodness, we are saved!”
 
 
 
-“For a time, yes;” answered the Tin Woodman. “But the enemy will soon
+"For a time, yes;” answered the Tin Woodman. "But the enemy will soon
 
 return, I fear.”
 
 
 
-“Let us bar all the entrances to the palace!” said the Scarecrow. “Then
+"Let us bar all the entrances to the palace!” said the Scarecrow. "Then
 
 we shall have time to think what is best to be done.”
 
@@ -7132,9 +7132,9 @@ The Scarecrow Takes Time to Think
 
 
 
-“It seems to me,” began the Scarecrow, when all were again assembled in
+"It seems to me,” began the Scarecrow, when all were again assembled in
 
-the throne room, “that the girl Jinjur is quite right in claiming to be
+the throne room, "that the girl Jinjur is quite right in claiming to be
 
 Queen. And if she is right, then I am wrong, and we have no business to
 
@@ -7142,15 +7142,15 @@ be occupying her palace.”
 
 
 
-“But you were the King until she came,” said the Woggle-Bug, strutting
+"But you were the King until she came,” said the Woggle-Bug, strutting
 
-up and down with his hands in his pockets; “so it appears to me that
+up and down with his hands in his pockets; "so it appears to me that
 
 she is the interloper instead of you.”
 
 
 
-“Especially as we have just conquered her and put her to flight,” added
+"Especially as we have just conquered her and put her to flight,” added
 
 the Pumpkinhead, as he raised his hands to turn his face toward the
 
@@ -7158,7 +7158,7 @@ Scarecrow.
 
 
 
-“Have we really conquered her?” asked the Scarecrow, quietly. “Look out
+"Have we really conquered her?” asked the Scarecrow, quietly. "Look out
 
 of the window, and tell me what you see.”
 
@@ -7168,33 +7168,33 @@ Tip ran to the window and looked out.
 
 
 
-“The palace is surrounded by a double row of girl soldiers,” he
+"The palace is surrounded by a double row of girl soldiers,” he
 
 announced.
 
 
 
-“I thought so,” returned the Scarecrow. “We are as truly their
+"I thought so,” returned the Scarecrow. "We are as truly their
 
 prisoners as we were before the mice frightened them from the palace.”
 
 
 
-“My friend is right,” said Nick Chopper, who had been polishing his
+"My friend is right,” said Nick Chopper, who had been polishing his
 
-breast with a bit of chamois-leather. “Jinjur is still the Queen, and
+breast with a bit of chamois-leather. "Jinjur is still the Queen, and
 
 we are her prisoners.”
 
 
 
-“But I hope she cannot get at us,” exclaimed the Pumpkinhead, with a
+"But I hope she cannot get at us,” exclaimed the Pumpkinhead, with a
 
-shiver of fear. “She threatened to make tarts of me, you know.”
+shiver of fear. "She threatened to make tarts of me, you know.”
 
 
 
-“Don't worry,” said the Tin Woodman. “It cannot matter greatly. If you
+"Don't worry,” said the Tin Woodman. "It cannot matter greatly. If you
 
 stay shut up here you will spoil in time, anyway. A good tart is far
 
@@ -7202,11 +7202,11 @@ more admirable than a decayed intellect.”
 
 
 
-“Very true,” agreed the Scarecrow.
+"Very true,” agreed the Scarecrow.
 
 
 
-“Oh, dear!” moaned Jack; “what an unhappy lot is mine! Why, dear
+"Oh, dear!” moaned Jack; "what an unhappy lot is mine! Why, dear
 
 father, did you not make me out of tin—or even out of straw—so that I
 
@@ -7214,17 +7214,17 @@ would keep indefinitely.”
 
 
 
-“Shucks!” returned Tip, indignantly. “You ought to be glad that I made
+"Shucks!” returned Tip, indignantly. "You ought to be glad that I made
 
-you at all.” Then he added, reflectively, “everything has to come to an
+you at all.” Then he added, reflectively, "everything has to come to an
 
 end, some time.”
 
 
 
-“But I beg to remind you,” broke in the Woggle-Bug, who had a
+"But I beg to remind you,” broke in the Woggle-Bug, who had a
 
-distressed look in his bulging, round eyes, “that this terrible Queen
+distressed look in his bulging, round eyes, "that this terrible Queen
 
 Jinjur suggested making a goulash of me—Me! the only Highly Magnified
 
@@ -7232,17 +7232,17 @@ and Thoroughly Educated Woggle-Bug in the wide, wide world!”
 
 
 
-“I think it was a brilliant idea,” remarked the Scarecrow, approvingly.
+"I think it was a brilliant idea,” remarked the Scarecrow, approvingly.
 
 
 
-“Don't you imagine he would make a better soup?” asked the Tin Woodman,
+"Don't you imagine he would make a better soup?” asked the Tin Woodman,
 
 turning toward his friend.
 
 
 
-“Well, perhaps,” acknowledged the Scarecrow.
+"Well, perhaps,” acknowledged the Scarecrow.
 
 
 
@@ -7250,7 +7250,7 @@ The Woggle-Bug groaned.
 
 
 
-“I can see, in my mind's eye,” said he, mournfully, “the goats eating
+"I can see, in my mind's eye,” said he, mournfully, "the goats eating
 
 small pieces of my dear comrade, the Tin Woodman, while my soup is
 
@@ -7272,21 +7272,21 @@ restless and anxious.
 
 
 
-“It can't happen for some time,” said the Tin Woodman, trying to speak
+"It can't happen for some time,” said the Tin Woodman, trying to speak
 
-cheerfully; “for we shall be able to keep Jinjur out of the palace
+cheerfully; "for we shall be able to keep Jinjur out of the palace
 
 until she manages to break down the doors.”
 
 
 
-“And in the meantime I am liable to starve to death, and so is the
+"And in the meantime I am liable to starve to death, and so is the
 
 Woggle-Bug,” announced Tip.
 
 
 
-“As for me,” said the Woggle-Bug, “I think that I could live for some
+"As for me,” said the Woggle-Bug, "I think that I could live for some
 
 time on Jack Pumpkinhead. Not that I prefer pumpkins for food; but I
 
@@ -7296,15 +7296,15 @@ plump.”
 
 
 
-“How heartless!” exclaimed the Tin Woodman, greatly shocked. “Are we
+"How heartless!” exclaimed the Tin Woodman, greatly shocked. "Are we
 
 cannibals, let me ask? Or are we faithful friends?”
 
 
 
-“I see very clearly that we cannot stay shut up in this palace,” said
+"I see very clearly that we cannot stay shut up in this palace,” said
 
-the Scarecrow, with decision. “So let us end this mournful talk and try
+the Scarecrow, with decision. "So let us end this mournful talk and try
 
 to discover a means to escape.”
 
@@ -7318,25 +7318,25 @@ from his pocket a pepper-box, which rolled upon the floor.
 
 
 
-“What is this?” asked Nick Chopper, picking up the box.
+"What is this?” asked Nick Chopper, picking up the box.
 
 
 
-“Be careful!” cried the boy. “That's my Powder of Life. Don't spill it,
+"Be careful!” cried the boy. "That's my Powder of Life. Don't spill it,
 
 for it is nearly gone.”
 
 
 
-“And what is the Powder of Life?” enquired the Scarecrow, as Tip
+"And what is the Powder of Life?” enquired the Scarecrow, as Tip
 
 replaced the box carefully in his pocket.
 
 
 
-“It's some magical stuff old Mombi got from a crooked sorcerer,”
+"It's some magical stuff old Mombi got from a crooked sorcerer,”
 
-explained the boy. “She brought Jack to life with it, and afterward I
+explained the boy. "She brought Jack to life with it, and afterward I
 
 used it to bring the Saw-Horse to life. I guess it will make anything
 
@@ -7344,11 +7344,11 @@ live that is sprinkled with it; but there's only about one dose left.”
 
 
 
-“Then it is very precious,” said the Tin Woodman.
+"Then it is very precious,” said the Tin Woodman.
 
 
 
-“Indeed it is,” agreed the Scarecrow. “It may prove our best means of
+"Indeed it is,” agreed the Scarecrow. "It may prove our best means of
 
 escape from our difficulties. I believe I will think for a few minutes;
 
@@ -7370,7 +7370,7 @@ with a sigh of relief and hung it on a peg beside the throne.
 
 
 
-“That is my last memento of royalty” said he; “and I'm glad to get rid
+"That is my last memento of royalty” said he; "and I'm glad to get rid
 
 of it. The former King of this City, who was named Pastoria, lost the
 
@@ -7382,13 +7382,13 @@ headache.”
 
 
 
-“A kindly thought, which I greatly admire,” said the Tin Woodman,
+"A kindly thought, which I greatly admire,” said the Tin Woodman,
 
 nodding approvingly.
 
 
 
-“And now I will indulge in a quiet think,” continued the Scarecrow,
+"And now I will indulge in a quiet think,” continued the Scarecrow,
 
 lying back in the throne.
 
@@ -7410,7 +7410,7 @@ expression, and said:
 
 
 
-“My brains work beautifully today. I'm quite proud of them. Now,
+"My brains work beautifully today. I'm quite proud of them. Now,
 
 listen! If we attempt to escape through the doors of the palace we
 
@@ -7428,7 +7428,7 @@ puzzled and unconvinced.
 
 
 
-“The Wonderful Wizard escaped in a balloon,” he continued. “We don't
+"The Wonderful Wizard escaped in a balloon,” he continued. "We don't
 
 know how to make a balloon, of course; but any sort of thing that can
 
@@ -7442,25 +7442,25 @@ then bring the Thing to life with his magical powder.”
 
 
 
-“Bravo!” cried Nick Chopper.
+"Bravo!” cried Nick Chopper.
 
 
 
-“What splendid brains!” murmured Jack.
+"What splendid brains!” murmured Jack.
 
 
 
-“Really quite clever!” said the Educated Woggle-Bug.
+"Really quite clever!” said the Educated Woggle-Bug.
 
 
 
-“I believe it can be done,” declared Tip; “that is, if the Tin Woodman
+"I believe it can be done,” declared Tip; "that is, if the Tin Woodman
 
 is equal to making the Thing.”
 
 
 
-“I'll do my best,” said Nick, cheerily; “and, as a matter of fact, I do
+"I'll do my best,” said Nick, cheerily; "and, as a matter of fact, I do
 
 not often fail in what I attempt. But the Thing will have to be built
 
@@ -7472,19 +7472,19 @@ on the roof of the palace, so it can rise comfortably into the air.”
 
 
 
-“To be sure,” said the Scarecrow.
+"To be sure,” said the Scarecrow.
 
 
 
-“Then let us search through the palace,” continued the Tin Woodman,
+"Then let us search through the palace,” continued the Tin Woodman,
 
-“and carry all the material we can find to the roof, where I will begin
+"and carry all the material we can find to the roof, where I will begin
 
 my work.”
 
 
 
-“First, however,” said the Pumpkinhead, “I beg you will release me from
+"First, however,” said the Pumpkinhead, "I beg you will release me from
 
 this horse, and make me another leg to walk with. For in my present
 
@@ -7500,13 +7500,13 @@ body of Jack Pumpkinhead, who was very proud of the acquisition.
 
 
 
-“It seems strange,” said he, as he watched the Tin Woodman work, “that
+"It seems strange,” said he, as he watched the Tin Woodman work, "that
 
 my left leg should be the most elegant and substantial part of me.”
 
 
 
-“That proves you are unusual,” returned the Scarecrow. “and I am
+"That proves you are unusual,” returned the Scarecrow. "and I am
 
 convinced that the only people worthy of consideration in this world
 
@@ -7516,25 +7516,25 @@ tree, and live and die unnoticed.”
 
 
 
-“Spoken like a philosopher!” cried the Woggle-Bug, as he assisted the
+"Spoken like a philosopher!” cried the Woggle-Bug, as he assisted the
 
 Tin Woodman to set Jack upon his feet.
 
 
 
-“How do you feel now?” asked Tip, watching the Pumpkinhead stump around
+"How do you feel now?” asked Tip, watching the Pumpkinhead stump around
 
 to try his new leg.
 
 
 
-“As good as new” answered Jack, joyfully, “and quite ready to assist
+"As good as new” answered Jack, joyfully, "and quite ready to assist
 
 you all to escape.”
 
 
 
-“Then let us get to work,” said the Scarecrow, in a business-like tone.
+"Then let us get to work,” said the Scarecrow, in a business-like tone.
 
 
 
@@ -7636,9 +7636,9 @@ the pride of all the inhabitants of the Emerald City.
 
 
 
-“My dear Nick!” exclaimed the Scarecrow, seeing what his friend had
+"My dear Nick!” exclaimed the Scarecrow, seeing what his friend had
 
-done; “you have been guilty of the greatest crime any person can commit
+done; "you have been guilty of the greatest crime any person can commit
 
 in the Emerald City. If I remember rightly, the penalty for chopping
 
@@ -7648,9 +7648,9 @@ afterward imprisoned for life.”
 
 
 
-“It cannot be helped now” answered the Tin Woodman, throwing down the
+"It cannot be helped now” answered the Tin Woodman, throwing down the
 
-big leaves upon the roof. “But it may be one more reason why it is
+big leaves upon the roof. "But it may be one more reason why it is
 
 necessary for us to escape. And now let us see what you have found for
 
@@ -7666,7 +7666,7 @@ his head and remarked:
 
 
 
-“Well, if friend Nick can manufacture, from this mess of rubbish, a
+"Well, if friend Nick can manufacture, from this mess of rubbish, a
 
 Thing that will fly through the air and carry us to safety, then I will
 
@@ -7682,7 +7682,7 @@ did he resolve to undertake the task.
 
 
 
-“The first thing required for the machine,” said he, “is a body big
+"The first thing required for the machine,” said he, "is a body big
 
 enough to carry the entire party. This sofa is the biggest thing we
 
@@ -7692,13 +7692,13 @@ sideways, we would all slide off and fall to the ground.”
 
 
 
-“Why not use two sofas?” asked Tip. “There's another one just like this
+"Why not use two sofas?” asked Tip. "There's another one just like this
 
 down stairs.”
 
 
 
-“That is a very sensible suggestion,” exclaimed the Tin Woodman. “You
+"That is a very sensible suggestion,” exclaimed the Tin Woodman. "You
 
 must fetch the other sofa at once.”
 
@@ -7712,7 +7712,7 @@ the backs and ends formed a protecting rampart all around the seats.
 
 
 
-“Excellent!” cried the Scarecrow. “We can ride within this snug nest
+"Excellent!” cried the Scarecrow. "We can ride within this snug nest
 
 quite at our ease.”
 
@@ -7726,9 +7726,9 @@ end.
 
 
 
-“That will show which is the front end of the Thing,” said he, greatly
+"That will show which is the front end of the Thing,” said he, greatly
 
-pleased with the idea. “And, really, if you examine it critically, the
+pleased with the idea. "And, really, if you examine it critically, the
 
 Gump looks very well as a figure-head. These great palm-leaves, for
 
@@ -7736,11 +7736,11 @@ which I have endangered my life seven times, must serve us as wings.”
 
 
 
-“Are they strong enough?” asked the boy.
+"Are they strong enough?” asked the boy.
 
 
 
-“They are as strong as anything we can get,” answered the Woodman; “and
+"They are as strong as anything we can get,” answered the Woodman; "and
 
 although they are not in proportion to the Thing's body, we are not in
 
@@ -7756,27 +7756,27 @@ Said the Woggle-Bug, with considerable admiration:
 
 
 
-“The Thing is now complete, and only needs to be brought to life.”
+"The Thing is now complete, and only needs to be brought to life.”
 
 
 
-“Stop a moment!” exclaimed Jack. “Are you not going to use my broom?”
+"Stop a moment!” exclaimed Jack. "Are you not going to use my broom?”
 
 
 
-“What for?” asked the Scarecrow.
+"What for?” asked the Scarecrow.
 
 
 
-“Why, it can be fastened to the back end for a tail,” answered the
+"Why, it can be fastened to the back end for a tail,” answered the
 
-Pumpkinhead. “Surely you would not call the Thing complete without a
+Pumpkinhead. "Surely you would not call the Thing complete without a
 
 tail.”
 
 
 
-“Hm!” said the Tin Woodman, “I do not see the use of a tail. We are not
+"Hm!” said the Tin Woodman, "I do not see the use of a tail. We are not
 
 trying to copy a beast, or a fish, or a bird. All we ask of the Thing
 
@@ -7784,9 +7784,9 @@ is to carry us through the air.”
 
 
 
-“Perhaps, after the Thing is brought to life, it can use a tail to
+"Perhaps, after the Thing is brought to life, it can use a tail to
 
-steer with,” suggested the Scarecrow. “For if it flies through the air
+steer with,” suggested the Scarecrow. "For if it flies through the air
 
 it will not be unlike a bird, and I've noticed that all birds have
 
@@ -7794,7 +7794,7 @@ tails, which they use for a rudder while flying.”
 
 
 
-“Very well,” answered Nick, “the broom shall be used for a tail,” and
+"Very well,” answered Nick, "the broom shall be used for a tail,” and
 
 he fastened it firmly to the back end of the sofa body.
 
@@ -7804,7 +7804,7 @@ Tip took the pepper-box from his pocket.
 
 
 
-“The Thing looks very big,” said he, anxiously; “and I am not sure
+"The Thing looks very big,” said he, anxiously; "and I am not sure
 
 there is enough powder left to bring all of it to life. But I'll make
 
@@ -7812,21 +7812,21 @@ it go as far as possible.”
 
 
 
-“Put most on the wings,” said Nick Chopper; “for they must be made as
+"Put most on the wings,” said Nick Chopper; "for they must be made as
 
 strong as possible.”
 
 
 
-“And don't forget the head!” exclaimed the Woggle-Bug.
+"And don't forget the head!” exclaimed the Woggle-Bug.
 
 
 
-“Or the tail!” added Jack Pumpkinhead.
+"Or the tail!” added Jack Pumpkinhead.
 
 
 
-“Do be quiet,” said Tip, nervously; “you must give me a chance to work
+"Do be quiet,” said Tip, nervously; "you must give me a chance to work
 
 the magic charm in the proper manner.”
 
@@ -7840,21 +7840,21 @@ sofas were sprinkled, and the broom given a slight coating.
 
 
 
-“The head! The head! Don't, I beg of you, forget the head!” cried the
+"The head! The head! Don't, I beg of you, forget the head!” cried the
 
 Woggle-Bug, excitedly.
 
 
 
-“There's only a little of the powder left,” announced Tip, looking
+"There's only a little of the powder left,” announced Tip, looking
 
-within the box. “And it seems to me it is more important to bring the
+within the box. "And it seems to me it is more important to bring the
 
 legs of the sofas to life than the head.”
 
 
 
-“Not so,” decided the Scarecrow. “Every thing must have a head to
+"Not so,” decided the Scarecrow. "Every thing must have a head to
 
 direct it; and since this creature is to fly, and not walk, it is
 
@@ -7868,7 +7868,7 @@ remainder of the powder.
 
 
 
-“Now” said he, “keep silence while I work the, charm!”
+"Now” said he, "keep silence while I work the, charm!”
 
 
 
@@ -7922,9 +7922,9 @@ rose slowly from the roof and mounted into the air.
 
 
 
-“Here! Come back!” cried Tip, in a frightened voice, as he clung to the
+"Here! Come back!” cried Tip, in a frightened voice, as he clung to the
 
-chimney with one hand and the Scarecrow with the other. “Come back at
+chimney with one hand and the Scarecrow with the other. "Come back at
 
 once, I command you!”
 
@@ -7940,7 +7940,7 @@ gradually circled around until it could view the roof of the palace.
 
 
 
-“Come back!” shouted the boy, again.
+"Come back!” shouted the boy, again.
 
 
 
@@ -7972,9 +7972,9 @@ In the Jackdaw's Nest
 
 
 
-“This,” said the Gump, in a squeaky voice not at all proportioned to
+"This,” said the Gump, in a squeaky voice not at all proportioned to
 
-the size of its great body, “is the most novel experience I ever heard
+the size of its great body, "is the most novel experience I ever heard
 
 of. The last thing I remember distinctly is walking through the forest
 
@@ -7992,7 +7992,7 @@ wiggled its chin whiskers in a very comical manner.
 
 
 
-“You're just a Thing,” answered Tip, “with a Gump's head on it. And we
+"You're just a Thing,” answered Tip, "with a Gump's head on it. And we
 
 have made you and brought you to life so that you may carry us through
 
@@ -8000,7 +8000,7 @@ the air wherever we wish to go.”
 
 
 
-“Very good!” said the Thing. “As I am not a Gump, I cannot have a
+"Very good!” said the Thing. "As I am not a Gump, I cannot have a
 
 Gump's pride or independent spirit. So I may as well become your
 
@@ -8012,15 +8012,15 @@ state of slavery.”
 
 
 
-“Don't say that, I beg of you!” cried the Tin Woodman, whose excellent
+"Don't say that, I beg of you!” cried the Tin Woodman, whose excellent
 
-heart was strongly affected by this sad speech. “Are you not feeling
+heart was strongly affected by this sad speech. "Are you not feeling
 
 well today?”
 
 
 
-“Oh, as for that,” returned the Gump, “it is my first day of existence;
+"Oh, as for that,” returned the Gump, "it is my first day of existence;
 
 so I cannot Judge whether I am feeling well or ill.” And it waved its
 
@@ -8028,7 +8028,7 @@ broom tail to and fro in a pensive manner.
 
 
 
-“Come, come!” said the Scarecrow, kindly. “do try, to be more cheerful
+"Come, come!” said the Scarecrow, kindly. "do try, to be more cheerful
 
 and take life as you find it. We shall be kind masters, and will strive
 
@@ -8038,7 +8038,7 @@ carry us through the air wherever we wish to go?”
 
 
 
-“Certainly,” answered the Gump. “I greatly prefer to navigate the air.
+"Certainly,” answered the Gump. "I greatly prefer to navigate the air.
 
 For should I travel on the earth and meet with one of my own species,
 
@@ -8046,11 +8046,11 @@ my embarrassment would be something awful!”
 
 
 
-“I can appreciate that,” said the Tin Woodman, sympathetically.
+"I can appreciate that,” said the Tin Woodman, sympathetically.
 
 
 
-“And yet,” continued the Thing, “when I carefully look you over, my
+"And yet,” continued the Thing, "when I carefully look you over, my
 
 masters, none of you seems to be constructed much more artistically
 
@@ -8058,105 +8058,105 @@ than I am.”
 
 
 
-“Appearances are deceitful,” said the Woggle-Bug, earnestly. “I am both
+"Appearances are deceitful,” said the Woggle-Bug, earnestly. "I am both
 
 Highly Magnified and Thoroughly Educated.”
 
 
 
-“Indeed!” murmured the Gump, indifferently.
+"Indeed!” murmured the Gump, indifferently.
 
 
 
-“And my brains are considered remarkably rare specimens,” added the
+"And my brains are considered remarkably rare specimens,” added the
 
 Scarecrow, proudly.
 
 
 
-“How strange!” remarked the Gump.
+"How strange!” remarked the Gump.
 
 
 
-“Although I am of tin,” said the Woodman, “I own a heart altogether the
+"Although I am of tin,” said the Woodman, "I own a heart altogether the
 
 warmest and most admirable in the whole world.”
 
 
 
-“I'm delighted to hear it,” replied the Gump, with a slight cough.
+"I'm delighted to hear it,” replied the Gump, with a slight cough.
 
 
 
-“My smile,” said Jack Pumpkinhead, “is worthy your best attention. It
+"My smile,” said Jack Pumpkinhead, "is worthy your best attention. It
 
 is always the same.”
 
 
 
-“_Semper idem_,” explained the Woggle-Bug, pompously; and the Gump
+"_Semper idem_,” explained the Woggle-Bug, pompously; and the Gump
 
 turned to stare at him.
 
 
 
-“And I,” declared the Saw-Horse, filling in an awkward pause, “am only
+"And I,” declared the Saw-Horse, filling in an awkward pause, "am only
 
 remarkable because I can't help it.”
 
 
 
-“I am proud, indeed, to meet with such exceptional masters,” said the
+"I am proud, indeed, to meet with such exceptional masters,” said the
 
-Gump, in a careless tone. “If I could but secure so complete an
+Gump, in a careless tone. "If I could but secure so complete an
 
 introduction to myself, I would be more than satisfied.”
 
 
 
-“That will come in time,” remarked the Scarecrow. “To ‘Know Thyself' is
+"That will come in time,” remarked the Scarecrow. "To ‘Know Thyself' is
 
 considered quite an accomplishment, which it has taken us, who are your
 
 elders, months to perfect. But now,” he added, turning to the others,
 
-“let us get aboard and start upon our journey.”
+"let us get aboard and start upon our journey.”
 
 
 
-“Where shall we go?” asked Tip, as he clambered to a seat on the sofas
+"Where shall we go?” asked Tip, as he clambered to a seat on the sofas
 
 and assisted the Pumpkinhead to follow him.
 
 
 
-“In the South Country rules a very delightful Queen called Glinda the
+"In the South Country rules a very delightful Queen called Glinda the
 
 Good, who I am sure will gladly receive us,” said the Scarecrow,
 
-getting into the Thing clumsily. “Let us go to her and ask her advice.”
+getting into the Thing clumsily. "Let us go to her and ask her advice.”
 
 
 
-“That is cleverly thought of,” declared Nick Chopper, giving the
+"That is cleverly thought of,” declared Nick Chopper, giving the
 
 Woggle-Bug a boost and then toppling the Saw-Horse into the rear end of
 
-the cushioned seats. “I know Glinda the Good, and believe she will
+the cushioned seats. "I know Glinda the Good, and believe she will
 
 prove a friend indeed.”
 
 
 
-“Are we all ready?” asked the boy.
+"Are we all ready?” asked the boy.
 
 
 
-“Yes,” announced the Tin Woodman, seating himself beside the Scarecrow.
+"Yes,” announced the Tin Woodman, seating himself beside the Scarecrow.
 
 
 
-“Then,” said Tip, addressing the Gump, “be kind enough to fly with us
+"Then,” said Tip, addressing the Gump, "be kind enough to fly with us
 
 to the Southward; and do not go higher than to escape the houses and
 
@@ -8164,7 +8164,7 @@ trees, for it makes me dizzy to be up so far.”
 
 
 
-“All right,” answered the Gump, briefly.
+"All right,” answered the Gump, briefly.
 
 
 
@@ -8182,27 +8182,27 @@ swiftly and majestically away.
 
 
 
-“The scenic effect, from this altitude, is marvelous,” commented the
+"The scenic effect, from this altitude, is marvelous,” commented the
 
 educated Woggle-Bug, as they rode along.
 
 
 
-“Never mind the scenery,” said the Scarecrow. “Hold on tight, or you
+"Never mind the scenery,” said the Scarecrow. "Hold on tight, or you
 
 may get a tumble. The Thing seems to rock badly.”
 
 
 
-“It will be dark soon,” said Tip, observing that the sun was low on the
+"It will be dark soon,” said Tip, observing that the sun was low on the
 
-horizon. “Perhaps we should have waited until morning. I wonder if the
+horizon. "Perhaps we should have waited until morning. I wonder if the
 
 Gump can fly in the night.”
 
 
 
-“I've been wondering that myself,” returned the Gump quietly. “You see,
+"I've been wondering that myself,” returned the Gump quietly. "You see,
 
 this is a new experience to me. I used to have legs that carried me
 
@@ -8210,19 +8210,19 @@ swiftly over the ground. But now my legs feel as if they were asleep.”
 
 
 
-“They are,” said Tip. “We didn't bring 'em to life.”
+"They are,” said Tip. "We didn't bring 'em to life.”
 
 
 
-“You're expected to fly,” explained the Scarecrow. “not to walk.”
+"You're expected to fly,” explained the Scarecrow. "not to walk.”
 
 
 
-“We can walk ourselves,” said the Woggle-Bug.
+"We can walk ourselves,” said the Woggle-Bug.
 
 
 
-“I begin to understand what is required of me,” remarked the Gump; “so
+"I begin to understand what is required of me,” remarked the Gump; "so
 
 I will do my best to please you,” and he flew on for a time in silence.
 
@@ -8232,29 +8232,29 @@ Presently Jack Pumpkinhead became uneasy.
 
 
 
-“I wonder if riding through the air is liable to spoil pumpkins,” he
+"I wonder if riding through the air is liable to spoil pumpkins,” he
 
 said.
 
 
 
-“Not unless you carelessly drop your head over the side,” answered the
+"Not unless you carelessly drop your head over the side,” answered the
 
-Woggle-Bug. “In that event your head would no longer be a pumpkin, for
+Woggle-Bug. "In that event your head would no longer be a pumpkin, for
 
 it would become a squash.”
 
 
 
-“Have I not asked you to restrain these unfeeling jokes?” demanded Tip,
+"Have I not asked you to restrain these unfeeling jokes?” demanded Tip,
 
 looking at the Woggle-Bug with a severe expression.
 
 
 
-“You have; and I've restrained a good many of them,” replied the
+"You have; and I've restrained a good many of them,” replied the
 
-insect. “But there are opportunities for so many excellent puns in our
+insect. "But there are opportunities for so many excellent puns in our
 
 language that, to an educated person like myself, the temptation to
 
@@ -8262,17 +8262,17 @@ express them is almost irresistible.”
 
 
 
-“People with more or less education discovered those puns centuries
+"People with more or less education discovered those puns centuries
 
 ago,” said Tip.
 
 
 
-“Are you sure?” asked the Woggle-Bug, with a startled look.
+"Are you sure?” asked the Woggle-Bug, with a startled look.
 
 
 
-“Of course I am,” answered the boy. “An educated Woggle-Bug may be a
+"Of course I am,” answered the boy. "An educated Woggle-Bug may be a
 
 new thing; but a Woggle-Bug education is as old as the hills, judging
 
@@ -8292,25 +8292,25 @@ pepper-box which Tip had cast aside, and began to examine it.
 
 
 
-“Throw it overboard,” said the boy; “it's quite empty now, and there's
+"Throw it overboard,” said the boy; "it's quite empty now, and there's
 
 no use keeping it.”
 
 
 
-“Is it really empty?” asked the Scarecrow, looking curiously into the
+"Is it really empty?” asked the Scarecrow, looking curiously into the
 
 box.
 
 
 
-“Of course it is,” answered Tip. “I shook out every grain of the
+"Of course it is,” answered Tip. "I shook out every grain of the
 
 powder.”
 
 
 
-“Then the box has two bottoms,” announced the Scarecrow, “for the
+"Then the box has two bottoms,” announced the Scarecrow, "for the
 
 bottom on the inside is fully an inch away from the bottom on the
 
@@ -8318,21 +8318,21 @@ outside.”
 
 
 
-“Let me see,” said the Tin Woodman, taking the box from his friend.
+"Let me see,” said the Tin Woodman, taking the box from his friend.
 
-“Yes,” he declared, after looking it over, “the thing certainly has a
+"Yes,” he declared, after looking it over, "the thing certainly has a
 
 false bottom. Now, I wonder what that is for?”
 
 
 
-“Can't you get it apart, and find out?” enquired Tip, now quite
+"Can't you get it apart, and find out?” enquired Tip, now quite
 
 interested in the mystery.
 
 
 
-“Why, yes; the lower bottom unscrews,” said the Tin Woodman. “My
+"Why, yes; the lower bottom unscrews,” said the Tin Woodman. "My
 
 fingers are rather stiff; please see if you can open it.”
 
@@ -8352,15 +8352,15 @@ pills, and found several lines clearly written in red ink.
 
 
 
-“Read it aloud,” said the Scarecrow. so Tip read, as follows:
+"Read it aloud,” said the Scarecrow. so Tip read, as follows:
 
 
 
-“DR. NIKIDIK'S CELEBRATED WISHING PILLS.
+"DR. NIKIDIK'S CELEBRATED WISHING PILLS.
 
 
 
-“_Directions for Use:_ Swallow one pill; count seventeen by twos; then
+"_Directions for Use:_ Swallow one pill; count seventeen by twos; then
 
 make a Wish. The Wish will immediately be granted.
 
@@ -8370,11 +8370,11 @@ CAUTION: Keep in a Dry and Dark Place.”
 
 
 
-“Why, this is a very valuable discovery!” cried the Scarecrow.
+"Why, this is a very valuable discovery!” cried the Scarecrow.
 
 
 
-“It is, indeed,” replied Tip, gravely. “These pills may be of great use
+"It is, indeed,” replied Tip, gravely. "These pills may be of great use
 
 to us. I wonder if old Mombi knew they were in the bottom of the
 
@@ -8384,25 +8384,25 @@ from this same Nikidik.”
 
 
 
-“He must be a powerful Sorcerer!” exclaimed the Tin Woodman; “and since
+"He must be a powerful Sorcerer!” exclaimed the Tin Woodman; "and since
 
 the powder proved a success we ought to have confidence in the pills.”
 
 
 
-“But how,” asked the Scarecrow, “can anyone count seventeen by twos?
+"But how,” asked the Scarecrow, "can anyone count seventeen by twos?
 
 Seventeen is an odd number.”
 
 
 
-“That is true,” replied Tip, greatly disappointed. “No one can possibly
+"That is true,” replied Tip, greatly disappointed. "No one can possibly
 
 count seventeen by twos.”
 
 
 
-“Then the pills are of no use to us,” wailed the Pumpkinhead; “and this
+"Then the pills are of no use to us,” wailed the Pumpkinhead; "and this
 
 fact overwhelms me with grief. For I had intended wishing that my head
 
@@ -8410,19 +8410,19 @@ would never spoil.”
 
 
 
-“Nonsense!” said the Scarecrow, sharply. “If we could use the pills at
+"Nonsense!” said the Scarecrow, sharply. "If we could use the pills at
 
 all we would make far better wishes than that.”
 
 
 
-“I do not see how anything could be better,” protested poor Jack. “If
+"I do not see how anything could be better,” protested poor Jack. "If
 
 you were liable to spoil at any time you could understand my anxiety.”
 
 
 
-“For my part,” said the Tin Woodman, “I sympathize with you in every
+"For my part,” said the Tin Woodman, "I sympathize with you in every
 
 respect. But since we cannot count seventeen by twos, sympathy is all
 
@@ -8464,29 +8464,29 @@ After a long time Tip, who had been thinking deeply, spoke.
 
 
 
-“How are we to know when we come to the pallace of Glinda the Good?” he
+"How are we to know when we come to the pallace of Glinda the Good?” he
 
 asked.
 
 
 
-“It's a long way to Glinda's palace,” answered the Woodman; “I've
+"It's a long way to Glinda's palace,” answered the Woodman; "I've
 
 traveled it.”
 
 
 
-“But how are we to know how fast the Gump is flying?” persisted the
+"But how are we to know how fast the Gump is flying?” persisted the
 
-boy. “We cannot see a single thing down on the earth, and before
+boy. "We cannot see a single thing down on the earth, and before
 
 morning we may be far beyond the place we want to reach.”
 
 
 
-“That is all true enough,” the Scarecrow replied, a little uneasily.
+"That is all true enough,” the Scarecrow replied, a little uneasily.
 
-“But I do not see how we can stop just now; for we might alight in a
+"But I do not see how we can stop just now; for we might alight in a
 
 river, or on, the top of a steeple; and that would be a great
 
@@ -8518,7 +8518,7 @@ visited Glinda the Good's domain and knew it well.
 
 
 
-“We are lost!” said the Scarecrow, dolefully. “The Gump must have
+"We are lost!” said the Scarecrow, dolefully. "The Gump must have
 
 carried us entirely out of the Land of Oz and over the sandy deserts
 
@@ -8526,17 +8526,17 @@ and into the terrible outside world that Dorothy told us about.”
 
 
 
-“We must get back,” exclaimed the Tin Woodman, earnestly. “we must get
+"We must get back,” exclaimed the Tin Woodman, earnestly. "we must get
 
 back as soon as possible!”
 
 
 
-“Turn around!” cried Tip to the Gump. “turn as quickly as you can!”
+"Turn around!” cried Tip to the Gump. "turn as quickly as you can!”
 
 
 
-“If I do I shall upset,” answered the Gump. “I'm not at all used to
+"If I do I shall upset,” answered the Gump. "I'm not at all used to
 
 flying, and the best plan would be for me to alight in some place, and
 
@@ -8554,15 +8554,15 @@ high mountains with many deep gorges and steep cliffs showing plainly.
 
 
 
-“Now is our chance to stop,” said the boy, finding they were very close
+"Now is our chance to stop,” said the boy, finding they were very close
 
-to the mountain tops. Then he turned to the Gump and commanded: “Stop
+to the mountain tops. Then he turned to the Gump and commanded: "Stop
 
 at the first level place you see!”
 
 
 
-“Very well,” answered the Gump, and settled down upon a table of rock
+"Very well,” answered the Gump, and settled down upon a table of rock
 
 that stood between two cliffs.
 
@@ -8620,7 +8620,7 @@ comrades.
 
 
 
-“Our Journey had ended rather suddenly,” said he; “and we cannot justly
+"Our Journey had ended rather suddenly,” said he; "and we cannot justly
 
 blame our friend the Gump for our accident, because he did the best he
 
@@ -8646,35 +8646,35 @@ way to their bewilderment.
 
 
 
-“This is a worse prison than the palace,” sadly remarked the
+"This is a worse prison than the palace,” sadly remarked the
 
 Woggle-Bug.
 
 
 
-“I wish we had stayed there,” moaned Jack.
+"I wish we had stayed there,” moaned Jack.
 
 
 
-“I'm afraid the mountain air isn't good for pumpkins.”
+"I'm afraid the mountain air isn't good for pumpkins.”
 
 
 
-“It won't be when the Jackdaws come back,” growled the Saw-Horse, which
+"It won't be when the Jackdaws come back,” growled the Saw-Horse, which
 
 lay waving its legs in a vain endeavor to get upon its feet again.
 
-“Jackdaws are especially fond of pumpkins.”
+"Jackdaws are especially fond of pumpkins.”
 
 
 
-“Do you think the birds will come here?” asked Jack, much distressed.
+"Do you think the birds will come here?” asked Jack, much distressed.
 
 
 
-“Of course they will,” said Tip; “for this is their nest. And there
+"Of course they will,” said Tip; "for this is their nest. And there
 
-must be hundreds of them,” he continued, “for see what a lot of things
+must be hundreds of them,” he continued, "for see what a lot of things
 
 they have brought here!”
 
@@ -8718,17 +8718,17 @@ sound grew nearer to them Tip exclaimed:
 
 
 
-“The Jackdaws are coming! And if they find us here they will surely
+"The Jackdaws are coming! And if they find us here they will surely
 
 kill us in their anger.”
 
 
 
-“I was afraid of this!” moaned the Pumpkinhead. “My time has come!”
+"I was afraid of this!” moaned the Pumpkinhead. "My time has come!”
 
 
 
-“And mine, also!” said the Woggle-Bug; “for Jackdaws are the greatest
+"And mine, also!” said the Woggle-Bug; "for Jackdaws are the greatest
 
 enemies of my race.”
 
@@ -8852,19 +8852,19 @@ assisted the Woggle-Bug to follow him.
 
 
 
-“We are saved!” shouted the boy, delightedly.
+"We are saved!” shouted the boy, delightedly.
 
 
 
-“We are, indeed!” responded the Educated Insect, fairly hugging the
+"We are, indeed!” responded the Educated Insect, fairly hugging the
 
-stiff head of the Gump in his joy. “and we owe it all to the flopping
+stiff head of the Gump in his joy. "and we owe it all to the flopping
 
 of the Thing, and the good axe of the Woodman!”
 
 
 
-“If I am saved, get me out of here!” called Jack; whose head was still
+"If I am saved, get me out of here!” called Jack; whose head was still
 
 beneath the sofas; and Tip managed to roll the pumpkin out and place it
 
@@ -8872,17 +8872,17 @@ upon its neck again. He also set the Saw-Horse upright, and said to it:
 
 
 
-“We owe you many thanks for the gallant fight you made.”
+"We owe you many thanks for the gallant fight you made.”
 
 
 
-“I really think we have escaped very nicely,” remarked the Tin Woodman,
+"I really think we have escaped very nicely,” remarked the Tin Woodman,
 
 in a tone of pride.
 
 
 
-“Not so!” exclaimed a hollow voice.
+"Not so!” exclaimed a hollow voice.
 
 
 
@@ -8892,9 +8892,9 @@ which lay at the back of the nest.
 
 
 
-“I am completely ruined!” declared the Scarecrow, as he noted their
+"I am completely ruined!” declared the Scarecrow, as he noted their
 
-astonishment. “For where is the straw that stuffs my body?”
+astonishment. "For where is the straw that stuffs my body?”
 
 
 
@@ -8912,41 +8912,41 @@ hundreds of feet beneath the nest.
 
 
 
-“My poor, poor friend!” said the Tin Woodman, taking up the Scarecrow's
+"My poor, poor friend!” said the Tin Woodman, taking up the Scarecrow's
 
-head and caressing it tenderly; “whoever could imagine you would come
+head and caressing it tenderly; "whoever could imagine you would come
 
 to this untimely end?”
 
 
 
-“I did it to save my friends,” returned the head; “and I am glad that I
+"I did it to save my friends,” returned the head; "and I am glad that I
 
 perished in so noble and unselfish a manner.”
 
 
 
-“But why are you all so despondent?” inquired the Woggle-Bug. “The
+"But why are you all so despondent?” inquired the Woggle-Bug. "The
 
 Scarecrow's clothing is still safe.”
 
 
 
-“Yes,” answered the Tin Woodman; “but our friend's clothes are useless
+"Yes,” answered the Tin Woodman; "but our friend's clothes are useless
 
 without stuffing.”
 
 
 
-“Why not stuff him with money?” asked Tip.
+"Why not stuff him with money?” asked Tip.
 
 
 
-“Money!” they all cried, in an amazed chorus.
+"Money!” they all cried, in an amazed chorus.
 
 
 
-“To be sure,” said the boy. “In the bottom of the nest are thousands of
+"To be sure,” said the boy. "In the bottom of the nest are thousands of
 
 dollar bills—and two-dollar bills—and five-dollar bills—and tens, and
 
@@ -8990,15 +8990,15 @@ that he could scarcely button his jacket with comfort.
 
 
 
-“You are now” said the Woggle-Bug, impressively, when the task had been
+"You are now” said the Woggle-Bug, impressively, when the task had been
 
-completed, “the most valuable member of our party; and as you are among
+completed, "the most valuable member of our party; and as you are among
 
 faithful friends there is little danger of your being spent.”
 
 
 
-“Thank you,” returned the Scarecrow, gratefully. “I feel like a new
+"Thank you,” returned the Scarecrow, gratefully. "I feel like a new
 
 man; and although at first glance I might be mistaken for a Safety
 
@@ -9010,7 +9010,7 @@ always made me a person to be depended upon in an emergency.”
 
 
 
-“Well, the emergency is here,” observed Tip; “and unless your brains
+"Well, the emergency is here,” observed Tip; "and unless your brains
 
 help us out of it we shall be compelled to pass the remainder of our
 
@@ -9018,21 +9018,21 @@ lives in this nest.”
 
 
 
-“How about these wishing pills?” enquired the Scarecrow, taking the box
+"How about these wishing pills?” enquired the Scarecrow, taking the box
 
-from his jacket pocket. “Can't we use them to escape?”
+from his jacket pocket. "Can't we use them to escape?”
 
 
 
-“Not unless we can count seventeen by twos,” answered the Tin Woodman.
+"Not unless we can count seventeen by twos,” answered the Tin Woodman.
 
-“But our friend the Woggle-Bug claims to be highly educated, so he
+"But our friend the Woggle-Bug claims to be highly educated, so he
 
 ought easily to figure out how that can be done.”
 
 
 
-“It isn't a question of education,” returned the Insect; “it's merely a
+"It isn't a question of education,” returned the Insect; "it's merely a
 
 question of mathematics. I've seen the professor work lots of sums on
 
@@ -9048,11 +9048,11 @@ even numbers of twos.”
 
 
 
-“Stop! stop!” cried the Pumpkinhead. “You're making my head ache.”
+"Stop! stop!” cried the Pumpkinhead. "You're making my head ache.”
 
 
 
-“And mine,” added the Scarecrow. “Your mathematics seem to me very like
+"And mine,” added the Scarecrow. "Your mathematics seem to me very like
 
 a bottle of mixed pickles the more you fish for what you want the less
 
@@ -9062,15 +9062,15 @@ accomplished at all, it is in a very simple manner.”
 
 
 
-“Yes,” said Tip. “old Mombi couldn't use x's and minuses, for she never
+"Yes,” said Tip. "old Mombi couldn't use x's and minuses, for she never
 
 went to school.”
 
 
 
-“Why not start counting at a half of one?” asked the Saw-Horse,
+"Why not start counting at a half of one?” asked the Saw-Horse,
 
-abruptly. “Then anyone can count up to seventeen by twos very easily.”
+abruptly. "Then anyone can count up to seventeen by twos very easily.”
 
 
 
@@ -9080,13 +9080,13 @@ the most stupid of the entire party.
 
 
 
-“You make me quite ashamed of myself,” said the Scarecrow, bowing low
+"You make me quite ashamed of myself,” said the Scarecrow, bowing low
 
 to the Saw-Horse.
 
 
 
-“Nevertheless, the creature is right,” declared the Woggle-Bug; “for
+"Nevertheless, the creature is right,” declared the Woggle-Bug; "for
 
 twice one-half is one, and if you get to one it is easy to count from
 
@@ -9094,11 +9094,11 @@ one up to seventeen by twos.”
 
 
 
-“I wonder I didn't think of that myself,” said the Pumpkinhead.
+"I wonder I didn't think of that myself,” said the Pumpkinhead.
 
 
 
-“I don't,” returned the Scarecrow. “You're no wiser than the rest of
+"I don't,” returned the Scarecrow. "You're no wiser than the rest of
 
 us, are you? But let us make a wish at once. Who will swallow the first
 
@@ -9106,23 +9106,23 @@ pill?”
 
 
 
-“Suppose you do it,” suggested Tip.
+"Suppose you do it,” suggested Tip.
 
 
 
-“I can't,” said the Scarecrow.
+"I can't,” said the Scarecrow.
 
 
 
-“Why not? You've a mouth, haven't you?” asked the boy.
+"Why not? You've a mouth, haven't you?” asked the boy.
 
 
 
-“Yes; but my mouth is painted on, and there's no swallow connected with
+"Yes; but my mouth is painted on, and there's no swallow connected with
 
-it,” answered the Scarecrow. “In fact,” he continued, looking from one
+it,” answered the Scarecrow. "In fact,” he continued, looking from one
 
-to another critically, “I believe the boy and the Woggle-Bug are the
+to another critically, "I believe the boy and the Woggle-Bug are the
 
 only ones in our party that are able to swallow.”
 
@@ -9132,7 +9132,7 @@ Observing the truth of this remark, Tip said:
 
 
 
-“Then I will undertake to make the first wish. Give me one of the
+"Then I will undertake to make the first wish. Give me one of the
 
 Silver Pills.”
 
@@ -9146,17 +9146,17 @@ Tip selected one of the pills and swallowed it.
 
 
 
-“Count!” cried the Scarecrow.
+"Count!” cried the Scarecrow.
 
 
 
-“One-half, one, three, five, seven, nine, eleven,” counted Tip.
+"One-half, one, three, five, seven, nine, eleven,” counted Tip.
 
-“thirteen, fifteen, seventeen.”
+"thirteen, fifteen, seventeen.”
 
 
 
-“Now wish!” said the Tin Woodman anxiously:
+"Now wish!” said the Tin Woodman anxiously:
 
 
 
@@ -9166,7 +9166,7 @@ alarmed.
 
 
 
-“The pill has poisoned me!” he gasped; “O—h! O-o-o-o-o! Ouch! Murder!
+"The pill has poisoned me!” he gasped; "O—h! O-o-o-o-o! Ouch! Murder!
 
 Fire! O-o-h!” and here he rolled upon the bottom of the nest in such
 
@@ -9174,13 +9174,13 @@ contortions that he frightened them all.
 
 
 
-“What can we do for you. Speak, I beg!” entreated the Tin Woodman,
+"What can we do for you. Speak, I beg!” entreated the Tin Woodman,
 
 tears of sympathy running down his nickel cheeks.
 
 
 
-“I—I don't know!” answered Tip. “O—h! I wish I'd never swallowed that
+"I—I don't know!” answered Tip. "O—h! I wish I'd never swallowed that
 
 pill!”
 
@@ -9194,17 +9194,17 @@ pepper-box.
 
 
 
-“What's happened?” asked the boy, a little ashamed of his recent
+"What's happened?” asked the boy, a little ashamed of his recent
 
 exhibition.
 
 
 
-“Why, the three pills are in the box again!” said the Scarecrow.
+"Why, the three pills are in the box again!” said the Scarecrow.
 
 
 
-“Of course they are,” the Woggle-Bug declared. “Didn't Tip wish that
+"Of course they are,” the Woggle-Bug declared. "Didn't Tip wish that
 
 he'd never swallowed one of them? Well, the wish came true, and he
 
@@ -9214,13 +9214,13 @@ box.”
 
 
 
-“That may be; but the pill gave me a dreadful pain, just the same,”
+"That may be; but the pill gave me a dreadful pain, just the same,”
 
 said the boy.
 
 
 
-“Impossible!” declared the Woggle-Bug. “If you have never swallowed it,
+"Impossible!” declared the Woggle-Bug. "If you have never swallowed it,
 
 the pill can not have given you a pain. And as your wish, being
 
@@ -9234,9 +9234,9 @@ suffered no pain.”
 
 
 
-“Then it was a splendid imitation of a pain,” retorted Tip, angrily.
+"Then it was a splendid imitation of a pain,” retorted Tip, angrily.
 
-“Suppose you try the next pill yourself. We've wasted one wish
+"Suppose you try the next pill yourself. We've wasted one wish
 
 already.”
 

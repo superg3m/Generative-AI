@@ -7,9 +7,11 @@ Generative_Ai::Generative_Ai() {
   this->currentPrompt = "";
   this->randomLine = "";
   this->number_of_completed_Sentences = 0;
+  this->currentIndex = 0;
 }
 
-std::string Generative_Ai::generateSentence(int sentenceCount, const int promptWordLength, const bool useUniqueLines, const bool usePunctuation, int passthroughs, std::vector<std::string> &fileData) {
+std::string Generative_Ai::generateSentence(int sentenceCount, const int promptWordLength, const bool useUniqueLines, const bool useSpecialChars, int passthroughs,
+                                            std::vector<std::string> &fileData) {
   if (currentPrompt.empty()) {
     this->currentPrompt = getUserPrompt();
   }
@@ -60,7 +62,7 @@ std::string Generative_Ai::generateSentence(int sentenceCount, const int promptW
       promptVector.clear();
       this->number_of_completed_Sentences++;
     }
-    if (!usePunctuation) {
+    if (!useSpecialChars) {
       nextWord = removeSpecialCharacters(nextWord);
     }
 
@@ -122,7 +124,7 @@ std::vector<std::string> Generative_Ai::partitionPrompt(const std::string &promp
 std::string Generative_Ai::removeSpecialCharacters(const std::string &input) const {
   std::string result = "";
   for (char c : input) {
-    if (c != '"' && c != '(' && c != ')' && c != '*' && c != ',' && c != '[' && c != ']') {  // Removing the comma is a temporary fix
+    if (c != '"' && c != '(' && c != ')' && c != '*' && c != '[' && c != ']' && c != '&') {  // Removing the comma is a temporary fix
       result += c;
     }
   }

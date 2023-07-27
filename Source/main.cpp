@@ -35,7 +35,7 @@ int main() {
 
   std::vector<std::string> fileData;
   File file(&fileData);
-  // file.addFileData("../FileOutput/Frankenstein.txt");
+  // file.addFileData("../SmallSampleData/Frankenstein.txt");
   // file.loadALlFilesInDirectory("../FileOutput");
   // file.loadALlFilesInDirectory("../MediumDataSet");
   file.loadALlFilesInDirectory("../SmallSampleData");
@@ -44,31 +44,32 @@ int main() {
 
   int success;
 
-  int total = 10;
-  int sentenceCount = 2;
+  int total = 15;
+  int sentenceCount = 1;
   int promptWordLength = 3;
   bool useUniqueLines = true;
-  bool usePunctuation = true;
-  int numberOfPassthroughs = 5;
+  bool useSpecialChars = false;
+  int numberOfPassthroughs = 20;
 
   float successRate;
 
   Generative_Ai generativeAi;
   std::string input;
-  std::cout << "Enter a prompt: ";
+  std::cout << "Enter a prompt or press enter to skip: ";
   std::getline(std::cin, input);
   file.shuffleFileData(&fileData);
 
   for (int i = 0; i < total; i++) {
     generativeAi.setCurrentPrompt(input);
     printf("-----------------------------------------------------\n");
-    std::string result = generativeAi.generateSentence(sentenceCount, promptWordLength, useUniqueLines, usePunctuation, numberOfPassthroughs, fileData);
+    std::string result = generativeAi.generateSentence(sentenceCount, promptWordLength, useUniqueLines, useSpecialChars, numberOfPassthroughs, fileData);
     if (result == "\x1B[32mSuccess\033[0m\t\t") {
       success++;
     }
 
     std::cout << "#" << i + 1 << " | The Result: " << result << "\n";
-    std::cout << "#" << i + 1 << " | The Prompt: " << generativeAi.getCurrentPrompt() << "\n";
+    std::cout << "#" << i + 1 << " | The Start Prompt: " << input << "\n";  // I know this doesn't work if you dont use the first input prompt
+    std::cout << "#" << i + 1 << " | The Current Prompt: " << generativeAi.getCurrentPrompt() << "\n";
     std::cout << "#" << i + 1 << " | The Final Sentence: " << generativeAi.getFinalWord() << "\n";
     printf("\n");
     file.shuffleFileData(&fileData);

@@ -14,7 +14,7 @@ class Generative_Ai {
  public:
   Generative_Ai();
 
-  std::string generateSentence(int sentenceCount, const int promptWordLength, const bool useUniqueLines, const bool usePunctuation, int passthroughs, std::vector<std::string> &fileData);
+  std::string generateSentence(int sentenceCount, const int promptWordLength, const bool useUniqueLines, const bool useSpecialChars, int passthroughs, std::vector<std::string> &fileData);
 
   void resetValues();
 

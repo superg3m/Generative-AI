@@ -304,7 +304,7 @@ fable anew in my own way.
 
 Much has been learnt during the present century about the history of
 
-the various apologues that walk abroad under the name of “Æsop.” I have
+the various apologues that walk abroad under the name of “Æsop." I have
 
 attempted to bring these various lines of research together in the
 
@@ -314,7 +314,7 @@ edition of Caxton's _Æsop_, published by Mr. Nutt in his _Bibliothèque
 
 de Carabas_. I have placed in front of the present version of the
 
-“Fables,” by kind permission of Mr. Nutt, the short abstract of my
+“Fables," by kind permission of Mr. Nutt, the short abstract of my
 
 researches in which I there summed up the results of that volume. I
 
@@ -336,7 +336,7 @@ literary history.
 
 
 
-I have attached to the “Fables” in the obscurity of small print at the
+I have attached to the “Fables" in the obscurity of small print at the
 
 end a series of notes, summing up what is known as to the _provenance_
 
@@ -408,7 +408,7 @@ mirth-producing qualities of the Fable caused it to be regarded as fit
 
 subject of after-dinner conversation along with other jests of a
 
-broader kind (“Milesian,” “Sybaritic”). This habit of regarding the
+broader kind (“Milesian," “Sybaritic"). This habit of regarding the
 
 Fable as a form of the Jest intensified the tendency to connect it with
 
@@ -428,9 +428,9 @@ turned into neat Latin iambics by Phædrus, a Greek freedman of Augustus
 
 in the early years of the Christian era. As the modern Æsop is mainly
 
-derived from Phædrus, the answer to the question “Who wrote Æsop?” is
+derived from Phædrus, the answer to the question “Who wrote Æsop?" is
 
-simple : “Demetrius of Phaleron.”[3]
+simple : “Demetrius of Phaleron."[3]
 
 
 
@@ -510,17 +510,17 @@ Ceylon in 241 B.C. along with the Jātakas. About 300 years later (say
 
 Alexandria, where they were translated under the title of “Libyan
 
-Fables” (Λόγοι Λυβικοί), which had been earlier applied to similar
+Fables" (Λόγοι Λυβικοί), which had been earlier applied to similar
 
 stories that had percolated to Hellas from India; they were attributed
 
-to “Kybises.” This collection seems to have introduced the habit of
+to “Kybises." This collection seems to have introduced the habit of
 
 summing up the teaching of a Fable in the Moral, corresponding to the
 
 _gatha_ of the Jātakas. About the end of the first century A.D. the
 
-Libyan Fables of “Kybises” became known to the Rabbinic school at
+Libyan Fables of “Kybises" became known to the Rabbinic school at
 
 Jabne, founded by R. Jochanan ben Saccai, and a number of the Fables
 
@@ -530,7 +530,7 @@ Midrash.
 
 
 
-In the Roman world the two collections of Demetrius and “Kybises” were
+In the Roman world the two collections of Demetrius and “Kybises" were
 
 brought together by Nicostratus, a rhetor attached to the court of
 
@@ -610,7 +610,7 @@ Third Crusade of Richard I., and translated into Latin by an Englishman
 
 named Alfred, with the aid of an Oxford Jew named Berachyah ha-Nakdan
 
-(“Benedictus le Puncteur” in the English Records), who, on his own
+(“Benedictus le Puncteur" in the English Records), who, on his own
 
 account, translated a number of the fables into Hebrew rhymed prose,
 
@@ -684,7 +684,7 @@ folk-lore.[5]
 
  officials, till a high dignitary said, “This is clearly directed
 
- against _us_,” and ordered Æsop to be included in the Chinese _Index
+ against _us_," and ordered Æsop to be included in the Chinese _Index
 
  Expurgatorius_ (R. Morris, _Cont. Rev_. xxxix. p. 731).
 
@@ -790,17 +790,17 @@ The Cock and the Pearl
 
 A cock was once strutting up and down the farmyard among the hens when
 
-suddenly he espied something shinning amid the straw. “Ho! ho!” quoth
+suddenly he espied something shinning amid the straw. “Ho! ho!" quoth
 
-he, “that's for me,” and soon rooted it out from beneath the straw.
+he, “that's for me," and soon rooted it out from beneath the straw.
 
 “What did it turn out to be but a Pearl that by some chance had been
 
-lost in the yard? “You may be a treasure,” quoth Master Cock, “to men
+lost in the yard? “You may be a treasure," quoth Master Cock, “to men
 
 that prize you, but for me I would rather have a single barley-corn
 
-than a peck of pearls.”
+than a peck of pearls."
 
 
 
@@ -824,33 +824,33 @@ Once upon a time a Wolf was lapping at a spring on a hillside, when,
 
 looking up, what should he see but a Lamb just beginning to drink a
 
-little lower down. “There's my supper,” thought he, “if only I can find
+little lower down. “There's my supper," thought he, “if only I can find
 
-some excuse to seize it.” Then he called out to the Lamb, “How dare you
+some excuse to seize it." Then he called out to the Lamb, “How dare you
 
-muddle the water from which I am drinking?”
-
-
-
-“Nay, master, nay,” said Lambikin; “if the water be muddy up there, I
-
-cannot be the cause of it, for it runs down from you to me.”
+muddle the water from which I am drinking?"
 
 
 
-“Well, then,” said the Wolf, “why did you call me bad names this time
+“Nay, master, nay," said Lambikin; “if the water be muddy up there, I
 
-last year?”
-
-
-
-“That cannot be,” said the Lamb; “I am only six months old.”
+cannot be the cause of it, for it runs down from you to me."
 
 
 
-“I don't care,” snarled the Wolf; “if it was not you it was your
+“Well, then," said the Wolf, “why did you call me bad names this time
 
-father;” and with that he rushed upon the poor little Lamb and
+last year?"
+
+
+
+“That cannot be," said the Lamb; “I am only six months old."
+
+
+
+“I don't care," snarled the Wolf; “if it was not you it was your
+
+father;" and with that he rushed upon the poor little Lamb and
 
 
 
@@ -864,7 +864,7 @@ ate her all up. But before she died she gasped out—
 
 
 
-“Any excuse will serve a tyrant.”
+“Any excuse will serve a tyrant."
 
 
 
@@ -920,7 +920,7 @@ Wolf. They hunted and they hunted till at last they surprised a Stag,
 
 and soon took its life. Then came the question how the spoil should be
 
-divided. “Quarter me this Stag,” roared the Lion; so the other animals
+divided. “Quarter me this Stag," roared the Lion; so the other animals
 
 skinned it and cut it into four parts. Then the Lion took his stand in
 
@@ -932,11 +932,11 @@ another share comes to me for my part in the chase; and as for the
 
 fourth quarter, well, as for that, I should like to see which of you
 
-will dare to lay a paw upon it.”
+will dare to lay a paw upon it."
 
 
 
-“Humph,” grumbled the Fox as he walked away with his tail between his
+“Humph," grumbled the Fox as he walked away with his tail between his
 
 legs; but he spoke in a low growl—
 
@@ -944,7 +944,7 @@ legs; but he spoke in a low growl—
 
 “You may share the labours of the great, but you will not share the
 
-spoil.”
+spoil."
 
 
 
@@ -968,9 +968,9 @@ He soon felt terrible pain in his throat, and ran up and down groaning
 
 and groaning and seeking for something to relieve the pain. He tried to
 
-induce every one he met to remove the bone. “I would give anything,”
+induce every one he met to remove the bone. “I would give anything,"
 
-said he, “if you would take it out.” At last the Crane agreed to try,
+said he, “if you would take it out." At last the Crane agreed to try,
 
 and told the Wolf to lie on his side and open his jaws as wide as he
 
@@ -980,7 +980,7 @@ with its beak loosened the bone, till at last it got it out.
 
 
 
-“Will you kindly give me the reward you promised?” said the Crane.
+“Will you kindly give me the reward you promised?" said the Crane.
 
 
 
@@ -988,7 +988,7 @@ The Wolf grinned and showed his teeth and said: “Be content. You have
 
 put your head inside a Wolf's mouth and taken it out again in safety;
 
-that ought to be reward enough for you.”
+that ought to be reward enough for you."
 
 
 
@@ -1026,13 +1026,13 @@ son, and take vengeance on my cattle, but surely I was right in trying
 
 to revenge him; now that we are both satisfied why should not we be
 
-friends again?”
+friends again?"
 
 
 
-“No, no,” said the Serpent; “take away your gifts; you can never forget
+“No, no," said the Serpent; “take away your gifts; you can never forget
 
-the death of your son, nor I the loss of my tail.”
+the death of your son, nor I the loss of my tail."
 
 
 
@@ -1070,11 +1070,11 @@ country; come you with me and I will show you how to live. When you
 
 have been in town a week you will wonder how you could ever have stood
 
-a country life.” No sooner said than done: the two mice set off for the
+a country life." No sooner said than done: the two mice set off for the
 
 town and arrived at the Town Mouse's residence late at night. “You will
 
-want some refreshment after our long journey,” said the polite Town
+want some refreshment after our long journey," said the polite Town
 
 Mouse, and took his friend into the grand dining-room. There they found
 
@@ -1082,21 +1082,21 @@ the remains of a fine feast, and soon the two mice were eating up
 
 jellies and cakes and all that was nice. Suddenly they heard growling
 
-and barking. “What is that?” said the Country Mouse. “It is only the
+and barking. “What is that?" said the Country Mouse. “It is only the
 
-dogs of the house,” answered the other. “Only!” said the Country Mouse.
+dogs of the house," answered the other. “Only!" said the Country Mouse.
 
-“I do not like that music at my dinner.” Just at that moment the door
+“I do not like that music at my dinner." Just at that moment the door
 
 flew open, in came two huge mastiffs, and the two mice had to scamper
 
-down and run off. “Good-bye, Cousin,” said the Country Mouse. “What!
+down and run off. “Good-bye, Cousin," said the Country Mouse. “What!
 
-going so soon?” said the other. “Yes,” he replied;
+going so soon?" said the other. “Yes," he replied;
 
 
 
-“Better beans and bacon in peace than cakes and ale in fear.”
+“Better beans and bacon in peace than cakes and ale in fear."
 
 
 
@@ -1114,23 +1114,23 @@ The Fox and the Crow
 
 A Fox once saw a Crow fly off with a piece of cheese in its beak and
 
-settle on a branch of a tree. “That's for me, as I am a Fox,” said
+settle on a branch of a tree. “That's for me, as I am a Fox," said
 
 Master Reynard, and he walked up to the foot of the tree. “Good-day,
 
-Mistress Crow,” he cried. “How well you are looking to-day: how glossy
+Mistress Crow," he cried. “How well you are looking to-day: how glossy
 
 your feathers; how bright your eye. I feel sure your voice must surpass
 
 that of other birds, just as your figure does; let me hear but one song
 
-from you that I may greet you as the Queen of Birds.” The Crow lifted
+from you that I may greet you as the Queen of Birds." The Crow lifted
 
 up her head and began to caw her best, but the moment she opened her
 
 mouth the piece of cheese fell to the ground, only to be snapped up by
 
-Master Fox. “That will do,” said he. “That was all I wanted. In
+Master Fox. “That will do," said he. “That was all I wanted. In
 
 exchange for your cheese I will give you a piece of advice for the
 
@@ -1138,7 +1138,7 @@ future—
 
 
 
-“Do not trust flatterers.”
+“Do not trust flatterers."
 
 
 
@@ -1170,7 +1170,7 @@ round him and drew nearer as he grew more and more helpless. When they
 
 saw him on the point of death they thought to themselves: “Now is the
 
-time to pay off old grudges.” So the Boar came up and drove at him with
+time to pay off old grudges." So the Boar came up and drove at him with
 
 his tusks; then a Bull gored him with his horns; still the Lion lay
 
@@ -1178,7 +1178,7 @@ helpless before them: so the Ass, feeling quite safe from danger, came
 
 up, and turning his tail to the Lion kicked up his heels into his face.
 
-“This is a double death,” growled the Lion.
+“This is a double death," growled the Lion.
 
 
 
@@ -1246,11 +1246,11 @@ Once when a Lion was asleep a little Mouse began running up and down
 
 upon him; this soon wakened the Lion, who placed his huge paw upon him,
 
-and opened his big jaws to swallow him. “Pardon, O King,” cried the
+and opened his big jaws to swallow him. “Pardon, O King," cried the
 
 little Mouse: “forgive me this time, I shall never forget it: who knows
 
-but what I may be able to do you a turn some of these days?” The Lion
+but what I may be able to do you a turn some of these days?" The Lion
 
 was so tickled at the idea of the Mouse being able to help him, that he
 
@@ -1264,7 +1264,7 @@ on. Just then the little Mouse happened to pass by, and seeing the sad
 
 plight in which the Lion was, went up to him and soon gnawed away the
 
-ropes that bound the King of the Beasts. “Was I not right?” said the
+ropes that bound the King of the Beasts. “Was I not right?" said the
 
 little Mouse.
 
@@ -1290,11 +1290,11 @@ It happened that a Countryman was sowing some hemp seeds in a field
 
 where a Swallow and some other birds were hopping about picking up
 
-their food. “Beware of that man,” quoth the Swallow. “Why, what is he
+their food. “Beware of that man," quoth the Swallow. “Why, what is he
 
-doing?” said the others. “That is hemp seed he is sowing; be careful to
+doing?" said the others. “That is hemp seed he is sowing; be careful to
 
-pick up every one of the seeds, or else you will repent it.” The birds
+pick up every one of the seeds, or else you will repent it." The birds
 
 paid no heed to the Swallow's words, and by and by the hemp grew up and
 
@@ -1302,7 +1302,7 @@ was made into cord, and of the cords nets were made, and many a bird
 
 that had despised the Swallow's advice was caught in nets made out of
 
-that very hemp. “What did I tell you?” said the Swallow.
+that very hemp. “What did I tell you?" said the Swallow.
 
 
 
@@ -1332,9 +1332,9 @@ that they should have a king and a proper constitution, so they
 
 determined to send up a petition to Jove to give them what they wanted.
 
-“Mighty Jove,” they cried, “send unto us a king that will rule over us
+“Mighty Jove," they cried, “send unto us a king that will rule over us
 
-and keep us in order.” Jove laughed at their croaking, and threw down
+and keep us in order." Jove laughed at their croaking, and threw down
 
 into the swamp a huge Log, which came down splashing into the swamp.
 
@@ -1358,7 +1358,7 @@ notice of their new King Log lying in their midst. But this did not
 
 suit them, so they sent another petition to Jove, and said to him, “We
 
-want a real king; one that will really rule over us.” Now this made
+want a real king; one that will really rule over us." Now this made
 
 Jove angry, so he sent among them a big Stork that soon set to work
 
@@ -1404,7 +1404,7 @@ came running down towards them, and ever after they used to say:
 
 
 
-“Much outcry, little outcome.”
+“Much outcry, little outcome."
 
 
 
@@ -1434,13 +1434,13 @@ state of fear. But just as they got near the bank of the lake, a troop
 
 of Frogs, frightened in their turn by the approach of the Hares
 
-scuttled off, and jumped into the water. “Truly,” said one of the
+scuttled off, and jumped into the water. “Truly," said one of the
 
 Hares, “things are not so bad as they seem:
 
 
 
-“There is always someone worse off than yourself.”
+“There is always someone worse off than yourself."
 
 
 
@@ -1460,19 +1460,19 @@ A Kid was perched up on the top of a house, and looking down saw a Wolf
 
 passing under him. Immediately he began to revile and attack his enemy.
 
-“Murderer and thief,” he cried, “what do you here near honest folks'
+“Murderer and thief," he cried, “what do you here near honest folks'
 
 houses? How dare you make an appearance where your vile deeds are
 
-known?”
+known?"
 
 
 
-“Curse away, my young friend,” said the Wolf.
+“Curse away, my young friend," said the Wolf.
 
 
 
-“It is easy to be brave from a safe distance.”
+“It is easy to be brave from a safe distance."
 
 
 
@@ -1504,11 +1504,11 @@ stroke it, but the Serpent raised its head and put out its fangs and
 
 was about to sting the child to death. So the Woodman seized his axe,
 
-and with one stroke cut the Serpent in two. “Ah,” said he,
+and with one stroke cut the Serpent in two. “Ah," said he,
 
 
 
-“No gratitude from the wicked.”
+“No gratitude from the wicked."
 
 
 
@@ -1538,7 +1538,7 @@ him, but this time the Man was wiser and said:
 
 “You will only injure yourself if you take notice of despicable
 
-enemies.”
+enemies."
 
 
 
@@ -1564,13 +1564,13 @@ the Fox could easily lap up, but the Stork could only wet the end of
 
 her long bill in it, and left the meal as hungry as when she began. “I
 
-am sorry,” said the Fox, “the soup is not to your liking.”
+am sorry," said the Fox, “the soup is not to your liking."
 
 
 
-“Pray do not apologise,” said the Stork. “I hope you will return this
+“Pray do not apologise," said the Stork. “I hope you will return this
 
-visit, and come and dine with me soon.” So a day was appointed when the
+visit, and come and dine with me soon." So a day was appointed when the
 
 Fox should visit the Stork; but when they were seated at table all that
 
@@ -1582,11 +1582,11 @@ could manage to do was to lick the outside of the jar.
 
 
 
-“I will not apologise for the dinner,” said the Stork:
+“I will not apologise for the dinner," said the Stork:
 
 
 
-“One bad turn deserves another.”
+“One bad turn deserves another."
 
 
 
@@ -1608,9 +1608,9 @@ he observed a face glaring down on him and began to be very frightened;
 
 but looking more closely he found it was only a Mask such as actors use
 
-to put over their face. “Ah,” said the Fox, “you look very fine; it is
+to put over their face. “Ah," said the Fox, “you look very fine; it is
 
-a pity you have not got any brains.”
+a pity you have not got any brains."
 
 
 
@@ -1648,7 +1648,7 @@ with him, and told him:
 
 
 
-“It is not only fine feathers that make fine birds.”
+“It is not only fine feathers that make fine birds."
 
 
 
@@ -1664,29 +1664,29 @@ The Frog and the Ox
 
 
 
-“Oh Father,” said a little Frog to the big one sitting by the side of a
+“Oh Father," said a little Frog to the big one sitting by the side of a
 
 pool, “I have seen such a terrible monster! It was as big as a
 
 mountain, with horns on its head, and a long tail, and it had hoofs
 
-divided in two.”
+divided in two."
 
 
 
-“Tush, child, tush,” said the old Frog, “that was only Farmer White's
+“Tush, child, tush," said the old Frog, “that was only Farmer White's
 
 Ox. It isn't so big either; he may be a little bit taller than I, but I
 
-could easily make myself quite as broad; just you see.” So he blew
+could easily make myself quite as broad; just you see." So he blew
 
 himself out, and blew himself out, and blew himself out. “Was he as big
 
-as that?” asked he.
+as that?" asked he.
 
 
 
-“Oh, much bigger than that,” said the young Frog.
+“Oh, much bigger than that," said the young Frog.
 
 
 
@@ -1696,7 +1696,7 @@ was as big as that.
 
 
 
-“Bigger, father, bigger,” was the reply.
+“Bigger, father, bigger," was the reply.
 
 
 
@@ -1786,13 +1786,13 @@ A great conflict was about to come off between the Birds and the
 
 Beasts. When the two armies were collected together the Bat hesitated
 
-which to join. The Birds that passed his perch said: “Come with us”;
+which to join. The Birds that passed his perch said: “Come with us";
 
-but he said: “I am a Beast.” Later on, some Beasts who were passing
+but he said: “I am a Beast." Later on, some Beasts who were passing
 
-underneath him looked up and said: “Come with us”; but he said: “I am a
+underneath him looked up and said: “Come with us"; but he said: “I am a
 
-Bird.” Luckily at the last moment peace was made, and no battle took
+Bird." Luckily at the last moment peace was made, and no battle took
 
 place, so the Bat came to the Birds and wished to join in the
 
@@ -1800,11 +1800,11 @@ rejoicings, but they all turned against him and he had to fly away. He
 
 then went to the Beasts, but soon had to beat a retreat, or else they
 
-would have torn him to pieces. “Ah,” said the Bat, “I see now,
+would have torn him to pieces. “Ah," said the Bat, “I see now,
 
 
 
-“He that is neither one thing nor the other has no friends.”
+“He that is neither one thing nor the other has no friends."
 
 
 
@@ -1822,11 +1822,11 @@ The Hart and the Hunter
 
 The Hart was once drinking from a pool and admiring the noble figure he
 
-made there. “Ah,” said he, “where can you see such noble horns as
+made there. “Ah," said he, “where can you see such noble horns as
 
 these, with such antlers! I wish I had legs more worthy to bear such a
 
-noble crown; it is a pity they are so slim and slight.” At that moment
+noble crown; it is a pity they are so slim and slight." At that moment
 
 a Hunter approached and sent an arrow whistling after him. Away bounded
 
@@ -1836,13 +1836,13 @@ sight of the Hunter; but not noticing where he was going, he passed
 
 under some trees with branches growing low down in which his antlers
 
-were caught, so that the Hunter had time to come up. “Alas! alas!”
+were caught, so that the Hunter had time to come up. “Alas! alas!"
 
 cried the Hart:
 
 
 
-“We often despise what is most useful to us.”
+“We often despise what is most useful to us."
 
 
 
@@ -1916,25 +1916,25 @@ The Dog and the Wolf
 
 A gaunt Wolf was almost dead with hunger when he happened to meet a
 
-House-dog who was passing by. “Ah, Cousin,” said the Dog. “I knew how
+House-dog who was passing by. “Ah, Cousin," said the Dog. “I knew how
 
 it would be; your irregular life will soon be the ruin of you. Why do
 
 you not work steadily as I do, and get your food regularly given to
 
-you?”
+you?"
 
 
 
-“I would have no objection,” said the Wolf, “if I could only get a
+“I would have no objection," said the Wolf, “if I could only get a
 
-place.”
+place."
 
 
 
-“I will easily arrange that for you,” said the Dog; “come with me to my
+“I will easily arrange that for you," said the Dog; “come with me to my
 
-master and you shall share my work.”
+master and you shall share my work."
 
 
 
@@ -1946,15 +1946,15 @@ neck was very much worn away, so he asked him how that had come about.
 
 
 
-“Oh, it is nothing,” said the Dog. “That is only the place where the
+“Oh, it is nothing," said the Dog. “That is only the place where the
 
 collar is put on at night to keep me chained up; it chafes a bit, but
 
-one soon gets used to it.”
+one soon gets used to it."
 
 
 
-“Is that all?” said the Wolf. “Then good-bye to you, Master Dog.”
+“Is that all?" said the Wolf. “Then good-bye to you, Master Dog."
 
 
 
@@ -2024,7 +2024,7 @@ Shortly afterwards the master came in, and looking round, saw that
 
 something unusual had taken place. He pointed to the truss of hay and
 
-said: “What are those two curious things sticking out of the hay?” And
+said: “What are those two curious things sticking out of the hay?" And
 
 when the stable boys came to look they discovered the Hart, and soon
 
@@ -2052,7 +2052,7 @@ One hot summer's day a Fox was strolling through an orchard till he
 
 came to a bunch of Grapes just ripening on a vine which had been
 
-trained over a lofty branch. “Just the thing to quench my thirst,”
+trained over a lofty branch. “Just the thing to quench my thirst,"
 
 quoth he. Drawing back a few paces, he took a run and a jump, and just
 
@@ -2062,7 +2062,7 @@ up, but with no greater success. Again and again he tried after the
 
 tempting morsel, but at last had to give it up, and walked away with
 
-his nose in the air, saying: “I am sure they are sour.”
+his nose in the air, saying: “I am sure they are sour."
 
 
 
@@ -2092,7 +2092,7 @@ favourite bird, she said:
 
 
 
-“Be content with your lot; one cannot be first in everything.”
+“Be content with your lot; one cannot be first in everything."
 
 
 
@@ -2118,7 +2118,7 @@ me to place this piece of iron between your jaws, so that I may guide
 
 you with these reins, and allow this saddle to be placed upon your back
 
-so that I may keep steady upon you as we follow after the enemy.” The
+so that I may keep steady upon you as we follow after the enemy." The
 
 Horse agreed to the conditions, and the Hunter soon saddled and bridled
 
@@ -2126,13 +2126,13 @@ him. Then with the aid of the Hunter the Horse soon overcame the Stag,
 
 and said to the Hunter: “Now, get off, and remove those things from my
 
-mouth and back.”
+mouth and back."
 
 
 
-“Not so fast, friend,” said the Hunter. “I have now got you under bit
+“Not so fast, friend," said the Hunter. “I have now got you under bit
 
-and spur, and prefer to keep you as you are at present.”
+and spur, and prefer to keep you as you are at present."
 
 
 
@@ -2190,9 +2190,9 @@ A Man and a Lion were discussing the relative strength of men and lions
 
 in general. The Man contended that he and his fellows were stronger
 
-than lions by reason of their greater intelligence. “Come now with me,”
+than lions by reason of their greater intelligence. “Come now with me,"
 
-he cried, “and I will soon prove that I am right.” So he took him into
+he cried, “and I will soon prove that I am right." So he took him into
 
 the public gardens and showed him a statue of Hercules overcoming the
 
@@ -2200,9 +2200,9 @@ Lion and tearing his mouth in two.
 
 
 
-“That is all very well,” said the Lion, “but proves nothing, for it was
+“That is all very well," said the Lion, “but proves nothing, for it was
 
-a man who made the statue.”
+a man who made the statue."
 
 
 
@@ -2230,21 +2230,21 @@ with great toil an ear of corn he was taking to the nest.
 
 
 
-“Why not come and chat with me,” said the Grasshopper, “instead of
+“Why not come and chat with me," said the Grasshopper, “instead of
 
-toiling and moiling in that way?”
-
-
-
-“I am helping to lay up food for the winter,” said the Ant, “and
-
-recommend you to do the same.”
+toiling and moiling in that way?"
 
 
 
-“Why bother about winter?” said the Grasshopper; we have got plenty of
+“I am helping to lay up food for the winter," said the Ant, “and
 
-food at present.” But the Ant went on its way and continued its toil.
+recommend you to do the same."
+
+
+
+“Why bother about winter?" said the Grasshopper; we have got plenty of
+
+food at present." But the Ant went on its way and continued its toil.
 
 When the winter came the Grasshopper had no food and found itself dying
 
@@ -2272,23 +2272,23 @@ The Tree and the Reed
 
 
 
-“Well, little one,” said a Tree to a Reed that was growing at its foot,
+“Well, little one," said a Tree to a Reed that was growing at its foot,
 
 “why do you not plant your feet deeply in the ground, and raise your
 
-head boldly in the air as I do?”
+head boldly in the air as I do?"
 
 
 
-“I am contented with my lot,” said the Reed. “I may not be so grand,
+“I am contented with my lot," said the Reed. “I may not be so grand,
 
-but I think I am safer.”
+but I think I am safer."
 
 
 
-“Safe!” sneered the Tree. “Who shall pluck me up by the roots or bow my
+“Safe!" sneered the Tree. “Who shall pluck me up by the roots or bow my
 
-head to the ground?” But it soon had to repent of its boasting, for a
+head to the ground?" But it soon had to repent of its boasting, for a
 
 hurricane arose which tore it up from its roots, and cast it a useless
 
@@ -2316,21 +2316,21 @@ The Fox and the Cat
 
 A Fox was boasting to a Cat of its clever devices for escaping its
 
-enemies. “I have a whole bag of tricks,” he said, “which contains a
+enemies. “I have a whole bag of tricks," he said, “which contains a
 
-hundred ways of escaping my enemies.”
+hundred ways of escaping my enemies."
 
 
 
-“I have only one,” said the Cat; “but I can generally manage with
+“I have only one," said the Cat; “but I can generally manage with
 
-that.” Just at that moment they heard the cry of a pack of hounds
+that." Just at that moment they heard the cry of a pack of hounds
 
 coming towards them, and the Cat immediately scampered up a tree and
 
-hid herself in the boughs. “This is my plan,” said the Cat. “What are
+hid herself in the boughs. “This is my plan," said the Cat. “What are
 
-you going to do?” The Fox thought first of one way, then of another,
+you going to do?" The Fox thought first of one way, then of another,
 
 and while he was debating the hounds came nearer and nearer, and at
 
@@ -2340,7 +2340,7 @@ killed by the huntsmen. Miss Puss, who had been looking on, said:
 
 
 
-“Better one safe way than a hundred on which you cannot reckon.”
+“Better one safe way than a hundred on which you cannot reckon."
 
 
 
@@ -2406,7 +2406,7 @@ away muttering:
 
 
 
-“Ah, people often grudge others what they cannot enjoy themselves.”
+“Ah, people often grudge others what they cannot enjoy themselves."
 
 
 
@@ -2460,17 +2460,17 @@ nose out of the water. So he cast his net into the river and soon drew
 
 it forth filled with fish. Then he took his bagpipes again, and, as he
 
-played, the fish leapt up in the net. “Ah, you dance now when I play,”
+played, the fish leapt up in the net. “Ah, you dance now when I play,"
 
 said he.
 
 
 
-“Yes,” said an old Fish:
+“Yes," said an old Fish:
 
 
 
-“When you are in a man's power you must do as he bids you.”
+“When you are in a man's power you must do as he bids you."
 
 
 
@@ -2494,7 +2494,7 @@ he thought upon a plan by which he could get a little company and some
 
 excitement. He rushed down towards the village calling out “Wolf,
 
-Wolf,” and the villagers came out to meet him, and some of them stopped
+Wolf," and the villagers came out to meet him, and some of them stopped
 
 with him for a considerable time. This pleased the boy so much that a
 
@@ -2504,7 +2504,7 @@ came to his help. But shortly after this a Wolf actually did come out
 
 from the forest, and began to worry the sheep, and the boy of course
 
-cried out “Wolf, Wolf,” still louder than before. But this time the
+cried out “Wolf, Wolf," still louder than before. But this time the
 
 villagers, who had been fooled twice before, thought the boy was again
 
@@ -2516,7 +2516,7 @@ wise man of the village said:
 
 
 
-“A liar will not be believed, even when he speaks the truth.”
+“A liar will not be believed, even when he speaks the truth."
 
 
 
@@ -2540,29 +2540,29 @@ Mother, and to speak with her before he was led to execution, and of
 
 course this was granted. When his Mother came to him he said: “I want
 
-to whisper to you,” and when she brought her ear near him, he nearly
+to whisper to you," and when she brought her ear near him, he nearly
 
 bit it off. All the bystanders were horrified, and asked him what he
 
-could mean by such brutal and inhuman conduct. “It is to punish her,”
+could mean by such brutal and inhuman conduct. “It is to punish her,"
 
 he said. “When I was young I began with stealing little things, and
 
 brought them home to Mother. Instead of rebuking and punishing me, she
 
-laughed and said: “It will not be noticed.” It is because of her that I
+laughed and said: “It will not be noticed." It is because of her that I
 
-am here to-day.”
+am here to-day."
 
 
 
-“He is right, woman,” said the Priest; “the Lord hath said:
+“He is right, woman," said the Priest; “the Lord hath said:
 
 
 
 “Train up a child in the way he should go; and when he is old he will
 
-not depart therefrom.”
+not depart therefrom."
 
 
 
@@ -2616,9 +2616,9 @@ The Nurse and the Wolf
 
 
 
-“Be quiet now,” said an old Nurse to a child sitting on her lap. “If
+“Be quiet now," said an old Nurse to a child sitting on her lap. “If
 
-you make that noise again I will throw you to the Wolf.”
+you make that noise again I will throw you to the Wolf."
 
 
 
@@ -2626,9 +2626,9 @@ Now it chanced that a Wolf was passing close under the window as this
 
 was said. So he crouched down by the side of the house and waited. “I
 
-am in good luck to-day,” thought he. “It is sure to cry soon, and a
+am in good luck to-day," thought he. “It is sure to cry soon, and a
 
-daintier morsel I haven't had for many a long day.” So he waited, and
+daintier morsel I haven't had for many a long day." So he waited, and
 
 he waited, and he waited, till at last the child began to cry, and the
 
@@ -2636,13 +2636,13 @@ Wolf came forward before the window, and looked up to the Nurse,
 
 wagging his tail. But all the Nurse did was to shut down the window and
 
-call for help, and the dogs of the house came rushing out. “Ah,” said
+call for help, and the dogs of the house came rushing out. “Ah," said
 
 the Wolf as he galloped away,
 
 
 
-“Enemies' promises were made to be broken.”
+“Enemies' promises were made to be broken."
 
 
 
@@ -2666,9 +2666,9 @@ trouble. The Eagle agreed and seizing the Tortoise by the shell with
 
 her talons soared aloft. On their way they met a Crow, who said to the
 
-Eagle: “Tortoise is good eating.” “The shell is too hard,” said the
+Eagle: “Tortoise is good eating." “The shell is too hard," said the
 
-Eagle in reply. “The rocks will soon crack the shell,” was the Crow's
+Eagle in reply. “The rocks will soon crack the shell," was the Crow's
 
 answer; and the Eagle, taking the hint, let fall the Tortoise on a
 
@@ -2694,17 +2694,17 @@ The Two Crabs
 
 One fine day two Crabs came out from their home to take a stroll on the
 
-sand. “Child,” said the mother, “you are walking very ungracefully. You
+sand. “Child," said the mother, “you are walking very ungracefully. You
 
 should accustom yourself, to walking straight forward without twisting
 
-from side to side.”
+from side to side."
 
 
 
-“Pray, mother,” said the young one, “do but set the example yourself,
+“Pray, mother," said the young one, “do but set the example yourself,
 
-and I will follow you.”
+and I will follow you."
 
 
 
@@ -2736,7 +2736,7 @@ knew him, and his owner came up and gave him a sound cudgelling for the
 
 fright he had caused. And shortly afterwards a Fox came up to him and
 
-said: “Ah, I knew you by your voice.”
+said: “Ah, I knew you by your voice."
 
 
 
@@ -2772,15 +2772,15 @@ growl he shook his head and slouched off, for bears will not touch dead
 
 meat. Then the fellow in the tree came down to his comrade, and,
 
-laughing, said “What was it that Master Bruin whispered to you?”
+laughing, said “What was it that Master Bruin whispered to you?"
 
 
 
-“He told me,” said the other,
+“He told me," said the other,
 
 
 
-“Never trust a friend who deserts you at a pinch.”
+“Never trust a friend who deserts you at a pinch."
 
 
 
@@ -2802,13 +2802,13 @@ earthenware. When the tide rose they both floated off down the stream.
 
 Now the earthenware pot tried its best to keep aloof from the brass
 
-one, which cried out: “Fear nothing, friend, I will not strike you.”
+one, which cried out: “Fear nothing, friend, I will not strike you."
 
 
 
-“But I may come in contact with you,” said the other, “if I come too
+“But I may come in contact with you," said the other, “if I come too
 
-close; and whether I hit you, or you hit me, I shall suffer for it.”
+close; and whether I hit you, or you hit me, I shall suffer for it."
 
 
 
@@ -2862,17 +2862,17 @@ The Fisher and the Little Fish
 
 It happened that a Fisher, after fishing all day, caught only a little
 
-fish. “Pray, let me go, master,” said the Fish. “I am much too small
+fish. “Pray, let me go, master," said the Fish. “I am much too small
 
 for your eating just now. If you put me back into the river I shall
 
-soon grow, then you can make a fine meal off me.”
+soon grow, then you can make a fine meal off me."
 
 
 
-“Nay, nay, my little Fish,” said the Fisher, “I have you now. I may not
+“Nay, nay, my little Fish," said the Fisher, “I have you now. I may not
 
-catch you hereafter.”
+catch you hereafter."
 
 
 
@@ -2986,13 +2986,13 @@ the forest in the morning. As he went along to the Satyr's cell, the
 
 Man raised both his hands to his mouth and kept on blowing at them.
 
-“What do you do that for?” said the Satyr.
+“What do you do that for?" said the Satyr.
 
 
 
-“My hands are numb with the cold,” said the Man, “and my breath warms
+“My hands are numb with the cold," said the Man, “and my breath warms
 
-them.”
+them."
 
 
 
@@ -3000,19 +3000,19 @@ After this they arrived at the Satyr's home, and soon the Satyr put a
 
 smoking dish of porridge before him. But when the Man raised his spoon
 
-to his mouth he began blowing upon it. “And what do you do that for?”
+to his mouth he began blowing upon it. “And what do you do that for?"
 
 said the Satyr.
 
 
 
-“The porridge is too hot, and my breath will cool it.”
+“The porridge is too hot, and my breath will cool it."
 
 
 
-“Out you go,” said the Satyr. “I will have nought to do with a man who
+“Out you go," said the Satyr. “I will have nought to do with a man who
 
-can blow hot and cold with the same breath.”
+can blow hot and cold with the same breath."
 
 
 
@@ -3066,25 +3066,25 @@ A Labourer lay listening to a Nightingale's song throughout the summer
 
 night. So pleased was he with it that the next night he set a trap for
 
-it and captured it. “Now that I have caught thee,” he cried, “thou
+it and captured it. “Now that I have caught thee," he cried, “thou
 
-shalt always sing to me.”
-
-
-
-“We Nightingales never sing in a cage.” said the bird.
+shalt always sing to me."
 
 
 
-“Then I'll eat thee.” said the Labourer. “I have always heard say that
-
-a nightingale on toast is dainty morsel.”
+“We Nightingales never sing in a cage." said the bird.
 
 
 
-“Nay, kill me not,” said the Nightingale; “but let me free, and I'll
+“Then I'll eat thee." said the Labourer. “I have always heard say that
 
-tell thee three things far better worth than my poor body.” The
+a nightingale on toast is dainty morsel."
+
+
+
+“Nay, kill me not," said the Nightingale; “but let me free, and I'll
+
+tell thee three things far better worth than my poor body." The
 
 Labourer let him loose, and he flew up to a branch of a tree and said:
 
@@ -3092,7 +3092,7 @@ Labourer let him loose, and he flew up to a branch of a tree and said:
 
 what you have. And third piece of advice is: Sorrow not over what is
 
-lost forever.” Then the song-bird flew away.
+lost forever." Then the song-bird flew away.
 
 
 
@@ -3110,47 +3110,47 @@ The Fox, the Cock, and the Dog
 
 One moonlight night a Fox was prowling about a farmer's hen-coop, and
 
-saw a Cock roosting high up beyond his reach. “Good news, good news!”
+saw a Cock roosting high up beyond his reach. “Good news, good news!"
 
 he cried.
 
 
 
-“Why, what is that?” said the Cock.
+“Why, what is that?" said the Cock.
 
 
 
 “King Lion has declared a universal truce. No beast may hurt a bird
 
-henceforth, but all shall dwell together in brotherly friendship.”
+henceforth, but all shall dwell together in brotherly friendship."
 
 
 
-“Why, that is good news,” said the Cock; “and there I see some one
+“Why, that is good news," said the Cock; “and there I see some one
 
-coming, with whom we can share the good tidings.” And so saying he
+coming, with whom we can share the good tidings." And so saying he
 
 craned his neck forward and looked afar off.
 
 
 
-“What is it you see?” said the Fox.
+“What is it you see?" said the Fox.
 
 
 
 “It is only my master's Dog that is coming towards us. What, going so
 
-soon?” he continued, as the Fox began to turn away as soon as he had
+soon?" he continued, as the Fox began to turn away as soon as he had
 
 heard the news. “Will you not stop and congratulate the Dog on the
 
-reign of universal peace?”
+reign of universal peace?"
 
 
 
-“I would gladly do so,” said the Fox, “but I fear he may not have heard
+“I would gladly do so," said the Fox, “but I fear he may not have heard
 
-of King Lion's decree.”
+of King Lion's decree."
 
 
 
@@ -3176,7 +3176,7 @@ they saw a traveller coming down the road, and the Sun said: “I see a
 
 way to decide our dispute. Whichever of us can cause that traveller to
 
-take off his cloak shall be regarded as the stronger. You begin.” So
+take off his cloak shall be regarded as the stronger. You begin." So
 
 the Sun retired behind a cloud, and the Wind began to blow as hard as
 
@@ -3216,7 +3216,7 @@ the mire, and the more the horses pulled, the deeper sank the wheels.
 
 So the Waggoner threw down his whip, and knelt down and prayed to
 
-Hercules the Strong. “O Hercules, help me in this my hour of distress,”
+Hercules the Strong. “O Hercules, help me in this my hour of distress,"
 
 quoth he. But Hercules appeared to him, and said:
 
@@ -3224,7 +3224,7 @@ quoth he. But Hercules appeared to him, and said:
 
 “Tut, man, don't sprawl there. Get up and put your shoulder to the
 
-wheel.”
+wheel."
 
 
 
@@ -3258,17 +3258,17 @@ hair, and raised such an outcry that all the neighbours came around
 
 him, and he told them how he used to come and visit his gold. “Did you
 
-ever take any of it out?” asked one of them.
+ever take any of it out?" asked one of them.
 
 
 
-“Nay,” said he, “I only came to look at it.”
+“Nay," said he, “I only came to look at it."
 
 
 
-“Then come again and look at the hole,” said a neighbour; “it will do
+“Then come again and look at the hole," said a neighbour; “it will do
 
-you just as much good.”
+you just as much good."
 
 
 
@@ -3292,7 +3292,7 @@ A Man and his son were once going with their Donkey to market. As they
 
 were walking along by its side a countryman passed them and said: “You
 
-fools, what is a Donkey for but to ride upon?”
+fools, what is a Donkey for but to ride upon?"
 
 
 
@@ -3300,7 +3300,7 @@ So the Man put the Boy on the Donkey and they went on their way. But
 
 soon they passed a group of men, one of whom said: “See that lazy
 
-youngster, he lets his father walk while he rides.”
+youngster, he lets his father walk while he rides."
 
 
 
@@ -3310,7 +3310,7 @@ hadn't gone far when they passed two women, one of whom said to the
 
 other: “Shame on that lazy lout to let his poor little son trudge
 
-along.”
+along."
 
 
 
@@ -3324,7 +3324,7 @@ asked what they were scoffing at. The men said: “Aren't you ashamed of
 
 yourself for overloading that poor donkey of yours and your hulking
 
-son?”
+son?"
 
 
 
@@ -3346,11 +3346,11 @@ drowned.
 
 
 
-“That will teach you,” said an old man who had followed them:
+“That will teach you," said an old man who had followed them:
 
 
 
-“Please all, and you will please none.”
+“Please all, and you will please none."
 
 
 
@@ -3374,25 +3374,25 @@ it and enjoyed a good meal undisturbed by its tail. A hedgehog
 
 strolling by took pity upon the Fox and went up to him: “You are in a
 
-bad way, neighbour,” said the hedgehog; “shall I relieve you by driving
+bad way, neighbour," said the hedgehog; “shall I relieve you by driving
 
-off those Mosquitoes who are sucking your blood?”
-
-
-
-“Thank you, Master Hedgehog,” said the Fox, “but I would rather not.”
+off those Mosquitoes who are sucking your blood?"
 
 
 
-“Why, how is that?” asked the hedgehog.
+“Thank you, Master Hedgehog," said the Fox, “but I would rather not."
 
 
 
-“Well, you see,” was the answer, “these Mosquitoes have had their fill;
+“Why, how is that?" asked the hedgehog.
+
+
+
+“Well, you see," was the answer, “these Mosquitoes have had their fill;
 
 if you drive these away, others will come with fresh appetite and bleed
 
-me to death.”
+me to death."
 
 
 
@@ -3428,13 +3428,13 @@ was in the way when they desired to sit down and hold a friendly
 
 conversation with one another. He failed to see any advantage in
 
-carrying about such a useless encumbrance. “That is all very well,”
+carrying about such a useless encumbrance. “That is all very well,"
 
 said one of the older foxes; “but I do not think you would have
 
 recommended us to dispense with our chief ornament if you had not
 
-happened to lose it yourself.”
+happened to lose it yourself."
 
 
 
@@ -3468,11 +3468,11 @@ hunters found out that she was blind of one eye, and hiring a boat
 
 rowed under the cliff where she used to feed and shot her from the sea.
 
-“Ah,” cried she with her dying voice,
+“Ah," cried she with her dying voice,
 
 
 
-“You cannot escape your fate.”
+“You cannot escape your fate."
 
 
 
@@ -3496,7 +3496,7 @@ some said that; but at last a young mouse got up and said he had a
 
 proposal to make, which he thought would meet the case. “You will all
 
-agree,” said he, “that our chief danger consists in the sly and
+agree," said he, “that our chief danger consists in the sly and
 
 treacherous manner in which the enemy approaches us. Now, if we could
 
@@ -3508,19 +3508,19 @@ attached by a ribbon round the neck of the Cat. By this means we should
 
 always know when she was about, and could easily retire while she was
 
-in the neighbourhood.”
+in the neighbourhood."
 
 
 
 This proposal met with general applause, until an old mouse got up and
 
-said: “That is all very well, but who is to bell the Cat?” The mice
+said: “That is all very well, but who is to bell the Cat?" The mice
 
 looked at one another and nobody spoke. Then the old mouse said:
 
 
 
-“It is easy to propose impossible remedies.”
+“It is easy to propose impossible remedies."
 
 
 
@@ -3538,25 +3538,25 @@ The Hare and the Tortoise
 
 The Hare was once boasting of his speed before the other animals. “I
 
-have never yet been beaten,” said he, “when I put forth my full speed.
+have never yet been beaten," said he, “when I put forth my full speed.
 
-I challenge any one here to race with me.”
-
-
-
-The Tortoise said quietly, “I accept your challenge.”
+I challenge any one here to race with me."
 
 
 
-“That is a good joke,” said the Hare; “I could dance round you all the
-
-way.”
+The Tortoise said quietly, “I accept your challenge."
 
 
 
-“Keep your boasting till you've beaten,” answered the Tortoise. “Shall
+“That is a good joke," said the Hare; “I could dance round you all the
 
-we race?”
+way."
+
+
+
+“Keep your boasting till you've beaten," answered the Tortoise. “Shall
+
+we race?"
 
 
 
@@ -3574,7 +3574,7 @@ said the Tortoise:
 
 
 
-“Plodding wins the race.”
+“Plodding wins the race."
 
 
 
@@ -3596,19 +3596,19 @@ a forest. At last he grew so tired and hopeless that he threw down the
 
 bundle of sticks, and cried out: “I cannot bear this life any longer.
 
-Ah, I wish Death would only come and take me!”
+Ah, I wish Death would only come and take me!"
 
 
 
 As he spoke, Death, a grisly skeleton, appeared and said to him: “What
 
-wouldst thou, Mortal? I heard thee call me.”
+wouldst thou, Mortal? I heard thee call me."
 
 
 
-“Please, sir,” replied the woodcutter, “would you kindly help me to
+“Please, sir," replied the woodcutter, “would you kindly help me to
 
-lift this faggot of sticks on to my shoulder?”
+lift this faggot of sticks on to my shoulder?"
 
 
 
@@ -3638,15 +3638,15 @@ and asked him to carry her away from the hounds on his back. But he
 
 declined, stating that he had important work to do for his master. “He
 
-felt sure,” he said, “that all her other friends would come to her
+felt sure," he said, “that all her other friends would come to her
 
-assistance.” She then applied to the bull, and hoped that he would
+assistance." She then applied to the bull, and hoped that he would
 
 repel the hounds with his horns. The bull replied: “I am very sorry,
 
 but I have an appointment with a lady; but I feel sure that our friend
 
-the goat will do what you want.” The goat, however, feared that his
+the goat will do what you want." The goat, however, feared that his
 
 back might do her some harm if he took her upon it. The ram, he felt
 
@@ -3656,7 +3656,7 @@ told him the case. The ram replied: “Another time, my dear friend. I do
 
 not like to interfere on the present occasion, as hounds have been
 
-known to eat sheep as well as hares.” The Hare then applied, as a last
+known to eat sheep as well as hares." The Hare then applied, as a last
 
 hope, to the calf, who regretted that he was unable to help her, as he
 
@@ -3700,7 +3700,7 @@ you might possibly do her some injury. Might I venture to suggest that
 
 your Majesty should have your claws removed, and your teeth extracted,
 
-then we would gladly consider your proposal again.” The Lion was so
+then we would gladly consider your proposal again." The Lion was so
 
 much in love that he had his claws trimmed and his big teeth taken out.
 
@@ -3730,17 +3730,17 @@ An old man on the point of death summoned his sons around him to give
 
 them some parting advice. He ordered his servants to bring in a faggot
 
-of sticks, and said to his eldest son: “Break it.” The son strained and
+of sticks, and said to his eldest son: “Break it." The son strained and
 
 strained, but with all his efforts was unable to break the Bundle. The
 
 other sons also tried, but none of them was successful. “Untie the
 
-faggots,” said the father, “and each of you take a stick.” When they
+faggots," said the father, “and each of you take a stick." When they
 
-had done so, he called out to them: “Now, break,” and each stick was
+had done so, he called out to them: “Now, break," and each stick was
 
-easily broken. “You see my meaning,” said their father.
+easily broken. “You see my meaning," said their father.
 
 
 
@@ -3774,17 +3774,17 @@ recover, and came to the mouth of his cave, and saw the Fox, who had
 
 been waiting outside for some time. “Why do you not come to pay your
 
-respects to me?” said the Lion to the Fox.
+respects to me?" said the Lion to the Fox.
 
 
 
-“I beg your Majesty's pardon,” said the Fox, “but I noticed the track
+“I beg your Majesty's pardon," said the Fox, “but I noticed the track
 
 of the animals that have already come to you; and while I see many
 
 hoof-marks going in, I see none coming out. Till the animals that have
 
-entered your cave come out again I prefer to remain in the open air.”
+entered your cave come out again I prefer to remain in the open air."
 
 
 
@@ -3816,7 +3816,7 @@ the Lion simply pounced on the Ass, and said to the Fox: “Here is our
 
 dinner for to-day. Watch you here while I go and have a nap. Woe betide
 
-you if you touch my prey.” The Lion went away and the Fox waited; but
+you if you touch my prey." The Lion went away and the Fox waited; but
 
 finding that his master did not return, ventured to take out the brains
 
@@ -3824,13 +3824,13 @@ of the Ass and ate them up. When the Lion came back he soon noticed the
 
 absence of the brains, and asked the Fox in a terrible voice: “What
 
-have you done with the brains?”
+have you done with the brains?"
 
 
 
 “Brains, your Majesty! it had none, or it would never have fallen into
 
-your trap.”
+your trap."
 
 
 
@@ -3858,13 +3858,13 @@ to the earth, with its life-blood pouring out of it. Looking down upon
 
 the Arrow with which it had been pierced, it found that the shaft of
 
-the Arrow had been feathered with one of its own plumes. “Alas!” it
+the Arrow had been feathered with one of its own plumes. “Alas!" it
 
 cried, as it died,
 
 
 
-“We often give our enemies the means for our own destruction.”
+“We often give our enemies the means for our own destruction."
 
 
 
@@ -3882,29 +3882,29 @@ The Cat-Maiden
 
 The gods were once disputing whether it was possible for a living being
 
-to change its nature. Jupiter said “Yes,” but Venus said “No.” So, to
+to change its nature. Jupiter said “Yes," but Venus said “No." So, to
 
 try the question, Jupiter turned a Cat into a Maiden, and gave her to a
 
 young man for a wife. The wedding was duly performed and the young
 
-couple sat down to the wedding-feast. “See,” said Jupiter, to Venus,
+couple sat down to the wedding-feast. “See," said Jupiter, to Venus,
 
 “how becomingly she behaves. Who could tell that yesterday she was but
 
-a Cat? Surely her nature is changed?”
+a Cat? Surely her nature is changed?"
 
 
 
-“Wait a minute,” replied Venus, and let loose a mouse into the room. No
+“Wait a minute," replied Venus, and let loose a mouse into the room. No
 
 sooner did the bride see this than she jumped up from her seat and
 
-tried to pounce upon the mouse. “Ah, you see,” said Venus,
+tried to pounce upon the mouse. “Ah, you see," said Venus,
 
 
 
-“Nature will out.”
+“Nature will out."
 
 
 
@@ -3926,7 +3926,7 @@ her head. As she went along she began calculating what she would do
 
 with the money she would get for the milk. “I'll buy some fowls from
 
-Farmer Brown,” said she, “and they will lay eggs each morning, which I
+Farmer Brown," said she, “and they will lay eggs each morning, which I
 
 will sell to the parson's wife. With the money that I get from the sale
 
@@ -3944,11 +3944,11 @@ and tell her mother what had occurred.
 
 
 
-“Ah, my child,” said the mother,
+“Ah, my child," said the mother,
 
 
 
-“Do not count your chickens before they are hatched.”
+“Do not count your chickens before they are hatched."
 
 
 
@@ -3968,9 +3968,9 @@ A Horse and an Ass were travelling together, the Horse prancing along
 
 in its fine trappings, the Ass carrying with difficulty the heavy
 
-weight in its panniers. “I wish I were you,” sighed the Ass; “nothing
+weight in its panniers. “I wish I were you," sighed the Ass; “nothing
 
-to do and well fed, and all that fine harness upon you.” Next day,
+to do and well fed, and all that fine harness upon you." Next day,
 
 however, there was a great battle, and the Horse was wounded to death
 
@@ -3978,11 +3978,11 @@ in the final charge of the day. His friend, the Ass, happened to pass
 
 by shortly afterwards and found him on the point of death. “I was
 
-wrong,” said the Ass:
+wrong," said the Ass:
 
 
 
-“Better humble security than gilded danger.”
+“Better humble security than gilded danger."
 
 
 
@@ -4002,17 +4002,17 @@ A Trumpeter during a battle ventured too near the enemy and was
 
 captured by them. They were about to proceed to put him to death when
 
-he begged them to hear his plea for mercy. “I do not fight,” said he,
+he begged them to hear his plea for mercy. “I do not fight," said he,
 
 “and indeed carry no weapon; I only blow this trumpet, and surely that
 
-cannot harm you; then why should you kill me?”
+cannot harm you; then why should you kill me?"
 
 
 
-“You may not fight yourself,” said the others, “but you encourage and
+“You may not fight yourself," said the others, “but you encourage and
 
-guide your men to the fight.”
+guide your men to the fight."
 
 
 
@@ -4042,13 +4042,13 @@ about him. But a Countryman who stood by said: “Call that a pig's
 
 squeak! Nothing like it. You give me till tomorrow and I will show you
 
-what it's like.” The audience laughed, but next day, sure enough, the
+what it's like." The audience laughed, but next day, sure enough, the
 
 Countryman appeared on the stage, and putting his head down squealed so
 
 hideously that the spectators hissed and threw stones at him to make
 
-him stop. “You fools!” he cried, “see what you have been hissing,” and
+him stop. “You fools!" he cried, “see what you have been hissing," and
 
 held up a little pig whose ear he had been pinching to make him utter
 
@@ -4080,11 +4080,11 @@ to it hoping to find it full. But when she took it up she found that
 
 all the wine had been drunk out of it. Still she took a long sniff at
 
-the mouth of the Jar. “Ah,” she cried,
+the mouth of the Jar. “Ah," she cried,
 
 
 
-“What memories cling 'round the instruments of our pleasure.”
+“What memories cling 'round the instruments of our pleasure."
 
 
 
@@ -4104,23 +4104,23 @@ By an unlucky chance a Fox fell into a deep well from which he could
 
 not get out. A Goat passed by shortly afterwards, and asked the Fox
 
-what he was doing down there. “Oh, have you not heard?” said the Fox;
+what he was doing down there. “Oh, have you not heard?" said the Fox;
 
 “there is going to be a great drought, so I jumped down here in order
 
-to be sure to have water by me. Why don't you come down too?” The Goat
+to be sure to have water by me. Why don't you come down too?" The Goat
 
 thought well of this advice, and jumped down into the well. But the Fox
 
 immediately jumped on her back, and by putting his foot on her long
 
-horns managed to jump up to the edge of the well. “Good-bye, friend,”
+horns managed to jump up to the edge of the well. “Good-bye, friend,"
 
 said the Fox, “remember next time,
 
 
 
-“Never trust the advice of a man in difficulties.”
+“Never trust the advice of a man in difficulties."
 
 
 

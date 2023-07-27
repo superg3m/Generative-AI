@@ -1,4 +1,4 @@
-EBOOK A DOLL'S HOUSE ***
+*** START OF THE PROJECT GUTENBERG EBOOK A DOLL'S HOUSE ***
 
 
 
@@ -528,7 +528,7 @@ schooldays you were a great spendthrift.
 
 NORA.
 _[laughing]_. Yes, that is what Torvald says now. _[Wags her finger at
-her.]_ But “Nora, Nora” is not so silly as you think. We have not been
+her.]_ But "Nora, Nora" is not so silly as you think. We have not been
 in a position for me to waste money. We have both had to work.
 
 MRS LINDE.
@@ -746,7 +746,7 @@ you that I too have something to be proud and glad of. It was I who
 saved Torvald's life.
 
 MRS LINDE.
-“Saved”? How?
+"Saved"? How?
 
 NORA.
 I told you about our trip to Italy. Torvald would never have recovered
@@ -912,8 +912,8 @@ What! Who was it?
 
 NORA.
 Be quiet!—that he had died; and that when his will was opened it
-contained, written in big letters, the instruction: “The lovely Mrs
-Nora Helmer is to have all I possess paid over to her at once in cash.”
+contained, written in big letters, the instruction: "The lovely Mrs
+Nora Helmer is to have all I possess paid over to her at once in cash."
 
 MRS LINDE.
 But, my dear Nora—who could the man be?
@@ -1651,8 +1651,8 @@ KROGSTAD.
 Your father died on the 29th of September. But, look here; your father
 has dated his signature the 2nd of October. It is a discrepancy, isn't
 it? _[NORA is silent.]_ Can you explain it to me? _[NORA is still
-silent.]_ It is a remarkable thing, too, that the words “2nd of
-October,” as well as the year, are not written in your father's
+silent.]_ It is a remarkable thing, too, that the words "2nd of
+October," as well as the year, are not written in your father's
 handwriting but in one that I think I know. Well, of course it can be
 explained; your father may have forgotten to date his signature, and
 someone else may have dated it haphazard before they knew of his death.
@@ -2490,7 +2490,7 @@ afterlife. I may as well tell you plainly, we were once on very
 intimate terms with one another. But this tactless fellow lays no
 restraint on himself when other people are present. On the contrary, he
 thinks it gives him the right to adopt a familiar tone with me, and
-every minute it is “I say, Helmer, old fellow!” and that sort of thing.
+every minute it is "I say, Helmer, old fellow!" and that sort of thing.
 I assure you it is extremely painful for me. He would make my position
 in the Bank intolerable.
 
@@ -4620,7 +4620,7 @@ I have fought a hard fight these three days.
 HELMER.
 And suffered agonies, and seen no way out but—. No, we won't call any
 of the horrors to mind. We will only shout with joy, and keep saying,
-“It's all over! It's all over!” Listen to me, Nora. You don't seem to
+"It's all over! It's all over!" Listen to me, Nora. You don't seem to
 realise that it is all over. What is this?—such a cold, set face! My
 poor little Nora, I quite understand; you don't feel as if you could
 believe that I have forgiven you. But it is true, Nora, I swear it; I
@@ -5168,3 +5168,7 @@ Nora! Nora! _[Looks round, and rises.]_ Empty. She is gone. _[A hope
 flashes across his mind.]_ The most wonderful thing of all—?
 
 _[The sound of a door shutting is heard from below.]_
+
+
+
+

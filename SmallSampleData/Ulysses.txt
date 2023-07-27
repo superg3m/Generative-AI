@@ -1,4 +1,4 @@
-EBOOK ULYSSES ***
+*** START OF THE PROJECT GUTENBERG EBOOK ULYSSES ***
 
 [Illustration]
 
@@ -6413,7 +6413,7 @@ Lenehan gave a loud cough.
 —Ahem! he said very softly. O, for a fresh of breath air! I caught a
 cold in the park. The gate was open.
 
-“YOU CAN DO IT!”
+"YOU CAN DO IT!"
 
 
 The editor laid a nervous hand on Stephen's shoulder.
@@ -29093,13 +29093,13 @@ Recite the second part (minor) of the legend.
 
      Then out there came the jew's daughter
      And she all dressed in green.
-     “Come back, come back, you pretty little boy,
-     And play your ball again.”
+     "Come back, come back, you pretty little boy,
+     And play your ball again."
      
      I can't come back and I won't come back
      Without my schoolfellows all.
      For if my master he did hear
-     He'd make it a sorry ball.”
+     He'd make it a sorry ball."
 
      She took him by the lilywhite hand
      And led him along the hall
@@ -29869,7 +29869,7 @@ Dublin Public Library, 106 Capel street, lent 21 May (Whitsun Eve)
 1904, due 4 June 1904, 13 days overdue (black cloth binding, bearing
 white letternumber ticket).
 
-_Voyages in China_ by “Viator” (recovered with brown paper, red ink
+_Voyages in China_ by "Viator" (recovered with brown paper, red ink
 title).
 
 _Philosophy of the Talmud_ (sewn pamphlet).
@@ -30384,7 +30384,7 @@ _Mizpah_, the date Xmas 1892, the name of the senders: from Mr + Mrs M.
 Comerford, the versicle: _May this Yuletide bring to thee, Joy and
 peace and welcome glee_: a butt of red partly liquefied sealing wax,
 obtained from the stores department of Messrs Hely's, Ltd., 89, 90, and
-91 Dame street: a box containing the remainder of a gross of gilt “J”
+91 Dame street: a box containing the remainder of a gross of gilt "J"
 pennibs, obtained from same department of same firm: an old sandglass
 which rolled containing sand which rolled: a sealed prophecy (never
 unsealed) written by Leopold Bloom in 1886 concerning the consequences
@@ -32835,3 +32835,7 @@ yes I said yes I will Yes.
 Trieste-Zurich-Paris
 
 1914-1921
+
+
+
+

@@ -158,7 +158,7 @@ Polly with a letter in her hand and says:
 
 
 
-“Tom, I reckon you've got to pack up and go down to Arkansaw—your aunt
+"Tom, I reckon you've got to pack up and go down to Arkansaw—your aunt
 
 Sally wants you.”
 
@@ -182,7 +182,7 @@ for it:
 
 
 
-“Well,” he says, “I'm right down sorry, Aunt Polly, but I reckon I got
+"Well,” he says, "I'm right down sorry, Aunt Polly, but I reckon I got
 
 to be excused—for the present.”
 
@@ -196,7 +196,7 @@ this gave me a chance to nudge Tom and whisper:
 
 
 
-“Ain't you got any sense? Sp'iling such a noble chance as this and
+"Ain't you got any sense? Sp'iling such a noble chance as this and
 
 throwing it away?”
 
@@ -206,7 +206,7 @@ But he warn't disturbed. He mumbled back:
 
 
 
-“Huck Finn, do you want me to let her _see_ how bad I want to go? Why,
+"Huck Finn, do you want me to let her _see_ how bad I want to go? Why,
 
 she'd begin to doubt, right away, and imagine a lot of sicknesses and
 
@@ -232,7 +232,7 @@ was all straight again, and she let fly. She says:
 
 
 
-“You'll be excused! _you_ will! Well, I never heard the like of it in
+"You'll be excused! _you_ will! Well, I never heard the like of it in
 
 all my days! The idea of you talking like that to _me!_ Now take
 
@@ -254,7 +254,7 @@ traveling. And he says:
 
 
 
-“Before we get away she'll wish she hadn't let me go, but she won't
+"Before we get away she'll wish she hadn't let me go, but she won't
 
 know any way to get around it now. After what she's said, her pride
 
@@ -282,7 +282,7 @@ set down, and she says:
 
 
 
-“They're in considerable trouble down there, and they think you and
+"They're in considerable trouble down there, and they think you and
 
 Huck'll be a kind of diversion for them—'comfort,' they say. Much of
 
@@ -304,7 +304,7 @@ anyhow. Who are the Dunlaps?”
 
 
 
-“They live about a mile from Uncle Silas's place, Aunt Polly—all the
+"They live about a mile from Uncle Silas's place, Aunt Polly—all the
 
 farmers live about a mile apart down there—and Brace Dunlap is a long
 
@@ -330,11 +330,11 @@ brother.”
 
 
 
-“What a name—Jubiter! Where'd he get it?”
+"What a name—Jubiter! Where'd he get it?”
 
 
 
-“It's only just a nickname. I reckon they've forgot his real name long
+"It's only just a nickname. I reckon they've forgot his real name long
 
 before this. He's twenty-seven, now, and has had it ever since the
 
@@ -358,11 +358,11 @@ old clothes to wear, and despises him. Jubiter is a twin.”
 
 
 
-“What's t'other twin like?”
+"What's t'other twin like?”
 
 
 
-“Just exactly like Jubiter—so they say; used to was, anyway, but he
+"Just exactly like Jubiter—so they say; used to was, anyway, but he
 
 hain't been seen for seven years. He got to robbing when he was
 
@@ -376,11 +376,11 @@ least that's what they say. They don't hear about him any more.”
 
 
 
-“What was his name?”
+"What was his name?”
 
 
 
-“Jake.”
+"Jake.”
 
 
 
@@ -390,7 +390,7 @@ was thinking. At last she says:
 
 
 
-“The thing that is mostly worrying your aunt Sally is the tempers that
+"The thing that is mostly worrying your aunt Sally is the tempers that
 
 that man Jubiter gets your uncle into.”
 
@@ -400,25 +400,25 @@ Tom was astonished, and so was I. Tom says:
 
 
 
-“Tempers? Uncle Silas? Land, you must be joking! I didn't know he _had_
+"Tempers? Uncle Silas? Land, you must be joking! I didn't know he _had_
 
 any temper.”
 
 
 
-“Works him up into perfect rages, your aunt Sally says; says he acts as
+"Works him up into perfect rages, your aunt Sally says; says he acts as
 
 if he would really hit the man, sometimes.”
 
 
 
-“Aunt Polly, it beats anything I ever heard of. Why, he's just as
+"Aunt Polly, it beats anything I ever heard of. Why, he's just as
 
 gentle as mush.”
 
 
 
-“Well, she's worried, anyway. Says your uncle Silas is like a changed
+"Well, she's worried, anyway. Says your uncle Silas is like a changed
 
 man, on account of all this quarreling. And the neighbors talk about
 
@@ -434,7 +434,7 @@ was.”
 
 
 
-“Well, ain't it strange? Why, Aunt Polly, he was always so good and
+"Well, ain't it strange? Why, Aunt Polly, he was always so good and
 
 kind and moony and absent-minded and chuckle-headed and lovable—why, he
 
@@ -474,7 +474,7 @@ A pretty lonesome boat; there warn't but few passengers, and all old
 
 folks, that set around, wide apart, dozing, and was very quiet. We was
 
-four days getting out of the “upper river,” because we got aground so
+four days getting out of the "upper river,” because we got aground so
 
 much. But it warn't dull—couldn't be for boys that was traveling, of
 
@@ -492,19 +492,19 @@ it was a man, but he didn't look sick.
 
 
 
-“Well, but _ain't_ he sick?”
+"Well, but _ain't_ he sick?”
 
 
 
-“I don't know; maybe he is, but 'pears to me he's just letting on.”
+"I don't know; maybe he is, but 'pears to me he's just letting on.”
 
 
 
-“What makes you think that?”
+"What makes you think that?”
 
 
 
-“Because if he was sick he would pull his clothes off _some_ time or
+"Because if he was sick he would pull his clothes off _some_ time or
 
 other—don't you reckon he would? Well, this one don't. At least he
 
@@ -512,11 +512,11 @@ don't ever pull off his boots, anyway.”
 
 
 
-“The mischief he don't! Not even when he goes to bed?”
+"The mischief he don't! Not even when he goes to bed?”
 
 
 
-“No.”
+"No.”
 
 
 
@@ -534,27 +534,27 @@ the waiter:
 
 
 
-“What's the man's name?”
+"What's the man's name?”
 
 
 
-“Phillips.”
+"Phillips.”
 
 
 
-“Where'd he come aboard?”
+"Where'd he come aboard?”
 
 
 
-“I think he got aboard at Elexandria, up on the Iowa line.”
+"I think he got aboard at Elexandria, up on the Iowa line.”
 
 
 
-“What do you reckon he's a-playing?”
+"What do you reckon he's a-playing?”
 
 
 
-“I hain't any notion—I never thought of it.”
+"I hain't any notion—I never thought of it.”
 
 
 
@@ -562,11 +562,11 @@ I says to myself, here's another one that runs to pie.
 
 
 
-“Anything peculiar about him?—the way he acts or talks?”
+"Anything peculiar about him?—the way he acts or talks?”
 
 
 
-“No—nothing, except he seems so scary, and keeps his doors locked night
+"No—nothing, except he seems so scary, and keeps his doors locked night
 
 and day both, and when you knock he won't let you in till he opens the
 
@@ -574,7 +574,7 @@ door a crack and sees who it is.”
 
 
 
-“By jimminy, it's int'resting! I'd like to get a look at him. Say—the
+"By jimminy, it's int'resting! I'd like to get a look at him. Say—the
 
 next time you're going in there, don't you reckon you could spread the
 
@@ -582,7 +582,7 @@ door and—”
 
 
 
-“No, indeedy! He's always behind it. He would block that game.”
+"No, indeedy! He's always behind it. He would block that game.”
 
 
 
@@ -590,7 +590,7 @@ Tom studied over it, and then he says:
 
 
 
-“Looky here. You lend me your apern and let me take him his breakfast
+"Looky here. You lend me your apern and let me take him his breakfast
 
 in the morning. I'll give you a quarter.”
 
@@ -630,7 +630,7 @@ him, we 'most dropped the trays! and Tom says:
 
 
 
-“Why, Jubiter Dunlap, where'd _you_ come from?”
+"Why, Jubiter Dunlap, where'd _you_ come from?”
 
 
 
@@ -646,7 +646,7 @@ together while he et his breakfast. And he says:
 
 
 
-“But I aint Jubiter Dunlap. I'd just as soon tell you who I am, though,
+"But I aint Jubiter Dunlap. I'd just as soon tell you who I am, though,
 
 if you'll swear to keep mum, for I ain't no Phillips, either.”
 
@@ -656,23 +656,23 @@ Tom says:
 
 
 
-“We'll keep mum, but there ain't any need to tell who you are if you
+"We'll keep mum, but there ain't any need to tell who you are if you
 
 ain't Jubiter Dunlap.”
 
 
 
-“Why?”
+"Why?”
 
 
 
-“Because if you ain't him you're t'other twin, Jake. You're the spit'n
+"Because if you ain't him you're t'other twin, Jake. You're the spit'n
 
 image of Jubiter.”
 
 
 
-“Well, I'm Jake. But looky here, how do you come to know us Dunlaps?”
+"Well, I'm Jake. But looky here, how do you come to know us Dunlaps?”
 
 
 
@@ -710,7 +710,7 @@ laughed.
 
 
 
-“Land!” he says, “it's like old times to hear all this tittle-tattle,
+"Land!” he says, "it's like old times to hear all this tittle-tattle,
 
 and does me good. It's been seven years and more since I heard any. How
 
@@ -718,37 +718,37 @@ do they talk about me these days?”
 
 
 
-“Who?”
+"Who?”
 
 
 
-“The farmers—and the family.”
+"The farmers—and the family.”
 
 
 
-“Why, they don't talk about you at all—at least only just a mention,
+"Why, they don't talk about you at all—at least only just a mention,
 
 once in a long time.”
 
 
 
-“The nation!” he says, surprised; “why is that?”
+"The nation!” he says, surprised; "why is that?”
 
 
 
-“Because they think you are dead long ago.”
+"Because they think you are dead long ago.”
 
 
 
-“No! Are you speaking true?—honor bright, now.” He jumped up, excited.
+"No! Are you speaking true?—honor bright, now.” He jumped up, excited.
 
 
 
-“Honor bright. There ain't anybody thinks you are alive.”
+"Honor bright. There ain't anybody thinks you are alive.”
 
 
 
-“Then I'm saved, I'm saved, sure! I'll go home. They'll hide me and
+"Then I'm saved, I'm saved, sure! I'll go home. They'll hide me and
 
 save my life. You keep mum. Swear you'll keep mum—swear you'll never,
 
@@ -790,13 +790,13 @@ looked like his brother Jubiter, now.
 
 
 
-“No,” Tom said; “there ain't anything left that's like him except the
+"No,” Tom said; "there ain't anything left that's like him except the
 
 long hair.”
 
 
 
-“All right, I'll get that cropped close to my head before I get there;
+"All right, I'll get that cropped close to my head before I get there;
 
 then him and Brace will keep my secret, and I'll live with them as
 
@@ -810,7 +810,7 @@ Tom he studied awhile, then he says:
 
 
 
-“Well, of course me and Huck are going to keep mum there, but if you
+"Well, of course me and Huck are going to keep mum there, but if you
 
 don't keep mum yourself there's going to be a little bit of a risk—it
 
@@ -824,7 +824,7 @@ hid all this time under another name?”
 
 
 
-“By George,” he says, “you're a sharp one! You're perfectly right. I've
+"By George,” he says, "you're a sharp one! You're perfectly right. I've
 
 got to play deef and dumb when there's a neighbor around. If I'd a
 
@@ -844,7 +844,7 @@ listened, pale and kind of panting. Presently he whispers:
 
 
 
-“Sounded like cocking a gun! Lord, what a life to lead!”
+"Sounded like cocking a gun! Lord, what a life to lead!”
 
 
 
@@ -908,7 +908,7 @@ says:
 
 
 
-“Oh, lordy, that's one of them! They're aboard sure—I just knowed it. I
+"Oh, lordy, that's one of them! They're aboard sure—I just knowed it. I
 
 sort of hoped I had got away, but I never believed it. Go on.”
 
@@ -920,7 +920,7 @@ he give that shiver again and says:
 
 
 
-“That's him!—that's the other one. If it would only come a good black
+"That's him!—that's the other one. If it would only come a good black
 
 stormy night and I could get ashore. You see, they've got spies on me.
 
@@ -942,7 +942,7 @@ come to that place he went right along. He says:
 
 
 
-“It was a confidence game. We played it on a julery-shop in St. Louis.
+"It was a confidence game. We played it on a julery-shop in St. Louis.
 
 What we was after was a couple of noble big di'monds as big as
 
@@ -960,21 +960,21 @@ fine enough for twelve thousand dollars.”
 
 
 
-“Twelve-thousand-dollars!” Tom says. “Was they really worth all that
+"Twelve-thousand-dollars!” Tom says. "Was they really worth all that
 
 money, do you reckon?”
 
 
 
-“Every cent of it.”
+"Every cent of it.”
 
 
 
-“And you fellows got away with them?”
+"And you fellows got away with them?”
 
 
 
-“As easy as nothing. I don't reckon the julery people know they've been
+"As easy as nothing. I don't reckon the julery people know they've been
 
 robbed yet. But it wouldn't be good sense to stay around St. Louis, of
 
@@ -996,19 +996,19 @@ had.”
 
 
 
-“What notion?” Tom says.
+"What notion?” Tom says.
 
 
 
-“To rob the others.”
+"To rob the others.”
 
 
 
-“What—one take everything, after all of you had helped to get it?”
+"What—one take everything, after all of you had helped to get it?”
 
 
 
-“Cert'nly.”
+"Cert'nly.”
 
 
 
@@ -1024,7 +1024,7 @@ for him. And then he went on. He says:
 
 
 
-“You see, the trouble was, you couldn't divide up two di'monds amongst
+"You see, the trouble was, you couldn't divide up two di'monds amongst
 
 three. If there'd been three—But never mind about that, there warn't
 
@@ -1050,39 +1050,39 @@ watched. Now what do you reckon it was he bought?”
 
 
 
-“Whiskers?” said I.
+"Whiskers?” said I.
 
 
 
-“No.”
+"No.”
 
 
 
-“Goggles?”
+"Goggles?”
 
 
 
-“No.”
+"No.”
 
 
 
-“Oh, keep still, Huck Finn, can't you, you're only just hendering all
+"Oh, keep still, Huck Finn, can't you, you're only just hendering all
 
 you can. What _was_ it he bought, Jake?”
 
 
 
-“You'd never guess in the world. It was only just a screwdriver—just a
+"You'd never guess in the world. It was only just a screwdriver—just a
 
 wee little bit of a screwdriver.”
 
 
 
-“Well, I declare! What did he want with that?”
+"Well, I declare! What did he want with that?”
 
 
 
-“That's what I thought. It was curious. It clean stumped me. I says to
+"That's what I thought. It was curious. It clean stumped me. I says to
 
 myself, what can he want with that thing? Well, when he come out I
 
@@ -1102,7 +1102,7 @@ got the di'monds and went aboard the boat.
 
 
 
-“But now we was up a stump, for we couldn't go to bed. We had to set up
+"But now we was up a stump, for we couldn't go to bed. We had to set up
 
 and watch one another. Pity, that was; pity to put that kind of a
 
@@ -1146,7 +1146,7 @@ and shut the door very soft and gentle.
 
 
 
-“There warn't nobody stirring anywhere, and the boat was slipping
+"There warn't nobody stirring anywhere, and the boat was slipping
 
 along, swift and steady, through the big water in the smoky moonlight.
 
@@ -1174,7 +1174,7 @@ upper-river tub and there warn't no real chance of that.
 
 
 
-“Well, the time strung along and along, and that fellow never come!
+"Well, the time strung along and along, and that fellow never come!
 
 Why, it strung along till dawn begun to break, and still he never come.
 
@@ -1194,7 +1194,7 @@ t'other right under our noses.
 
 
 
-“We felt pretty cheap. But the thing to do, straight off, was to make a
+"We felt pretty cheap. But the thing to do, straight off, was to make a
 
 plan; and we done it. We would do up the paper again, just as it was,
 
@@ -1230,11 +1230,11 @@ remember about that puzzlesome little screwdriver?”
 
 
 
-“You bet I do,” says Tom, all excited.
+"You bet I do,” says Tom, all excited.
 
 
 
-“Well, when I catched that glimpse of that boot heel, the idea that
+"Well, when I catched that glimpse of that boot heel, the idea that
 
 went smashing through my head was, I know where he's hid the di'monds!
 
@@ -1248,11 +1248,11 @@ needed a screwdriver, I reckoned I knowed why.”
 
 
 
-“Huck, ain't it bully!” says Tom.
+"Huck, ain't it bully!” says Tom.
 
 
 
-“Well, I got my boots on, and we went down and slipped in and laid the
+"Well, I got my boots on, and we went down and slipped in and laid the
 
 paper of sugar on the berth, and sat down soft and sheepish and went to
 
@@ -1274,7 +1274,7 @@ the nest you've come from. Before long I spied out the plug's mate.
 
 
 
-“Think of the smartness and coolness of that blatherskite! He put up
+"Think of the smartness and coolness of that blatherskite! He put up
 
 that scheme on us and reasoned out what we would do, and we went ahead
 
@@ -1292,7 +1292,7 @@ powerful smart.”
 
 
 
-“You bet your life it was!” says Tom, just full of admiration.
+"You bet your life it was!” says Tom, just full of admiration.
 
 
 
@@ -1334,7 +1334,7 @@ his chair and laid there snoring.
 
 
 
-“We was ready for business now. I said we better pull our boots off,
+"We was ready for business now. I said we better pull our boots off,
 
 and his'n too, and not make any noise, then we could pull him and haul
 
@@ -1356,25 +1356,25 @@ got to give it up. That was what I was waiting for. I says:
 
 
 
-“‘There's one place we hain't searched.'
+"‘There's one place we hain't searched.'
 
 
 
-“‘What place is that?' he says.
+"‘What place is that?' he says.
 
 
 
-“‘His stomach.'
+"‘His stomach.'
 
 
 
-“‘By gracious, I never thought of that! _Now_ we're on the homestretch,
+"‘By gracious, I never thought of that! _Now_ we're on the homestretch,
 
 to a dead moral certainty. How'll we manage?'
 
 
 
-“‘Well,' I says, ‘just stay by him till I turn out and hunt up a drug
+"‘Well,' I says, ‘just stay by him till I turn out and hunt up a drug
 
 store, and I reckon I'll fetch something that'll make them di'monds
 
@@ -1382,7 +1382,7 @@ tired of the company they're keeping.'
 
 
 
-“He said that's the ticket, and with him looking straight at me I slid
+"He said that's the ticket, and with him looking straight at me I slid
 
 myself into Bud's boots instead of my own, and he never noticed. They
 
@@ -1396,7 +1396,7 @@ road at a five-mile gait.
 
 
 
-“And not feeling so very bad, neither—walking on di'monds don't have no
+"And not feeling so very bad, neither—walking on di'monds don't have no
 
 such effect. When I had gone fifteen minutes I says to myself, there's
 
@@ -1426,7 +1426,7 @@ as up.
 
 
 
-“Just then I see a man coming down on a mule, and before I thought I
+"Just then I see a man coming down on a mule, and before I thought I
 
 jumped into the bush. It was stupid! When he got abreast he stopped and
 
@@ -1438,7 +1438,7 @@ surely have, if he meets up with Hal Clayton.
 
 
 
-“Well, about three in the morning I fetched Elexandria and see this
+"Well, about three in the morning I fetched Elexandria and see this
 
 stern-wheeler laying there, and was very glad, because I felt perfectly
 
@@ -1462,7 +1462,7 @@ know anything about it, not being very much used to steamboats.
 
 
 
-“Well, to cut the tale short, we never left there till plumb noon; and
+"Well, to cut the tale short, we never left there till plumb noon; and
 
 long before that I was hid in this stateroom; for before breakfast I
 
@@ -1606,7 +1606,7 @@ sweating and panting with that long run, and see the sycamores thirty
 
 yards ahead of us; and just then we see a couple of men run into the
 
-bunch and heard two or three terrible screams for help. “Poor Jake is
+bunch and heard two or three terrible screams for help. "Poor Jake is
 
 killed, sure,” we says. We was scared through and through, and broke
 
@@ -1642,33 +1642,33 @@ and scary. All of a sudden Tom whispers:
 
 
 
-“Look!—what's that?”
+"Look!—what's that?”
 
 
 
-“Don't!” I says. “Don't take a person by surprise that way. I'm 'most
+"Don't!” I says. "Don't take a person by surprise that way. I'm 'most
 
 ready to die, anyway, without you doing that.”
 
 
 
-“Look, I tell you. It's something coming out of the sycamores.”
+"Look, I tell you. It's something coming out of the sycamores.”
 
 
 
-“Don't, Tom!”
+"Don't, Tom!”
 
 
 
-“It's terrible tall!”
+"It's terrible tall!”
 
 
 
-“Oh, lordy-lordy! let's—”
+"Oh, lordy-lordy! let's—”
 
 
 
-“Keep still—it's a-coming this way.”
+"Keep still—it's a-coming this way.”
 
 
 
@@ -1700,37 +1700,37 @@ it in low voices. Tom says:
 
 
 
-“They're mostly dim and smoky, or like they're made out of fog, but
+"They're mostly dim and smoky, or like they're made out of fog, but
 
 this one wasn't.”
 
 
 
-“No,” I says; “I seen the goggles and the whiskers perfectly plain.”
+"No,” I says; "I seen the goggles and the whiskers perfectly plain.”
 
 
 
-“Yes, and the very colors in them loud countrified Sunday clothes—plaid
+"Yes, and the very colors in them loud countrified Sunday clothes—plaid
 
 breeches, green and black—”
 
 
 
-“Cotton velvet westcot, fire-red and yaller squares—”
+"Cotton velvet westcot, fire-red and yaller squares—”
 
 
 
-“Leather straps to the bottoms of the breeches legs and one of them
+"Leather straps to the bottoms of the breeches legs and one of them
 
 hanging unbottoned—”
 
 
 
-“Yes, and that hat—”
+"Yes, and that hat—”
 
 
 
-“What a hat for a ghost to wear!”
+"What a hat for a ghost to wear!”
 
 
 
@@ -1742,23 +1742,23 @@ like a sugar-loaf.
 
 
 
-“Did you notice if its hair was the same, Huck?”
+"Did you notice if its hair was the same, Huck?”
 
 
 
-“No—seems to me I did, then again it seems to me I didn't.”
+"No—seems to me I did, then again it seems to me I didn't.”
 
 
 
-“I didn't either; but it had its bag along, I noticed that.”
+"I didn't either; but it had its bag along, I noticed that.”
 
 
 
-“So did I. How can there be a ghost-bag, Tom?”
+"So did I. How can there be a ghost-bag, Tom?”
 
 
 
-“Sho! I wouldn't be as ignorant as that if I was you, Huck Finn.
+"Sho! I wouldn't be as ignorant as that if I was you, Huck Finn.
 
 Whatever a ghost has, turns to ghost-stuff. They've got to have their
 
@@ -1776,25 +1776,25 @@ his brother Jack come along by, talking, and Jack says:
 
 
 
-“What do you reckon he was toting?”
+"What do you reckon he was toting?”
 
 
 
-“I dunno; but it was pretty heavy.”
+"I dunno; but it was pretty heavy.”
 
 
 
-“Yes, all he could lug. Nigger stealing corn from old Parson Silas, I
+"Yes, all he could lug. Nigger stealing corn from old Parson Silas, I
 
 judged.”
 
 
 
-“So did I. And so I allowed I wouldn't let on to see him.”
+"So did I. And so I allowed I wouldn't let on to see him.”
 
 
 
-“That's me, too.”
+"That's me, too.”
 
 
 
@@ -1814,15 +1814,15 @@ Lane says:
 
 
 
-“Who?—Jubiter Dunlap?”
+"Who?—Jubiter Dunlap?”
 
 
 
-“Yes.”
+"Yes.”
 
 
 
-“Oh, I don't know. I reckon so. I seen him spading up some ground along
+"Oh, I don't know. I reckon so. I seen him spading up some ground along
 
 about an hour ago, just before sundown—him and the parson. Said he
 
@@ -1832,15 +1832,15 @@ him.”
 
 
 
-“Too tired, I reckon.”
+"Too tired, I reckon.”
 
 
 
-“Yes—works so hard!”
+"Yes—works so hard!”
 
 
 
-“Oh, you bet!”
+"Oh, you bet!”
 
 
 
@@ -1886,15 +1886,15 @@ and was going to climb over, but Tom says:
 
 
 
-“Hold on; set down here a minute. By George!”
+"Hold on; set down here a minute. By George!”
 
 
 
-“What's the matter?” says I.
+"What's the matter?” says I.
 
 
 
-“Matter enough!” he says. “Wasn't you expecting we would be the first
+"Matter enough!” he says. "Wasn't you expecting we would be the first
 
 to tell the family who it is that's been killed yonder in the
 
@@ -1908,15 +1908,15 @@ anybody else?”
 
 
 
-“Why, of course. It wouldn't be you, Tom Sawyer, if you was to let such
+"Why, of course. It wouldn't be you, Tom Sawyer, if you was to let such
 
 a chance go by. I reckon it ain't going to suffer none for lack of
 
-paint,” I says, “when you start in to scollop the facts.”
+paint,” I says, "when you start in to scollop the facts.”
 
 
 
-“Well, now,” he says, perfectly ca'm, “what would you say if I was to
+"Well, now,” he says, perfectly ca'm, "what would you say if I was to
 
 tell you I ain't going to start in at all?”
 
@@ -1926,11 +1926,11 @@ I was astonished to hear him talk so. I says:
 
 
 
-“I'd say it's a lie. You ain't in earnest, Tom Sawyer?”
+"I'd say it's a lie. You ain't in earnest, Tom Sawyer?”
 
 
 
-“You'll soon see. Was the ghost barefooted?”
+"You'll soon see. Was the ghost barefooted?”
 
 
 
@@ -1940,43 +1940,43 @@ I was astonished to hear him talk so. I says:
 
 
 
-“No, it wasn't. What of it?”
+"No, it wasn't. What of it?”
 
 
 
-“You wait—I'll show you what. Did it have its boots on?”
+"You wait—I'll show you what. Did it have its boots on?”
 
 
 
-“Yes. I seen them plain.”
+"Yes. I seen them plain.”
 
 
 
-“Swear it?”
+"Swear it?”
 
 
 
-“Yes, I swear it.”
+"Yes, I swear it.”
 
 
 
-“So do I. Now do you know what that means?”
+"So do I. Now do you know what that means?”
 
 
 
-“No. What does it mean?”
+"No. What does it mean?”
 
 
 
-“Means that them thieves _didn't get the di'monds_.”
+"Means that them thieves _didn't get the di'monds_.”
 
 
 
-“Jimminy! What makes you think that?”
+"Jimminy! What makes you think that?”
 
 
 
-“I don't only think it, I know it. Didn't the breeches and goggles and
+"I don't only think it, I know it. Didn't the breeches and goggles and
 
 whiskers and hand-bag and every blessed thing turn to ghost-stuff?
 
@@ -2002,7 +2002,7 @@ never see such a head.
 
 
 
-“Tom Sawyer,” I says, “I'll say it again as I've said it a many a time
+"Tom Sawyer,” I says, "I'll say it again as I've said it a many a time
 
 before: I ain't fitten to black your boots. But that's all right—that's
 
@@ -2020,19 +2020,19 @@ reckon?”
 
 
 
-“Because they got chased away by them other two men before they could
+"Because they got chased away by them other two men before they could
 
 pull the boots off of the corpse.”
 
 
 
-“That's so! I see it now. But looky here, Tom, why ain't we to go and
+"That's so! I see it now. But looky here, Tom, why ain't we to go and
 
 tell about it?”
 
 
 
-“Oh, shucks, Huck Finn, can't you see? Look at it. What's a-going to
+"Oh, shucks, Huck Finn, can't you see? Look at it. What's a-going to
 
 happen? There's going to be an inquest in the morning. Them two men
 
@@ -2046,13 +2046,13 @@ busted over the head with something, and come to his death by the
 
 inspiration of God. And after they've buried him they'll auction off
 
-his things for to pay the expenses, and then's _our_ chance.” “How,
+his things for to pay the expenses, and then's _our_ chance.” "How,
 
 Tom?”
 
 
 
-“Buy the boots for two dollars!”
+"Buy the boots for two dollars!”
 
 
 
@@ -2060,11 +2060,11 @@ Well, it 'most took my breath.
 
 
 
-“My land! Why, Tom, _we'll_ get the di'monds!”
+"My land! Why, Tom, _we'll_ get the di'monds!”
 
 
 
-“You bet. Some day there'll be a big reward offered for them—a thousand
+"You bet. Some day there'll be a big reward offered for them—a thousand
 
 dollars, sure. That's our money! Now we'll trot in and see the folks.
 
@@ -2082,13 +2082,13 @@ anything. It wouldn't done any good. I says:
 
 
 
-“But what are we going to tell your aunt Sally has made us so long
+"But what are we going to tell your aunt Sally has made us so long
 
 getting down here from the village, Tom?”
 
 
 
-“Oh, I'll leave that to you,” he says. “I reckon you can explain it
+"Oh, I'll leave that to you,” he says. "I reckon you can explain it
 
 somehow.”
 
@@ -2130,7 +2130,7 @@ glad to see us; and she says:
 
 
 
-“Where _have_ you been a-loafing to, you good-for-nothing trash! I've
+"Where _have_ you been a-loafing to, you good-for-nothing trash! I've
 
 been that worried about you I didn't know what to do. Your traps has
 
@@ -2162,11 +2162,11 @@ asked me, and I says:
 
 
 
-“Well, you see,—er—Mizzes—”
+"Well, you see,—er—Mizzes—”
 
 
 
-“Huck Finn! Since when am I Mizzes to you? Have I ever been stingy of
+"Huck Finn! Since when am I Mizzes to you? Have I ever been stingy of
 
 cuffs or kisses for you since the day you stood in this room and I took
 
@@ -2182,7 +2182,7 @@ So I done it. And I says:
 
 
 
-“Well, me and Tom allowed we would come along afoot and take a smell of
+"Well, me and Tom allowed we would come along afoot and take a smell of
 
 the woods, and we run across Lem Beebe and Jim Lane, and they asked us
 
@@ -2192,7 +2192,7 @@ Jubiter Dunlap's dog, because he had told them just that minute—”
 
 
 
-“Where did they see him?” says the old man; and when I looked up to see
+"Where did they see him?” says the old man; and when I looked up to see
 
 how _he_ come to take an intrust in a little thing like that, his eyes
 
@@ -2202,27 +2202,27 @@ of throwed me off, but I pulled myself together again and says:
 
 
 
-“It was when he was spading up some ground along with you, towards
+"It was when he was spading up some ground along with you, towards
 
 sundown or along there.”
 
 
 
-He only said, “Um,” in a kind of a disappointed way, and didn't take no
+He only said, "Um,” in a kind of a disappointed way, and didn't take no
 
 more intrust. So I went on. I says:
 
 
 
-“Well, then, as I was a-saying—”
+"Well, then, as I was a-saying—”
 
 
 
-“That'll do, you needn't go no furder.” It was Aunt Sally. She was
+"That'll do, you needn't go no furder.” It was Aunt Sally. She was
 
-boring right into me with her eyes, and very indignant. “Huck Finn,”
+boring right into me with her eyes, and very indignant. "Huck Finn,”
 
-she says, “how'd them men come to talk about going a-black-berrying in
+she says, "how'd them men come to talk about going a-black-berrying in
 
 September—in _this_ region?”
 
@@ -2234,27 +2234,27 @@ a-gazing at me, then she says:
 
 
 
-“And how'd they come to strike that idiot idea of going a-blackberrying
+"And how'd they come to strike that idiot idea of going a-blackberrying
 
 in the night?”
 
 
 
-“Well, m'm, they—er—they told us they had a lantern, and—”
+"Well, m'm, they—er—they told us they had a lantern, and—”
 
 
 
-“Oh, _shet_ up—do! Looky here; what was they going to do with a
+"Oh, _shet_ up—do! Looky here; what was they going to do with a
 
 dog?—hunt blackberries with it?”
 
 
 
-“I think, m'm, they—”
+"I think, m'm, they—”
 
 
 
-“Now, Tom Sawyer, what kind of a lie are you fixing _your_ mouth to
+"Now, Tom Sawyer, what kind of a lie are you fixing _your_ mouth to
 
 contribit to this mess of rubbage? Speak out—and I warn you before you
 
@@ -2274,27 +2274,27 @@ Tom he looked considerable hurt, and says, very dignified:
 
 
 
-“It is a pity if Huck is to be talked to that way, just for making a
+"It is a pity if Huck is to be talked to that way, just for making a
 
 little bit of a mistake that anybody could make.”
 
 
 
-“What mistake has he made?”
+"What mistake has he made?”
 
 
 
-“Why, only the mistake of saying blackberries when of course he meant
+"Why, only the mistake of saying blackberries when of course he meant
 
 strawberries.”
 
 
 
-“Tom Sawyer, I lay if you aggravate me a little more, I'll—”
+"Tom Sawyer, I lay if you aggravate me a little more, I'll—”
 
 
 
-“Aunt Sally, without knowing it—and of course without intending it—you
+"Aunt Sally, without knowing it—and of course without intending it—you
 
 are in the wrong. If you'd 'a' studied natural history the way you
 
@@ -2322,11 +2322,11 @@ tuckered out and had to hold up, he says, quite ca'm:
 
 
 
-“And yet, all the same, Aunt Sally—”
+"And yet, all the same, Aunt Sally—”
 
 
 
-“Shet up!” she says, “I don't want to hear another word out of you.”
+"Shet up!” she says, "I don't want to hear another word out of you.”
 
 
 
@@ -2382,11 +2382,11 @@ sharp and fractious before. He says:
 
 
 
-“Am I his brother's keeper?” And then he kind of wilted together, and
+"Am I his brother's keeper?” And then he kind of wilted together, and
 
 looked like he wished he hadn't spoken so, and then he says, very
 
-gentle: “But you needn't say that, Billy; I was took sudden and
+gentle: "But you needn't say that, Billy; I was took sudden and
 
 irritable, and I ain't very well these days, and not hardly
 
@@ -2510,7 +2510,7 @@ says:
 
 
 
-“He's a-walking in his sleep. I wish we was allowed to follow him and
+"He's a-walking in his sleep. I wish we was allowed to follow him and
 
 see where he's going to. There, he's turned down by the tobacker-field.
 
@@ -2534,7 +2534,7 @@ gullies was running rivers. Tom says:
 
 
 
-“Looky here, Huck, I'll tell you one thing that's mighty curious. Up to
+"Looky here, Huck, I'll tell you one thing that's mighty curious. Up to
 
 the time we went out last night the family hadn't heard about Jake
 
@@ -2606,7 +2606,7 @@ excited, and says:
 
 
 
-“Huck, it's gone!”
+"Huck, it's gone!”
 
 
 
@@ -2614,11 +2614,11 @@ I _was_ astonished! I says:
 
 
 
-“Tom, you don't mean it.”
+"Tom, you don't mean it.”
 
 
 
-“It's gone, sure. There ain't a sign of it. The ground is trampled
+"It's gone, sure. There ain't a sign of it. The ground is trampled
 
 some, but if there was any blood it's all washed away by the storm, for
 
@@ -2632,19 +2632,19 @@ Tom said—there wasn't a sign of a corpse.
 
 
 
-“Dern it,” I says, “the di'monds is gone. Don't you reckon the thieves
+"Dern it,” I says, "the di'monds is gone. Don't you reckon the thieves
 
 slunk back and lugged him off, Tom?”
 
 
 
-“Looks like it. It just does. Now where'd they hide him, do you
+"Looks like it. It just does. Now where'd they hide him, do you
 
 reckon?”
 
 
 
-“I don't know,” I says, disgusted, “and what's more I don't care.
+"I don't know,” I says, disgusted, "and what's more I don't care.
 
 They've got the boots, and that's all I cared about. He'll lay around
 
@@ -2728,11 +2728,11 @@ words started, and says:
 
 
 
-“Does he—does he—think—_what_ does he think! Tell him—tell him—” Then
+"Does he—does he—think—_what_ does he think! Tell him—tell him—” Then
 
 he sunk down in his chair limp and weak, and says, so as you could
 
-hardly hear him: “Go away—go away!”
+hardly hear him: "Go away—go away!”
 
 
 
@@ -2780,13 +2780,13 @@ all my livers and lungs and things fell down into my legs.
 
 
 
-“There it is!” I says. We jumped back behind a bush shivering, and Tom
+"There it is!” I says. We jumped back behind a bush shivering, and Tom
 
 says:
 
 
 
-“'Sh!—don't make a noise.”
+"'Sh!—don't make a noise.”
 
 
 
@@ -2804,7 +2804,7 @@ _had_ to talk, but he talked low. He says:
 
 
 
-“Poor Jakey, it's got all its things on, just as he said he would.
+"Poor Jakey, it's got all its things on, just as he said he would.
 
 _Now_ you see what we wasn't certain about—its hair. It's not long now
 
@@ -2816,11 +2816,11 @@ It does.”
 
 
 
-“Nor I neither,” I says; “I'd recognize it anywheres.”
+"Nor I neither,” I says; "I'd recognize it anywheres.”
 
 
 
-“So would I. It looks perfectly solid and genuwyne, just the way it
+"So would I. It looks perfectly solid and genuwyne, just the way it
 
 done before it died.”
 
@@ -2830,17 +2830,17 @@ So we kept a-gazing. Pretty soon Tom says:
 
 
 
-“Huck, there's something mighty curious about this one, don't you know?
+"Huck, there's something mighty curious about this one, don't you know?
 
 IT oughtn't to be going around in the daytime.”
 
 
 
-“That's so, Tom—I never heard the like of it before.”
+"That's so, Tom—I never heard the like of it before.”
 
 
 
-“No, sir, they don't ever come out only at night—and then not till
+"No, sir, they don't ever come out only at night—and then not till
 
 after twelve. There's something wrong about this one, now you mark my
 
@@ -2854,23 +2854,23 @@ that if we was to holler at it?”
 
 
 
-“Lordy, Tom, don't talk so! If you was to holler at it I'd die in my
+"Lordy, Tom, don't talk so! If you was to holler at it I'd die in my
 
 tracks.”
 
 
 
-“Don't you worry, I ain't going to holler at it. Look, Huck, it's
+"Don't you worry, I ain't going to holler at it. Look, Huck, it's
 
 a-scratching its head—don't you see?”
 
 
 
-“Well, what of it?”
+"Well, what of it?”
 
 
 
-“Why, this. What's the sense of it scratching its head? There ain't
+"Why, this. What's the sense of it scratching its head? There ain't
 
 anything there to itch; its head is made out of fog or something like
 
@@ -2878,13 +2878,13 @@ that, and can't itch. A fog can't itch; any fool knows that.”
 
 
 
-“Well, then, if it don't itch and can't itch, what in the nation is it
+"Well, then, if it don't itch and can't itch, what in the nation is it
 
 scratching it for? Ain't it just habit, don't you reckon?”
 
 
 
-“No, sir, I don't. I ain't a bit satisfied about the way this one acts.
+"No, sir, I don't. I ain't a bit satisfied about the way this one acts.
 
 I've a blame good notion it's a bogus one—I have, as sure as I'm
 
@@ -2892,63 +2892,63 @@ a-sitting here. Because, if it—Huck!”
 
 
 
-“Well, what's the matter now?”
+"Well, what's the matter now?”
 
 
 
-“_You can't see the bushes through it!_”
+"_You can't see the bushes through it!_”
 
 
 
-“Why, Tom, it's so, sure! It's as solid as a cow. I sort of begin to
+"Why, Tom, it's so, sure! It's as solid as a cow. I sort of begin to
 
 think—”
 
 
 
-“Huck, it's biting off a chaw of tobacker! By George, _they_ don't
+"Huck, it's biting off a chaw of tobacker! By George, _they_ don't
 
 chaw—they hain't got anything to chaw _with_. Huck!”
 
 
 
-“I'm a-listening.”
+"I'm a-listening.”
 
 
 
-“It ain't a ghost at all. It's Jake Dunlap his own self!”
+"It ain't a ghost at all. It's Jake Dunlap his own self!”
 
 
 
-“Oh your granny!” I says.
+"Oh your granny!” I says.
 
 
 
-“Huck Finn, did we find any corpse in the sycamores?”
+"Huck Finn, did we find any corpse in the sycamores?”
 
 
 
-“No.”
+"No.”
 
 
 
-“Or any sign of one?”
+"Or any sign of one?”
 
 
 
-“No.”
+"No.”
 
 
 
-“Mighty good reason. Hadn't ever been any corpse there.”
+"Mighty good reason. Hadn't ever been any corpse there.”
 
 
 
-“Why, Tom, you know we heard—”
+"Why, Tom, you know we heard—”
 
 
 
-“Yes, we did—heard a howl or two. Does that prove anybody was killed?
+"Yes, we did—heard a howl or two. Does that prove anybody was killed?
 
 Course it don't. And we seen four men run, then this one come walking
 
@@ -2978,7 +2978,7 @@ be a ghost, after all. When Tom got to where he was, he says:
 
 
 
-“Me and Huck's mighty glad to see you again, and you needn't be afeared
+"Me and Huck's mighty glad to see you again, and you needn't be afeared
 
 we'll tell. And if you think it'll be safer for you if we don't let on
 
@@ -3006,7 +3006,7 @@ says:
 
 
 
-“Goo-goo—goo-goo,” the way deef and dummies does.
+"Goo-goo—goo-goo,” the way deef and dummies does.
 
 
 
@@ -3016,7 +3016,7 @@ t'other side of the prairie, so Tom says:
 
 
 
-“You do it elegant; I never see anybody do it better. You're right;
+"You do it elegant; I never see anybody do it better. You're right;
 
 play it on us, too; play it on us same as the others; it'll keep you in
 
@@ -3202,7 +3202,7 @@ out of bed and was all excited, and says:
 
 
 
-“Quick, Huck, snatch on your clothes—I've got it! Bloodhound!”
+"Quick, Huck, snatch on your clothes—I've got it! Bloodhound!”
 
 
 
@@ -3214,11 +3214,11 @@ him. I says:
 
 
 
-“The trail's too old, Tom—and besides, it's rained, you know.”
+"The trail's too old, Tom—and besides, it's rained, you know.”
 
 
 
-“It don't make any difference, Huck. If the body's hid in the woods
+"It don't make any difference, Huck. If the body's hid in the woods
 
 anywhere around the hound will find it. If he's been murdered and
 
@@ -3240,7 +3240,7 @@ corpse—no, he was going to get on the track of that murderer and hunt
 
 _him_ down, too; and not only that, but he was going to stick to him
 
-till—“Well,” I says, “you better find the corpse first; I reckon that's
+till—"Well,” I says, "you better find the corpse first; I reckon that's
 
 a-plenty for to-day. For all we know, there _ain't_ any corpse and
 
@@ -3254,7 +3254,7 @@ That graveled him, and he says:
 
 
 
-“Huck Finn, I never see such a person as you to want to spoil
+"Huck Finn, I never see such a person as you to want to spoil
 
 everything. As long as _you_ can't see anything hopeful in a thing, you
 
@@ -3270,7 +3270,7 @@ opportunity to make a ruputation, and—”
 
 
 
-“Oh, go ahead,” I says. “I'm sorry, and I take it all back. I didn't
+"Oh, go ahead,” I says. "I'm sorry, and I take it all back. I didn't
 
 mean nothing. Fix it any way you want it. _He_ ain't any consequence to
 
@@ -3278,17 +3278,17 @@ me. If he's killed, I'm as glad of it as you are; and if he—”
 
 
 
-“I never said anything about being glad; I only—”
+"I never said anything about being glad; I only—”
 
 
 
-“Well, then, I'm as _sorry_ as you are. Any way you druther have it,
+"Well, then, I'm as _sorry_ as you are. Any way you druther have it,
 
 that is the way I druther have it. He—”
 
 
 
-“There ain't any druthers _about_ it, Huck Finn; nobody said anything
+"There ain't any druthers _about_ it, Huck Finn; nobody said anything
 
 about druthers. And as for—”
 
@@ -3300,7 +3300,7 @@ to get excited again, and pretty soon he says:
 
 
 
-“Huck, it'll be the bulliest thing that ever happened if we find the
+"Huck, it'll be the bulliest thing that ever happened if we find the
 
 body after everybody else has quit looking, and then go ahead and hunt
 
@@ -3318,7 +3318,7 @@ got to his blacksmith shop and told him what we come for.
 
 
 
-“You can take the dog,” he says, “but you ain't a-going to find any
+"You can take the dog,” he says, "but you ain't a-going to find any
 
 corpse, because there ain't any corpse to find. Everybody's quit
 
@@ -3330,19 +3330,19 @@ kill another person for, Tom Sawyer?—answer me that.”
 
 
 
-“Why, he—er—”
+"Why, he—er—”
 
 
 
-“Answer up! You ain't no fool. What does he kill him _for?_”
+"Answer up! You ain't no fool. What does he kill him _for?_”
 
 
 
-“Well, sometimes it's for revenge, and—”
+"Well, sometimes it's for revenge, and—”
 
 
 
-“Wait. One thing at a time. Revenge, says you; and right you are. Now
+"Wait. One thing at a time. Revenge, says you; and right you are. Now
 
 who ever had anything agin that poor trifling no-account? Who do you
 
@@ -3360,7 +3360,7 @@ Dunlap. The blacksmith says, by and by:
 
 
 
-“The revenge idea won't work, you see. Well, then, what's next?
+"The revenge idea won't work, you see. Well, then, what's next?
 
 Robbery? B'gosh, that must 'a' been it, Tom! Yes, sirree, I reckon
 
@@ -3388,7 +3388,7 @@ body; and he said:
 
 
 
-“If they'd had any sense they'd 'a' knowed the lazy cuss slid out
+"If they'd had any sense they'd 'a' knowed the lazy cuss slid out
 
 because he wanted a loafing spell after all this work. He'll come
 
@@ -3402,7 +3402,7 @@ Tom.”
 
 Then he busted out, and had another of them forty-rod laughs of hisn.
 
-Tom couldn't back down after all this, so he said, “All right, unchain
+Tom couldn't back down after all this, so he said, "All right, unchain
 
 him;” and the blacksmith done it, and we started home and left that old
 
@@ -3456,7 +3456,7 @@ a sleeve. Tom kind of gasped out, and says:
 
 
 
-“Come away, Huck—it's found.”
+"Come away, Huck—it's found.”
 
 
 
@@ -3470,7 +3470,7 @@ face, but you didn't need to. Everybody said:
 
 
 
-“Poor Jubiter; it's his clothes, to the last rag!”
+"Poor Jubiter; it's his clothes, to the last rag!”
 
 
 
@@ -3484,7 +3484,7 @@ and Aunt Sally and Benny was. Tom sung out:
 
 
 
-“Me and Huck's found Jubiter Dunlap's corpse all by ourselves with a
+"Me and Huck's found Jubiter Dunlap's corpse all by ourselves with a
 
 bloodhound, after everybody else had quit hunting and given it up; and
 
@@ -3504,7 +3504,7 @@ fell right forward out of his chair on to the floor and groans out:
 
 
 
-“Oh, my God, you've found him _Now!_”
+"Oh, my God, you've found him _Now!_”
 
 
 
@@ -3546,7 +3546,7 @@ pretty soon he sort of come to himself again and says:
 
 
 
-“Uncle Silas, don't you say another word like that. It's dangerous, and
+"Uncle Silas, don't you say another word like that. It's dangerous, and
 
 there ain't a shadder of truth in it.”
 
@@ -3560,7 +3560,7 @@ and the tears run down his face, and he says;
 
 
 
-“No—I done it; poor Jubiter, I done it!”
+"No—I done it; poor Jubiter, I done it!”
 
 
 
@@ -3586,7 +3586,7 @@ and was gone. So he hoped he wasn't hurt bad.
 
 
 
-“But laws,” he says, “it was only just fear that gave him that last
+"But laws,” he says, "it was only just fear that gave him that last
 
 little spurt of strength, and of course it soon played out and he laid
 
@@ -3602,13 +3602,13 @@ to be found out and hung. But Tom said:
 
 
 
-“No, you ain't going to be found out. You _didn't_ kill him. _One_ lick
+"No, you ain't going to be found out. You _didn't_ kill him. _One_ lick
 
 wouldn't kill him. Somebody else done it.”
 
 
 
-“Oh, yes,” he says, “I done it—nobody else. Who else had anything
+"Oh, yes,” he says, "I done it—nobody else. Who else had anything
 
 against him? Who else _could_ have anything against him?”
 
@@ -3626,7 +3626,7 @@ and so pitiful to see. Tom had a sudden idea, and says:
 
 
 
-“But hold on!—somebody _buried_ him. Now who—”
+"But hold on!—somebody _buried_ him. Now who—”
 
 
 
@@ -3664,7 +3664,7 @@ such a good character; and Tom says, cordial and hearty, he says:
 
 
 
-“Why, just look at it a minute; just consider. Here is Uncle Silas, all
+"Why, just look at it a minute; just consider. Here is Uncle Silas, all
 
 these years a preacher—at his own expense; all these years doing good
 
@@ -3680,7 +3680,7 @@ _him?_ Why, it ain't any more possible than—”
 
 
 
-“By authority of the State of Arkansaw, I arrest you for the murder of
+"By authority of the State of Arkansaw, I arrest you for the murder of
 
 Jubiter Dunlap!” shouts the sheriff at the door.
 
@@ -3704,7 +3704,7 @@ They took him up to the little one-horse jail in the village, and we
 
 all went along to tell him good-bye; and Tom was feeling elegant, and
 
-says to me, “We'll have a most noble good time and heaps of danger some
+says to me, "We'll have a most noble good time and heaps of danger some
 
 dark night getting him out of there, Huck, and it'll be talked about
 
@@ -3946,7 +3946,7 @@ pleasant it was up to then, and how miserable ever since.
 
 
 
-_Lem Beebe_, sworn, said—“I was a-coming along, that day, second of
+_Lem Beebe_, sworn, said—"I was a-coming along, that day, second of
 
 September, and Jim Lane was with me, and it was towards sundown, and we
 
@@ -3980,7 +3980,7 @@ warn't nobody in it. And when he was done, you could hear them gasp and
 
 sigh, all over the house, and look at one another the same as to say,
 
-“Ain't it perfectly terrible—ain't it awful!”
+"Ain't it perfectly terrible—ain't it awful!”
 
 
 
@@ -4012,7 +4012,7 @@ saying; and when he got through he was still in that brown-study, just
 
 the same. Our lawyer joggled him, and then he looked up startled, and
 
-says, “Take the witness if you want him. Lemme alone—I want to think.”
+says, "Take the witness if you want him. Lemme alone—I want to think.”
 
 
 
@@ -4052,11 +4052,11 @@ he asked them:
 
 
 
-“Why didn't you go and tell what you saw?”
+"Why didn't you go and tell what you saw?”
 
 
 
-“We was afraid we would get mixed up in it ourselves. And we was just
+"We was afraid we would get mixed up in it ourselves. And we was just
 
 starting down the river a-hunting for all the week besides; but as soon
 
@@ -4066,11 +4066,11 @@ then we went and told Brace Dunlap all about it.”
 
 
 
-“When was that?”
+"When was that?”
 
 
 
-“Saturday night, September 9th.”
+"Saturday night, September 9th.”
 
 
 
@@ -4078,7 +4078,7 @@ The judge he spoke up and says:
 
 
 
-“Mr. Sheriff, arrest these two witnesses on suspicions of being
+"Mr. Sheriff, arrest these two witnesses on suspicions of being
 
 accessionary after the fact to the murder.”
 
@@ -4088,19 +4088,19 @@ The lawyer for the prostitution jumps up all excited, and says:
 
 
 
-“Your honor! I protest against this extraordi—”
+"Your honor! I protest against this extraordi—”
 
 
 
-[Illustration: “Set down!” says the judge.]
+[Illustration: "Set down!” says the judge.]
 
 
 
 
 
-“Set down!” says the judge, pulling his bowie and laying it on his
+"Set down!” says the judge, pulling his bowie and laying it on his
 
-pulpit. “I beg you to respect the Court.”
+pulpit. "I beg you to respect the Court.”
 
 
 
@@ -4108,7 +4108,7 @@ So he done it. Then he called Bill Withers.
 
 
 
-_Bill Withers_, sworn, said: “I was coming along about sundown,
+_Bill Withers_, sworn, said: "I was coming along about sundown,
 
 Saturday, September 2d, by the prisoner's field, and my brother Jack
 
@@ -4136,7 +4136,7 @@ the diseased down to the place in his tobacker field where the dog dug
 
 up the body, but there warn't much sympathy around amongst the faces,
 
-and I heard one cuss say “'Tis the coldest blooded work I ever struck,
+and I heard one cuss say "'Tis the coldest blooded work I ever struck,
 
 lugging a murdered man around like that, and going to bury him like a
 
@@ -4160,7 +4160,7 @@ And after him comes Brace Dunlap, and he was looking very mournful, and
 
 most crying; and there was a rustle and a stir all around, and
 
-everybody got ready to listen, and lots of the women folks said, “Poor
+everybody got ready to listen, and lots of the women folks said, "Poor
 
 cretur, poor cretur,” and you could see a many of them wiping their
 
@@ -4168,7 +4168,7 @@ eyes.
 
 
 
-_Brace Dunlap_, sworn, said: “I was in considerable trouble a long time
+_Brace Dunlap_, sworn, said: "I was in considerable trouble a long time
 
 about my poor brother, but I reckoned things warn't near so bad as he
 
@@ -4178,7 +4178,7 @@ heart to hurt a poor harmless cretur like that”—[by jings, I was sure I
 
 seen Tom give a kind of a faint little start, and then look
 
-disappointed again]—“and you know I _could't_ think a preacher would
+disappointed again]—"and you know I _could't_ think a preacher would
 
 hurt him—it warn't natural to think such an onlikely thing—so I never
 
@@ -4196,7 +4196,7 @@ still in there, and solemn, and old Uncle Silas, poor thing, he give a
 
 groan right out so everybody heard him.  Then Brace he went on,
 
-“Saturday, September 2d, he didn't come home to supper. By-and-by I got
+"Saturday, September 2d, he didn't come home to supper. By-and-by I got
 
 a little uneasy, and one of my niggers went over to this prisoner's
 
@@ -4214,7 +4214,7 @@ troubles and gone to a better shore—” So he broke down and choked up
 
 again, and most all the women was crying now.  Pretty soon he got
 
-another start and says: “But it warn't no use; so at last I went home
+another start and says: "But it warn't no use; so at last I went home
 
 and tried to get some sleep, but couldn't. Well, in a day or two
 
@@ -4266,7 +4266,7 @@ him with a snowball. _He was burying the man he'd murdered!_”
 
 And he slumped down in his chair crying and sobbing, and 'most
 
-everybody in the house busted out wailing, and crying, and saying, “Oh,
+everybody in the house busted out wailing, and crying, and saying, "Oh,
 
 it's awful—awful—horrible!” and there was a most tremendous excitement,
 
@@ -4276,7 +4276,7 @@ jumps old Uncle Silas, white as a sheet, and sings out:
 
 
 
-“_It's true, every word—I murdered him in cold blood!_”
+"_It's true, every word—I murdered him in cold blood!_”
 
 
 
@@ -4284,7 +4284,7 @@ By Jackson, it petrified them! People rose up wild all over the house,
 
 straining and staring for a better look at him, and the judge was
 
-hammering with his mallet and the sheriff yelling “Order—order in the
+hammering with his mallet and the sheriff yelling "Order—order in the
 
 court—order!”
 
@@ -4322,7 +4322,7 @@ of fire:
 
 
 
-“I killed him! I am guilty! But I never had the notion in my life to
+"I killed him! I am guilty! But I never had the notion in my life to
 
 hurt him or harm him, spite of all them lies about my threatening him,
 
@@ -4348,7 +4348,7 @@ sniveling here over a brother he never cared a brass farthing for—” [I
 
 see Tom give a jump and look glad _this_ time, to a dead certainty]
 
-“—and in that moment I've told you about, I forgot my God and
+"—and in that moment I've told you about, I forgot my God and
 
 remembered only my heart's bitterness, God forgive me, and I struck to
 
@@ -4368,13 +4368,13 @@ Up jumps Tom and shouts:
 
 
 
-“_Now_, I've got it!” and waves his hand, oh, ever so fine and starchy,
+"_Now_, I've got it!” and waves his hand, oh, ever so fine and starchy,
 
 towards the old man, and says:
 
 
 
-“Set down! A murder _was_ done, but you never had no hand in it!”
+"Set down! A murder _was_ done, but you never had no hand in it!”
 
 
 
@@ -4400,11 +4400,11 @@ says, perfectly ca'm:
 
 
 
-“Your honor, may I speak?”
+"Your honor, may I speak?”
 
 
 
-“For God's sake, yes—go on!” says the judge, so astonished and mixed up
+"For God's sake, yes—go on!” says the judge, so astonished and mixed up
 
 he didn't know what he was about hardly.
 
@@ -4412,13 +4412,13 @@ he didn't know what he was about hardly.
 
 Then Tom he stood there and waited a second or two—that was for to work
 
-up an “effect,” as he calls it—then he started in just as ca'm as ever,
+up an "effect,” as he calls it—then he started in just as ca'm as ever,
 
 and says:
 
 
 
-“For about two weeks now there's been a little bill sticking on the
+"For about two weeks now there's been a little bill sticking on the
 
 front of this courthouse offering two thousand dollars reward for a
 
@@ -4438,7 +4438,7 @@ was worth.
 
 
 
-“This man here, Brace Dunlap, that's been sniveling so about his dead
+"This man here, Brace Dunlap, that's been sniveling so about his dead
 
 brother that _you_ know he never cared a straw for, wanted to marry
 
@@ -4468,7 +4468,7 @@ and distressed that often he warn't hardly in his right mind.
 
 
 
-“Well, on that Saturday that we've had so much trouble about, two of
+"Well, on that Saturday that we've had so much trouble about, two of
 
 these witnesses here, Lem Beebe and Jim Lane, come along by where Uncle
 
@@ -4486,7 +4486,7 @@ their tongues; anyway, they'll wish it before I get done.
 
 
 
-“That same Saturday evening Bill and Jack Withers _did_ see one man
+"That same Saturday evening Bill and Jack Withers _did_ see one man
 
 lugging off another one. That much of what they said is true, and the
 
@@ -4504,7 +4504,7 @@ _wasn't_, and they knowed it when they swore to that lie.
 
 
 
-“A man out in the moonlight _did_ see a murdered person put under
+"A man out in the moonlight _did_ see a murdered person put under
 
 ground in the tobacker field—but it wasn't Uncle Silas that done the
 
@@ -4512,7 +4512,7 @@ burying. He was in his bed at that very time.
 
 
 
-“Now, then, before I go on, I want to ask you if you've ever noticed
+"Now, then, before I go on, I want to ask you if you've ever noticed
 
 this: that people, when they're thinking deep, or when they're worried,
 
@@ -4538,13 +4538,13 @@ V's—and half the time I don't notice it and don't know I'm doing it.”
 
 That was odd. That is just what I do; only I make an O. And I could see
 
-people nodding to one another, same as they do when they mean “_that'_
+people nodding to one another, same as they do when they mean "_that'_
 
 so.”
 
 
 
-“Now, then, I'll go on. That same Saturday—no, it was the night
+"Now, then, I'll go on. That same Saturday—no, it was the night
 
 before—there was a steamboat laying at Flagler's Landing, forty miles
 
@@ -4566,7 +4566,7 @@ stole them, and then this fellow he got hold of them and skipped.
 
 
 
-“Well, he hadn't been gone more'n ten minutes before his pals found it
+"Well, he hadn't been gone more'n ten minutes before his pals found it
 
 out, and they jumped ashore and lit out after him. Prob'ly they burnt
 
@@ -4586,17 +4586,17 @@ head with a club—for he _did_ hit him.
 
 
 
-“But the minute the pals see that thief slide into the bunch of
+"But the minute the pals see that thief slide into the bunch of
 
 sycamores, they jumped out of the bushes and slid in after him.
 
 
 
-“They fell on him and clubbed him to death.
+"They fell on him and clubbed him to death.
 
 
 
-“Yes, for all he screamed and howled so, they never had no mercy on
+"Yes, for all he screamed and howled so, they never had no mercy on
 
 him, but clubbed him to death. And two men that was running along the
 
@@ -4612,7 +4612,7 @@ slipped back very quiet into the sycamores.
 
 
 
-“_Then_ what did they do? I will tell you what they done. They found
+"_Then_ what did they do? I will tell you what they done. They found
 
 where the thief had got his disguise out of his carpet-sack to put on;
 
@@ -4620,23 +4620,23 @@ so one of them strips and puts on that disguise.”
 
 
 
-Tom waited a little here, for some more “effect”—then he says, very
+Tom waited a little here, for some more "effect”—then he says, very
 
 deliberate:
 
 
 
-“The man that put on that dead man's disguise was—_Jubiter Dunlap!_”
+"The man that put on that dead man's disguise was—_Jubiter Dunlap!_”
 
 
 
-“Great Scott!” everybody shouted, all over the house, and old Uncle
+"Great Scott!” everybody shouted, all over the house, and old Uncle
 
 Silas he looked perfectly astonished.
 
 
 
-“Yes, it was Jubiter Dunlap. Not dead, you see. Then they pulled off
+"Yes, it was Jubiter Dunlap. Not dead, you see. Then they pulled off
 
 the dead man's boots and put Jubiter Dunlap's old ragged shoes on the
 
@@ -4656,25 +4656,25 @@ buried the murdered man.”
 
 
 
-He stopped, and stood half a minute. Then—“And who do you reckon the
+He stopped, and stood half a minute. Then—"And who do you reckon the
 
 murdered man _was?_ It was—_Jake_ Dunlap, the long-lost burglar!”
 
 
 
-“Great Scott!”
+"Great Scott!”
 
 
 
-“And the man that buried him was—_Brace_ Dunlap, his brother!”
+"And the man that buried him was—_Brace_ Dunlap, his brother!”
 
 
 
-“Great Scott!”
+"Great Scott!”
 
 
 
-“And who do you reckon is this mowing idiot here that's letting on all
+"And who do you reckon is this mowing idiot here that's letting on all
 
 these weeks to be a deef and dumb stranger? It's—_Jubiter_ Dunlap!”
 
@@ -4704,7 +4704,7 @@ saying considerable. And next, people begun to yell:
 
 
 
-“Tom Sawyer! Tom Sawyer! Shut up everybody, and let him go on! Go on,
+"Tom Sawyer! Tom Sawyer! Shut up everybody, and let him go on! Go on,
 
 Tom Sawyer!”
 
@@ -4724,7 +4724,7 @@ was all quiet, he says:
 
 
 
-“There ain't much left, only this. When that man there, Bruce Dunlap,
+"There ain't much left, only this. When that man there, Bruce Dunlap,
 
 had most worried the life and sense out of Uncle Silas till at last he
 
@@ -4756,7 +4756,7 @@ the way they're looking now.
 
 
 
-“Well, me and Huck Finn here, we come down on the boat with the
+"Well, me and Huck Finn here, we come down on the boat with the
 
 thieves, and the dead one told us all about the di'monds, and said the
 
@@ -4778,7 +4778,7 @@ according to agreement.
 
 
 
-“Well, me and Huck went on hunting for the corpse after the others
+"Well, me and Huck went on hunting for the corpse after the others
 
 quit, and we found it. And was proud, too; but Uncle Silas he knocked
 
@@ -4792,7 +4792,7 @@ break him out of prison the way we done with our old nigger Jim.
 
 
 
-“I done everything I could the whole month to think up some way to save
+"I done everything I could the whole month to think up some way to save
 
 Uncle Silas, but I couldn't strike a thing. So when we come into court
 
@@ -4818,7 +4818,7 @@ year ago.”
 
 
 
-He stopped then, and studied a minute—laying for an “effect”—I knowed
+He stopped then, and studied a minute—laying for an "effect”—I knowed
 
 it perfectly well. Then he turned off like he was going to leave the
 
@@ -4826,7 +4826,7 @@ platform, and says, kind of lazy and indifferent:
 
 
 
-“Well, I believe that is all.”
+"Well, I believe that is all.”
 
 
 
@@ -4834,7 +4834,7 @@ Why, you never heard such a howl!—and it come from the whole house:
 
 
 
-“What _was_ it you seen him do? Stay where you are, you little devil!
+"What _was_ it you seen him do? Stay where you are, you little devil!
 
 You think you are going to work a body up till his mouth's a-watering
 
@@ -4842,13 +4842,13 @@ and stop there? What _was_ it he done?”
 
 
 
-That was it, you see—he just done it to get an “effect”; you couldn't
+That was it, you see—he just done it to get an "effect”; you couldn't
 
 'a' pulled him off of that platform with a yoke of oxen.
 
 
 
-“Oh, it wasn't anything much,” he says. “I seen him looking a little
+"Oh, it wasn't anything much,” he says. "I seen him looking a little
 
 excited when he found Uncle Silas was actually fixing to hang himself
 
@@ -4876,17 +4876,17 @@ And then the judge he looked down over his pulpit and says:
 
 
 
-“My boy, did you _see_ all the various details of this strange
+"My boy, did you _see_ all the various details of this strange
 
 conspiracy and tragedy that you've been describing?”
 
 
 
-“No, your honor, I didn't see any of them.”
+"No, your honor, I didn't see any of them.”
 
 
 
-“Didn't see any of them! Why, you've told the whole history straight
+"Didn't see any of them! Why, you've told the whole history straight
 
 through, just the same as if you'd seen it with your eyes. How did you
 
@@ -4898,7 +4898,7 @@ Tom says, kind of easy and comfortable:
 
 
 
-“Oh, just noticing the evidence and piecing this and that together,
+"Oh, just noticing the evidence and piecing this and that together,
 
 your honor; just an ordinary little bit of detective work; anybody
 
@@ -4906,7 +4906,7 @@ could 'a' done it.”
 
 
 
-“Nothing of the kind! Not two in a million could 'a' done it. You are a
+"Nothing of the kind! Not two in a million could 'a' done it. You are a
 
 very remarkable boy.”
 
@@ -4918,11 +4918,11 @@ wouldn't 'a' sold out for a silver mine. Then the judge says:
 
 
 
-“But are you certain you've got this curious history straight?”
+"But are you certain you've got this curious history straight?”
 
 
 
-“Perfectly, your honor. Here is Brace Dunlap—let him deny his share of
+"Perfectly, your honor. Here is Brace Dunlap—let him deny his share of
 
 it if he wants to take the chance; I'll engage to make him wish he
 
@@ -4944,15 +4944,15 @@ laughing he looks up at the judge and says:
 
 
 
-“Your honor, there's a thief in this house.”
+"Your honor, there's a thief in this house.”
 
 
 
-“A thief?”
+"A thief?”
 
 
 
-“Yes, sir. And he's got them twelve-thousand-dollar di'monds on him.”
+"Yes, sir. And he's got them twelve-thousand-dollar di'monds on him.”
 
 
 
@@ -4960,7 +4960,7 @@ By gracious, but it made a stir! Everybody went shouting:
 
 
 
-“Which is him? which is him? p'int him out!”
+"Which is him? which is him? p'int him out!”
 
 
 
@@ -4968,7 +4968,7 @@ And the judge says:
 
 
 
-“Point him out, my lad. Sheriff, you will arrest him. Which one is it?”
+"Point him out, my lad. Sheriff, you will arrest him. Which one is it?”
 
 
 
@@ -4976,7 +4976,7 @@ Tom says:
 
 
 
-“This late dead man here—Jubiter Dunlap.”
+"This late dead man here—Jubiter Dunlap.”
 
 
 
@@ -4990,7 +4990,7 @@ half crying, and says:
 
 
 
-“Now _that's_ a lie. Your honor, it ain't fair; I'm plenty bad enough
+"Now _that's_ a lie. Your honor, it ain't fair; I'm plenty bad enough
 
 without that. I done the other things—Brace he put me up to it, and
 
@@ -5008,7 +5008,7 @@ Tom says:
 
 
 
-“Your honor, it wasn't right to call him a thief, and I'll let up on
+"Your honor, it wasn't right to call him a thief, and I'll let up on
 
 that a little. He did steal the di'monds, but he didn't know it. He
 
@@ -5030,7 +5030,7 @@ The judge spoke up and says:
 
 
 
-“Search him, sheriff.”
+"Search him, sheriff.”
 
 
 
@@ -5052,7 +5052,7 @@ says:
 
 
 
-“There, now! what'd I tell you?”
+"There, now! what'd I tell you?”
 
 
 
@@ -5060,7 +5060,7 @@ And the judge says:
 
 
 
-“It appears you were mistaken this time, my boy.”
+"It appears you were mistaken this time, my boy.”
 
 
 
@@ -5072,7 +5072,7 @@ and says:
 
 
 
-“Oh, now I've got it! I'd forgot.”
+"Oh, now I've got it! I'd forgot.”
 
 
 
@@ -5080,7 +5080,7 @@ Which was a lie, and I knowed it. Then he says:
 
 
 
-“Will somebody be good enough to lend me a little small screwdriver?
+"Will somebody be good enough to lend me a little small screwdriver?
 
 There was one in your brother's hand-bag that you smouched, Jubiter,
 
@@ -5088,11 +5088,11 @@ but I reckon you didn't fetch it with you.”
 
 
 
-“No, I didn't. I didn't want it, and I give it away.”
+"No, I didn't. I didn't want it, and I give it away.”
 
 
 
-“That's because you didn't know what it was for.”
+"That's because you didn't know what it was for.”
 
 
 
@@ -5104,7 +5104,7 @@ Jubiter:
 
 
 
-“Put up your foot on this chair.” And he kneeled down and begun to
+"Put up your foot on this chair.” And he kneeled down and begun to
 
 unscrew the heel-plate, everybody watching; and when he got that big
 
@@ -5134,7 +5134,7 @@ head, and says:
 
 
 
-“I'll keep them and notify the owners; and when they send for them it
+"I'll keep them and notify the owners; and when they send for them it
 
 will be a real pleasure to me to hand you the two thousand dollars, for
 

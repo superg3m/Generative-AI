@@ -1,4 +1,4 @@
-EBOOK DRACULA ***
+*** START OF THE PROJECT GUTENBERG EBOOK DRACULA ***
 
 
 
@@ -46,7 +46,7 @@ CHAPTER III. Jonathan Harker's Journal
 CHAPTER IV. Jonathan Harker's Journal
 CHAPTER V. Letters—Lucy and Mina
 CHAPTER VI. Mina Murray's Journal
-CHAPTER VII. Cutting from “The Dailygraph,” 8 August
+CHAPTER VII. Cutting from "The Dailygraph," 8 August
 CHAPTER VIII. Mina Murray's Journal
 CHAPTER IX. Mina Murray's Journal
 CHAPTER X. Mina Murray's Journal
@@ -15494,3 +15494,7 @@ They lay in a sort of or-orderly=> They lay in a sort of orderly {pg
 Translyvania=> Transylvania {pg 294}
 
 this mrrning from Dardanelles=> this morning from Dardanelles {pg 313}
+
+
+
+

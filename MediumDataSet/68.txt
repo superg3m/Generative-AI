@@ -48,7 +48,7 @@ Contents
 
  The Pit of Plenty
 
- “Follow the Rope!”
+ "Follow the Rope!”
 
  The Magnet Switch
 
@@ -240,7 +240,7 @@ Tardos Mors, or his no less redoubtable son, was dead.
 
 
 
-“Let one of their own blood rule you until they return,” I said to the
+"Let one of their own blood rule you until they return,” I said to the
 
 assembled nobles of Helium, as I addressed them from the Pedestal of
 
@@ -644,7 +644,7 @@ suddenly riveted upon Thurid, who had raised both palms forward above
 
 his head in the universal salute of Martians, and a moment later his
 
-“Kaor!” the Barsoomian word of greeting, came in low but distinct
+"Kaor!” the Barsoomian word of greeting, came in low but distinct
 
 tones.
 
@@ -774,7 +774,7 @@ Therns raised in argument.
 
 
 
-“I tell you, Thern,” the black dator was saying, “that I wish only
+"I tell you, Thern,” the black dator was saying, "that I wish only
 
 vengeance upon John Carter, Prince of Helium. I am leading you into no
 
@@ -784,9 +784,9 @@ nation and my house?”
 
 
 
-“Let us stop here a moment that I may hear your plans,” replied the
+"Let us stop here a moment that I may hear your plans,” replied the
 
-hekkador, “and then we may proceed with a better understanding of our
+hekkador, "and then we may proceed with a better understanding of our
 
 duties and obligations.”
 
@@ -814,9 +814,9 @@ me. Nor had I long to wait. I listened intently.
 
 
 
-“There are no obligations, Father of Therns,” continued the First Born.
+"There are no obligations, Father of Therns,” continued the First Born.
 
-“Thurid, Dator of Issus, has no price. When the thing has been
+"Thurid, Dator of Issus, has no price. When the thing has been
 
 accomplished I shall be glad if you will see to it that I am well
 
@@ -832,7 +832,7 @@ matter directs.”
 
 
 
-“It shall be as you wish, Dator,” replied Matai Shang; “nor is that
+"It shall be as you wish, Dator,” replied Matai Shang; "nor is that
 
 all—power and riches shall be yours if you restore my daughter,
 
@@ -842,7 +842,7 @@ Helium.
 
 
 
-“Ah,” he continued with a malicious snarl, “but the Earth man shall
+"Ah,” he continued with a malicious snarl, "but the Earth man shall
 
 suffer for the indignities he has put upon the holy of holies, nor
 
@@ -854,15 +854,15 @@ degradation of the red woman.”
 
 
 
-“You shall have your way with her before another day has passed, Matai
+"You shall have your way with her before another day has passed, Matai
 
-Shang,” said Thurid, “if you but say the word.”
+Shang,” said Thurid, "if you but say the word.”
 
 
 
-“I have heard of the Temple of the Sun, Dator,” replied Matai Shang,
+"I have heard of the Temple of the Sun, Dator,” replied Matai Shang,
 
-“but never have I heard that its prisoners could be released before the
+"but never have I heard that its prisoners could be released before the
 
 allotted year of their incarceration had elapsed. How, then, may you
 
@@ -870,9 +870,9 @@ accomplish the impossible?”
 
 
 
-“Access may be had to any cell of the temple at any time,” replied
+"Access may be had to any cell of the temple at any time,” replied
 
-Thurid. “Only Issus knew this; nor was it ever Issus' way to divulge
+Thurid. "Only Issus knew this; nor was it ever Issus' way to divulge
 
 more of her secrets than were necessary. By chance, after her death, I
 
@@ -882,7 +882,7 @@ writ, the most minute directions for reaching the cells at any time.
 
 
 
-“And more I learned—that many men had gone thither for Issus in the
+"And more I learned—that many men had gone thither for Issus in the
 
 past, always on errands of death and torture to the prisoners; but
 
@@ -892,13 +892,13 @@ immediately they had returned and made their reports to cruel Issus.”
 
 
 
-“Let us proceed, then,” said Matai Shang at last. “I must trust you,
+"Let us proceed, then,” said Matai Shang at last. "I must trust you,
 
 yet at the same time you must trust me, for we are six to your one.”
 
 
 
-“I do not fear,” replied Thurid, “nor need you. Our hatred of the
+"I do not fear,” replied Thurid, "nor need you. Our hatred of the
 
 common enemy is sufficient bond to insure our loyalty to each other,
 
@@ -1442,7 +1442,7 @@ apparent that they were entirely unaware that they had listeners.
 
 
 
-“I tell you,” one of them was saying, “I do not trust the black one.
+"I tell you,” one of them was saying, "I do not trust the black one.
 
 There was no necessity for leaving us here to guard the way. Against
 
@@ -1452,7 +1452,7 @@ but a ruse to divide our numbers.
 
 
 
-“He will have Matai Shang leave others elsewhere on some pretext or
+"He will have Matai Shang leave others elsewhere on some pretext or
 
 other, and then at last he will fall upon us with his confederates and
 
@@ -1460,7 +1460,7 @@ slay us all.”
 
 
 
-“I believe you, Lakor,” replied the other, “there can never be aught
+"I believe you, Lakor,” replied the other, "there can never be aught
 
 else than deadly hatred between thern and First Born. And what think
 
@@ -1476,7 +1476,7 @@ think that wise old Matai Shang should listen to such foolishness.”
 
 
 
-“Indeed, it is silly,” replied Lakor. “It will open nothing other than
+"Indeed, it is silly,” replied Lakor. "It will open nothing other than
 
 the way to a quick death for us all. He had to make some answer when
 
@@ -1490,15 +1490,15 @@ repeat it himself.”
 
 
 
-“Let us not remain here longer, Lakor,” spoke the other thern.
+"Let us not remain here longer, Lakor,” spoke the other thern.
 
-“Perchance if we hasten after them we may come in time to rescue Matai
+"Perchance if we hasten after them we may come in time to rescue Matai
 
 Shang, and wreak our own vengeance upon the black dator. What say you?”
 
 
 
-“Never in a long life,” answered Lakor, “have I disobeyed a single
+"Never in a long life,” answered Lakor, "have I disobeyed a single
 
 command of the Father of Therns. I shall stay here until I rot if he
 
@@ -1510,7 +1510,7 @@ Lakor's companion shook his head.
 
 
 
-“You are my superior,” he said; “I cannot do other than you sanction,
+"You are my superior,” he said; "I cannot do other than you sanction,
 
 though I still believe that we are foolish to remain.”
 
@@ -1546,7 +1546,7 @@ sides, but I raised my hand in a gesture of restraint.
 
 
 
-“I seek Thurid, the black dator,” I said. “My quarrel is with him, not
+"I seek Thurid, the black dator,” I said. "My quarrel is with him, not
 
 with you. Let me pass then in peace, for if I mistake not he is as much
 
@@ -1558,7 +1558,7 @@ They lowered their swords and Lakor spoke.
 
 
 
-“I know not whom you may be, with the white skin of a thern and the
+"I know not whom you may be, with the white skin of a thern and the
 
 black hair of a red man; but were it only Thurid whose safety were at
 
@@ -1566,7 +1566,7 @@ stake you might pass, and welcome, in so far as we be concerned.
 
 
 
-“Tell us who you be, and what mission calls you to this unknown world
+"Tell us who you be, and what mission calls you to this unknown world
 
 beneath the Valley Dor, then maybe we can see our way to let you pass
 
@@ -1614,9 +1614,9 @@ I replied to Lakor.
 
 
 
-“I believe that you will see the wisdom of permitting me to pass
+"I believe that you will see the wisdom of permitting me to pass
 
-unmolested,” I said, “for it would avail you nothing to die uselessly
+unmolested,” I said, "for it would avail you nothing to die uselessly
 
 in the rocky bowels of Barsoom merely to protect a hereditary enemy,
 
@@ -1624,7 +1624,7 @@ such as Thurid, Dator of the First Born.
 
 
 
-“That you shall die should you elect to oppose me is evidenced by the
+"That you shall die should you elect to oppose me is evidenced by the
 
 moldering corpses of all the many great Barsoomian warriors who have
 
@@ -1648,7 +1648,7 @@ harness and drew him back.
 
 
 
-“Hold!” commanded Lakor. “There will be plenty of time to fight if we
+"Hold!” commanded Lakor. "There will be plenty of time to fight if we
 
 find it wise to fight at all. There be good reasons why every thern
 
@@ -1662,7 +1662,7 @@ since, were wishing that we might undertake.
 
 
 
-“Let him go then and slay the black. When he returns we shall still be
+"Let him go then and slay the black. When he returns we shall still be
 
 here to bar his way to the outer world, and thus we shall have rid
 
@@ -1686,7 +1686,7 @@ acquiescence to his superior's suggestion.
 
 
 
-“Proceed, John Carter,” said Lakor; “but know that if Thurid does not
+"Proceed, John Carter,” said Lakor; "but know that if Thurid does not
 
 lay you low there will be those awaiting your return who will see that
 
@@ -1712,7 +1712,7 @@ the one upon the extreme right Lakor motioned.
 
 
 
-“That way leads to Thurid,” he said.
+"That way leads to Thurid,” he said.
 
 
 
@@ -1730,7 +1730,7 @@ I turned a questioning look upon Lakor.
 
 
 
-“The brute is seldom wrong,” I said, “and while I do not doubt your
+"The brute is seldom wrong,” I said, "and while I do not doubt your
 
 superior knowledge, Thern, I think that I shall do well to listen to
 
@@ -1744,7 +1744,7 @@ distrusted him.
 
 
 
-“As you will,” the fellow replied with a shrug. “In the end it shall be
+"As you will,” the fellow replied with a shrug. "In the end it shall be
 
 all the same.”
 
@@ -1822,13 +1822,13 @@ whispering to each other.
 
 
 
-“Can it be that we have distanced them already?” said Lakor.
+"Can it be that we have distanced them already?” said Lakor.
 
 
 
-“Either that or the beast has led the man upon a wrong trail,” replied
+"Either that or the beast has led the man upon a wrong trail,” replied
 
-the other, “for the way which we took is by far the shorter to this
+the other, "for the way which we took is by far the shorter to this
 
 point—for him who knows it. John Carter would have found it a short
 
@@ -1836,7 +1836,7 @@ road to death had he taken it as you suggested to him.”
 
 
 
-“Yes,” said Lakor, “no amount of fighting ability would have saved him
+"Yes,” said Lakor, "no amount of fighting ability would have saved him
 
 from the pivoted flagstone. He surely would have stepped upon it, and
 
@@ -1848,9 +1848,9 @@ that warned him toward the safer avenue!”
 
 
 
-“There be other dangers ahead of him, though,” spoke Lakor's fellow,
+"There be other dangers ahead of him, though,” spoke Lakor's fellow,
 
-“which he may not so easily escape—should he succeed in escaping our
+"which he may not so easily escape—should he succeed in escaping our
 
 two good swords. Consider, for example, what chance he will have,
 
@@ -2354,15 +2354,15 @@ there rushed to my memory the recollection of the conversation between
 
 Lakor and his companion when the lesser thern had quoted the words of
 
-Thurid and scoffed at them: “And what think you of the ridiculous
+Thurid and scoffed at them: "And what think you of the ridiculous
 
 matter of the light? Let the light shine with the intensity of three
 
 radium units for fifty tals”—ah, there was the first line of characters
 
-upon the torch's metal case—3—50 T; “and for one xat let it shine with
+upon the torch's metal case—3—50 T; "and for one xat let it shine with
 
-the intensity of one radium unit”—there was the second line; “and then
+the intensity of one radium unit”—there was the second line; "and then
 
 for twenty-five tals with nine units.”
 
@@ -2722,17 +2722,17 @@ of suspicion. Similarly they looked at Woola, growling at my heel.
 
 
 
-“Kaor!” I said in true Martian greeting, and the warriors arose and
+"Kaor!” I said in true Martian greeting, and the warriors arose and
 
-saluted me. “I have but just found my way hither from the Golden
+saluted me. "I have but just found my way hither from the Golden
 
-Cliffs,” I continued, “and seek audience with the hekkador, Matai
+Cliffs,” I continued, "and seek audience with the hekkador, Matai
 
 Shang, Father of Therns. Where may he be found?”
 
 
 
-“Follow me,” said one of the guard, and, turning, led me across the
+"Follow me,” said one of the guard, and, turning, led me across the
 
 outer courtyard toward a second buttressed wall.
 
@@ -2774,7 +2774,7 @@ enter.
 
 
 
-“Matai Shang is in the temple court beyond,” he said; and as Woola and
+"Matai Shang is in the temple court beyond,” he said; and as Woola and
 
 I passed through, the fellow closed the door quickly upon us.
 
@@ -2854,7 +2854,7 @@ again to me.
 
 
 
-“Earth man,” he cried, “you have earned a more ignoble death than now
+"Earth man,” he cried, "you have earned a more ignoble death than now
 
 lies within our weakened power to inflict upon you; but that the death
 
@@ -2866,7 +2866,7 @@ Holy Therns, for a Martian year.
 
 
 
-“At the end of that time, as you know, she shall be discarded, as is
+"At the end of that time, as you know, she shall be discarded, as is
 
 the law among us, but not, as is usual, to lead a quiet and honored
 
@@ -2920,7 +2920,7 @@ Matai Shang went livid with anger, but upon the lips of Thurid I could
 
 see a grim smile of amusement, for to him these things were not holy;
 
-so, lest he should derive too much amusement from my act, I cried: “And
+so, lest he should derive too much amusement from my act, I cried: "And
 
 thus did I with the holies of Issus, Goddess of Life Eternal, ere I
 
@@ -2936,7 +2936,7 @@ of Issus.
 
 
 
-“Let us have an end to this blaspheming!” he cried, turning to the
+"Let us have an end to this blaspheming!” he cried, turning to the
 
 Father of Therns.
 
@@ -2954,7 +2954,7 @@ and the hideous plant men to the feast of victims floating down the
 
 broad bosom of the mysterious Iss toward the silian-infested waters of
 
-the Lost Sea of Korus. “Let loose the death!” he cried, and immediately
+the Lost Sea of Korus. "Let loose the death!” he cried, and immediately
 
 a dozen doors in the base of the tower swung open, and a dozen grim and
 
@@ -3066,9 +3066,9 @@ turned and marched back into their dens.
 
 
 
-“You need not fear them now, John Carter!” cried Thuvia, before they
+"You need not fear them now, John Carter!” cried Thuvia, before they
 
-could silence her. “Those banths will never harm you now, nor Woola,
+could silence her. "Those banths will never harm you now, nor Woola,
 
 either.”
 
@@ -3112,7 +3112,7 @@ remain and prevent me from following. Then she turned toward me.
 
 
 
-“John Carter,” she cried, “for the last time I offer you the love of
+"John Carter,” she cried, "for the last time I offer you the love of
 
 Phaidor, daughter of the Holy Hekkador. Accept and your princess shall
 
@@ -3124,7 +3124,7 @@ shall fall upon Dejah Thoris.
 
 
 
-“You cannot save her now, for by this time they have reached a place
+"You cannot save her now, for by this time they have reached a place
 
 where even you may not follow. Refuse and naught can save you; for,
 
@@ -3134,9 +3134,9 @@ for you, the way hence hath been made impossible. What say you?”
 
 
 
-“You knew my answer, Phaidor,” I replied, “before ever you spoke. Make
+"You knew my answer, Phaidor,” I replied, "before ever you spoke. Make
 
-way,” I cried to the guards, “for John Carter, Prince of Helium, would
+way,” I cried to the guards, "for John Carter, Prince of Helium, would
 
 pass!”
 
@@ -3220,9 +3220,9 @@ force, so that eventually he gave it up and turned to face me.
 
 
 
-“Go thy way, Thern,” I said to him, pointing toward the entrance to the
+"Go thy way, Thern,” I said to him, pointing toward the entrance to the
 
-runway up which we had but just come. “I have no quarrel with you, nor
+runway up which we had but just come. "I have no quarrel with you, nor
 
 do I crave your life. Go!”
 
@@ -3404,21 +3404,21 @@ open window.
 
 
 
-“He can never solve the secret of that lock.” The voice was Matai
+"He can never solve the secret of that lock.” The voice was Matai
 
-Shang's. “Let us proceed to the hangar above that we may be far to the
+Shang's. "Let us proceed to the hangar above that we may be far to the
 
 south before he finds another way—should that be possible.”
 
 
 
-“All things seem possible to that vile calot,” replied another voice,
+"All things seem possible to that vile calot,” replied another voice,
 
 which I recognized as Thurid's.
 
 
 
-“Then let us haste,” said Matai Shang. “But to be doubly sure, I will
+"Then let us haste,” said Matai Shang. "But to be doubly sure, I will
 
 leave two who shall patrol this runway. Later they may follow us upon
 
@@ -3916,7 +3916,7 @@ rankly all about us to the height of several feet above my head.
 
 Myriad creepers hung festooned in graceful loops from tree to tree, and
 
-among them were several varieties of the Martian “man-flower,” whose
+among them were several varieties of the Martian "man-flower,” whose
 
 blooms have eyes and hands with which to see and seize the insects
 
@@ -4242,7 +4242,7 @@ me off peremptorily.
 
 
 
-“Who are you,” he asked, “who dare enter the land of Kaol and hunt in
+"Who are you,” he asked, "who dare enter the land of Kaol and hunt in
 
 the royal forest of the jeddak?”
 
@@ -4252,7 +4252,7 @@ Then, as he noted my white skin through the coating of grime and blood
 
 that covered me, his eyes went wide and in an altered tone he
 
-whispered: “Can it be that you are a Holy Thern?”
+whispered: "Can it be that you are a Holy Thern?”
 
 
 
@@ -4266,9 +4266,9 @@ acquaintance discovered that I was no thern at all.
 
 
 
-“I am not a thern,” I replied, and then, flinging caution to the winds,
+"I am not a thern,” I replied, and then, flinging caution to the winds,
 
-I said: “I am John Carter, Prince of Helium, whose name may not be
+I said: "I am John Carter, Prince of Helium, whose name may not be
 
 entirely unknown to you.”
 
@@ -4286,9 +4286,9 @@ the kind.
 
 
 
-“John Carter, Prince of Helium,” he repeated slowly, as though he could
+"John Carter, Prince of Helium,” he repeated slowly, as though he could
 
-not quite grasp the truth of the statement. “John Carter, the mightiest
+not quite grasp the truth of the statement. "John Carter, the mightiest
 
 warrior of Barsoom!”
 
@@ -4300,9 +4300,9 @@ manner of most friendly greeting upon Mars.
 
 
 
-“It is my duty, and it should be my pleasure, to kill you, John
+"It is my duty, and it should be my pleasure, to kill you, John
 
-Carter,” he said, “but always in my heart of hearts have I admired your
+Carter,” he said, "but always in my heart of hearts have I admired your
 
 prowess and believed in your sincerity the while I have questioned and
 
@@ -4310,7 +4310,7 @@ disbelieved the therns and their religion.
 
 
 
-“It would mean my instant death were my heresy to be suspected in the
+"It would mean my instant death were my heresy to be suspected in the
 
 court of Kulan Tith, but if I may serve you, Prince, you have but to
 
@@ -4334,7 +4334,7 @@ the less frequented sections of the domains of the red men of Barsoom.
 
 
 
-“Torkar Bar has already placed a great debt of gratitude upon my
+"Torkar Bar has already placed a great debt of gratitude upon my
 
 shoulders,” I replied, pointing to the carcass of the creature from
 
@@ -4346,7 +4346,7 @@ The red man smiled.
 
 
 
-“It was fortunate that I came when I did,” he said. “Only this poisoned
+"It was fortunate that I came when I did,” he said. "Only this poisoned
 
 spear pricking the very heart of a sith can kill it quickly enough to
 
@@ -4360,7 +4360,7 @@ its own.
 
 
 
-“Look,” he continued, drawing his dagger and making an incision in the
+"Look,” he continued, drawing his dagger and making an incision in the
 
 carcass a foot above the root of the sting, from which he presently
 
@@ -4370,7 +4370,7 @@ liquid.
 
 
 
-“Thus we maintain our supply, though were it not for certain commercial
+"Thus we maintain our supply, though were it not for certain commercial
 
 uses to which the virus is put, it would scarcely be necessary to add
 
@@ -4378,7 +4378,7 @@ to our present store, since the sith is almost extinct.
 
 
 
-“Only occasionally do we now run upon one. Of old, however, Kaol was
+"Only occasionally do we now run upon one. Of old, however, Kaol was
 
 overrun with the frightful monsters that often came in herds of twenty
 
@@ -4398,7 +4398,7 @@ thankful that I had not spoken too soon.
 
 
 
-“And now as to yourself, John Carter,” he said, “I shall not ask your
+"And now as to yourself, John Carter,” he said, "I shall not ask your
 
 business here, nor do I wish to hear it. I have eyes and ears and
 
@@ -4412,19 +4412,19 @@ no overt act against either the nation of Kaol or its jeddak.”
 
 
 
-“You may have my word as to that, Torkar Bar,” I replied.
+"You may have my word as to that, Torkar Bar,” I replied.
 
 
 
-“My way leads along the Kaolian road, away from the city of Kaol,” he
+"My way leads along the Kaolian road, away from the city of Kaol,” he
 
-continued. “I have seen no one—John Carter least of all. Nor have you
+continued. "I have seen no one—John Carter least of all. Nor have you
 
 seen Torkar Bar, nor ever heard of him. You understand?”
 
 
 
-“Perfectly,” I replied.
+"Perfectly,” I replied.
 
 
 
@@ -4432,7 +4432,7 @@ He laid his hand upon my shoulder.
 
 
 
-“This road leads directly into the city of Kaol,” he said. “I wish you
+"This road leads directly into the city of Kaol,” he said. "I wish you
 
 fortune,” and vaulting to the back of his thoat he trotted away without
 
@@ -4778,7 +4778,7 @@ laid his hand upon my shoulder and asked my name.
 
 
 
-“I am Dotar Sojat,” I replied, recalling a name given me by the Tharks
+"I am Dotar Sojat,” I replied, recalling a name given me by the Tharks
 
 many years before, from the surnames of the first two of their warriors
 
@@ -4786,7 +4786,7 @@ I had killed, which is the custom among them.
 
 
 
-“You are a mighty warrior, Dotar Sojat,” he replied, “and when this day
+"You are a mighty warrior, Dotar Sojat,” he replied, "and when this day
 
 is done I shall speak with you again in the great audience chamber.”
 
@@ -4870,7 +4870,7 @@ ruler.
 
 
 
-“Kaor, Dotar Sojat!” he greeted me. “I have summoned you to receive the
+"Kaor, Dotar Sojat!” he greeted me. "I have summoned you to receive the
 
 grateful thanks of the people of Kaol, for had it not been for your
 
@@ -4884,7 +4884,7 @@ court of Kulan Tith.”
 
 
 
-“I am from Hastor,” I said, for in truth I had a small palace in that
+"I am from Hastor,” I said, for in truth I had a small palace in that
 
 southern city which lies within the far-flung dominions of the
 
@@ -4892,7 +4892,7 @@ Heliumetic nation.
 
 
 
-“My presence in the land of Kaol is partly due to accident, my flier
+"My presence in the land of Kaol is partly due to accident, my flier
 
 being wrecked upon the southern fringe of your great forest. It was
 
@@ -4928,7 +4928,7 @@ concerning me, stood my arch-enemies, Matai Shang and Thurid.
 
 
 
-“Holy Hekkador of the Holy Therns,” the jeddak was saying, “shower thy
+"Holy Hekkador of the Holy Therns,” the jeddak was saying, "shower thy
 
 blessings upon Dotar Sojat, the valorous stranger from distant Hastor,
 
@@ -5230,7 +5230,7 @@ now upon his face was no sign of friendship.
 
 
 
-“Kulan Tith commands your presence before him,” he said. “Come!”
+"Kulan Tith commands your presence before him,” he said. "Come!”
 
 
 
@@ -5272,7 +5272,7 @@ foot of the thrones we halted.
 
 
 
-“Prefer thy charge,” said Kulan Tith, turning to one who stood among
+"Prefer thy charge,” said Kulan Tith, turning to one who stood among
 
 the nobles at his right; and then Thurid, the black dator of the First
 
@@ -5280,7 +5280,7 @@ Born, stepped forward and faced me.
 
 
 
-“Most noble Jeddak,” he said, addressing Kulan Tith, “from the first I
+"Most noble Jeddak,” he said, addressing Kulan Tith, "from the first I
 
 suspected this stranger within thy palace. Your description of his
 
@@ -5290,7 +5290,7 @@ Barsoom.
 
 
 
-“But that there might be no mistake I despatched a priest of your own
+"But that there might be no mistake I despatched a priest of your own
 
 holy cult to make the test that should pierce his disguise and reveal
 
@@ -5334,7 +5334,7 @@ dramatic effect of his disclosure. Then he resumed.
 
 
 
-“Here, O Kulan Tith,” he cried, “is he who has desecrated the temples
+"Here, O Kulan Tith,” he cried, "is he who has desecrated the temples
 
 of the Gods of Mars, who has violated the persons of the Holy Therns
 
@@ -5352,7 +5352,7 @@ these charges. The Holy Thern nodded his head.
 
 
 
-“It is indeed the arch-blasphemer,” he said. “Even now he has followed
+"It is indeed the arch-blasphemer,” he said. "Even now he has followed
 
 me to the very heart of thy palace, Kulan Tith, for the sole purpose of
 
@@ -5360,7 +5360,7 @@ assassinating me. He—”
 
 
 
-“He lies!” I cried. “Kulan Tith, listen that you may know the truth.
+"He lies!” I cried. "Kulan Tith, listen that you may know the truth.
 
 Listen while I tell you why John Carter has followed Matai Shang to the
 
@@ -5374,9 +5374,9 @@ whose cruel bonds I have freed your planet.”
 
 
 
-“Silence!” roared the jeddak, leaping to his feet and laying his hand
+"Silence!” roared the jeddak, leaping to his feet and laying his hand
 
-upon the hilt of his sword. “Silence, blasphemer! Kulan Tith need not
+upon the hilt of his sword. "Silence, blasphemer! Kulan Tith need not
 
 permit the air of his audience chamber to be defiled by the heresies
 
@@ -5384,7 +5384,7 @@ that issue from your polluted throat to judge you.
 
 
 
-“You stand already self-condemned. It but remains to determine the
+"You stand already self-condemned. It but remains to determine the
 
 manner of your death. Even the service that you rendered the arms of
 
@@ -5408,7 +5408,7 @@ malevolently in my face.
 
 
 
-“You shall not escape this time, Earth man,” he taunted.
+"You shall not escape this time, Earth man,” he taunted.
 
 
 
@@ -5450,7 +5450,7 @@ It was the visiting jeddak.
 
 
 
-“Hold!” he cried. “If you value my friendship, Kulan Tith, and the
+"Hold!” he cried. "If you value my friendship, Kulan Tith, and the
 
 age-old peace that has existed between our peoples, call off your
 
@@ -5474,7 +5474,7 @@ even as befitted intercourse between two great jeddaks.
 
 
 
-“Thuvan Dihn,” he said slowly, “must have great provocation thus to
+"Thuvan Dihn,” he said slowly, "must have great provocation thus to
 
 desecrate the ancient customs which inspire the deportment of a guest
 
@@ -5496,7 +5496,7 @@ had his host.
 
 
 
-“None knows better than Thuvan Dihn,” he said, “the laws which govern
+"None knows better than Thuvan Dihn,” he said, "the laws which govern
 
 the acts of men in the domains of their neighbors; but Thuvan Dihn owes
 
@@ -5508,7 +5508,7 @@ Carter, Prince of Helium.
 
 
 
-“Years ago, Kulan Tith,” he continued, “upon the occasion of your last
+"Years ago, Kulan Tith,” he continued, "upon the occasion of your last
 
 visit to me, you were greatly taken with the charms and graces of my
 
@@ -5522,7 +5522,7 @@ me desolate.
 
 
 
-“Some months ago I first heard of the expedition which John Carter had
+"Some months ago I first heard of the expedition which John Carter had
 
 led against Issus and the Holy Therns. Faint rumors of the atrocities
 
@@ -5532,7 +5532,7 @@ countless ages have floated down the mighty Iss came to my ears.
 
 
 
-“I heard that thousands of prisoners had been released, few of whom
+"I heard that thousands of prisoners had been released, few of whom
 
 dared to return to their own countries owing to the mandate of terrible
 
@@ -5540,7 +5540,7 @@ death which rests against all who return from the Valley Dor.
 
 
 
-“For a time I could not believe the heresies which I heard, and I
+"For a time I could not believe the heresies which I heard, and I
 
 prayed that my daughter Thuvia might have died before she ever
 
@@ -5552,7 +5552,7 @@ damnation to further separation from her if she could be found.
 
 
 
-“So I sent emissaries to Helium, and to the court of Xodar, Jeddak of
+"So I sent emissaries to Helium, and to the court of Xodar, Jeddak of
 
 the First Born, and to him who now rules those of the thern nation that
 
@@ -5564,7 +5564,7 @@ defenseless victims of their religion by the Holy Therns.
 
 
 
-“Many there were who had seen or known my daughter, and from therns who
+"Many there were who had seen or known my daughter, and from therns who
 
 had been close to Matai Shang I learned of the indignities that he
 
@@ -5576,7 +5576,7 @@ had it taken a lifetime.
 
 
 
-“More, too, I heard, and that of the chivalrous kindness that John
+"More, too, I heard, and that of the chivalrous kindness that John
 
 Carter had accorded my daughter. They told me how he fought for her and
 
@@ -5588,7 +5588,7 @@ to meet the green warriors.
 
 
 
-“Can you wonder, Kulan Tith, that I am willing to jeopardize my life,
+"Can you wonder, Kulan Tith, that I am willing to jeopardize my life,
 
 the peace of my nation, or even your friendship, which I prize more
 
@@ -5602,7 +5602,7 @@ his face that he was sore perplexed. Then he spoke.
 
 
 
-“Thuvan Dihn,” he said, and his tone was friendly though sad, “who am I
+"Thuvan Dihn,” he said, and his tone was friendly though sad, "who am I
 
 to judge my fellow-man? In my eyes the Father of Therns is still holy,
 
@@ -5614,7 +5614,7 @@ feel and act precisely as you have.
 
 
 
-“In so far as the Prince of Helium is concerned I may act, but between
+"In so far as the Prince of Helium is concerned I may act, but between
 
 you and Matai Shang my only office can be one of conciliation. The
 
@@ -5628,7 +5628,7 @@ Kaol.
 
 
 
-“If there be a quarrel between you and the Father of Therns, I need not
+"If there be a quarrel between you and the Father of Therns, I need not
 
 ask that the settlement of it be deferred until both have passed beyond
 
@@ -5642,7 +5642,7 @@ upon Matai Shang harbored ill for that pasty-faced godling.
 
 
 
-“The Prince of Helium is far from satisfied,” I cried, breaking rudely
+"The Prince of Helium is far from satisfied,” I cried, breaking rudely
 
 in upon the beginnings of peace, for I had no stomach for peace at the
 
@@ -5650,7 +5650,7 @@ price that had been named.
 
 
 
-“I have escaped death in a dozen forms to follow Matai Shang and
+"I have escaped death in a dozen forms to follow Matai Shang and
 
 overtake him, and I do not intend to be led, like a decrepit thoat to
 
@@ -5660,7 +5660,7 @@ arm and the might of my muscles.
 
 
 
-“Nor will Thuvan Dihn, Jeddak of Ptarth, be satisfied when he has heard
+"Nor will Thuvan Dihn, Jeddak of Ptarth, be satisfied when he has heard
 
 me through. Do you know why I have followed Matai Shang and Thurid, the
 
@@ -5670,7 +5670,7 @@ through almost insurmountable difficulties?
 
 
 
-“Think you that John Carter, Prince of Helium, would stoop to
+"Think you that John Carter, Prince of Helium, would stoop to
 
 assassination? Can Kulan Tith be such a fool as to believe that lie,
 
@@ -5678,7 +5678,7 @@ whispered in his ear by the Holy Thern or Dator Thurid?
 
 
 
-“I do not follow Matai Shang to kill him, though the God of mine own
+"I do not follow Matai Shang to kill him, though the God of mine own
 
 planet knows that my hands itch to be at his throat. I follow him,
 
@@ -5688,7 +5688,7 @@ Princess of Helium, and your daughter, Thuvia of Ptarth.
 
 
 
-“Now think you that I shall permit myself to be led beyond the walls of
+"Now think you that I shall permit myself to be led beyond the walls of
 
 Kaol unless the mother of my son accompanies me, and thy daughter be
 
@@ -5704,15 +5704,15 @@ spoke.
 
 
 
-“Knew you this thing, Kulan Tith?” he asked. “Knew you that my daughter
+"Knew you this thing, Kulan Tith?” he asked. "Knew you that my daughter
 
 lay a prisoner in your palace?”
 
 
 
-“He could not know it,” interrupted Matai Shang, white with what I am
+"He could not know it,” interrupted Matai Shang, white with what I am
 
-sure was more fear than rage. “He could not know it, for it is a lie.”
+sure was more fear than rage. "He could not know it, for it is a lie.”
 
 
 
@@ -5722,7 +5722,7 @@ toward him Thuvan Dihn laid a heavy hand upon my shoulder.
 
 
 
-“Wait,” he said to me, and then to Kulan Tith. “It is not a lie. This
+"Wait,” he said to me, and then to Kulan Tith. "It is not a lie. This
 
 much have I learned of the Prince of Helium—he does not lie. Answer me,
 
@@ -5730,9 +5730,9 @@ Kulan Tith—I have asked you a question.”
 
 
 
-“Three women came with the Father of Therns,” replied Kulan Tith.
+"Three women came with the Father of Therns,” replied Kulan Tith.
 
-“Phaidor, his daughter, and two who were reported to be her slaves. If
+"Phaidor, his daughter, and two who were reported to be her slaves. If
 
 these be Thuvia of Ptarth and Dejah Thoris of Helium I did not know
 
@@ -5774,7 +5774,7 @@ chamber on the morrow.
 
 
 
-“It is almost morning now,” he said, “and I should dislike to break in
+"It is almost morning now,” he said, "and I should dislike to break in
 
 upon the slumber of my daughter, or I would have them fetched at once
 
@@ -5794,7 +5794,7 @@ insistence seem unnecessary.
 
 
 
-“I should like to see my daughter at once,” he said, “but if Kulan Tith
+"I should like to see my daughter at once,” he said, "but if Kulan Tith
 
 will give me his assurance that none will be permitted to leave the
 
@@ -5806,7 +5806,7 @@ presence in this chamber at daylight I shall not insist.”
 
 
 
-“None shall leave the palace tonight,” replied the Jeddak of Kaol, “and
+"None shall leave the palace tonight,” replied the Jeddak of Kaol, "and
 
 Matai Shang will give us assurance that no harm will come to the two
 
@@ -5876,9 +5876,9 @@ plainly audible to all within the chamber.
 
 
 
-“O Kulan Tith, Mightiest of Jeddaks,” he cried, after the fashion of
+"O Kulan Tith, Mightiest of Jeddaks,” he cried, after the fashion of
 
-the court, “your messenger returns alone, for when he reached the
+the court, "your messenger returns alone, for when he reached the
 
 apartments of the Father of Therns he found them empty, as were those
 
@@ -5908,7 +5908,7 @@ shoulders of his friend.
 
 
 
-“O Thuvan Dihn,” he cried, “that this should have happened in the
+"O Thuvan Dihn,” he cried, "that this should have happened in the
 
 palace of thy best friend! With my own hands would I have wrung the
 
@@ -5920,7 +5920,7 @@ shattered; but too late, too late.
 
 
 
-“To wrest your daughter and the wife of this royal warrior from the
+"To wrest your daughter and the wife of this royal warrior from the
 
 clutches of these archfiends you have but to command the resources of a
 
@@ -5930,7 +5930,7 @@ the word!”
 
 
 
-“First,” I suggested, “let us find those of your people who be
+"First,” I suggested, "let us find those of your people who be
 
 responsible for the escape of Matai Shang and his followers. Without
 
@@ -5950,7 +5950,7 @@ his jeddak.
 
 
 
-“O Kulan Tith, Mightiest of Jeddaks,” he said, “I alone be responsible
+"O Kulan Tith, Mightiest of Jeddaks,” he said, "I alone be responsible
 
 for this grievous error. Last night it was I who commanded the palace
 
@@ -5972,7 +5972,7 @@ than thou, mightiest of jeddaks.
 
 
 
-“Let the consequences and the punishment fall on me alone, for I alone
+"Let the consequences and the punishment fall on me alone, for I alone
 
 am guilty. Those others of the palace guard who assisted in the flight
 
@@ -5990,11 +5990,11 @@ mistake that any might readily have made.
 
 
 
-“How left they,” asked Thuvan Dihn, “and what direction did they take?”
+"How left they,” asked Thuvan Dihn, "and what direction did they take?”
 
 
 
-“They left as they came,” replied the officer, “upon their own flier.
+"They left as they came,” replied the officer, "upon their own flier.
 
 For some time after they had departed I watched the vessel's lights,
 
@@ -6002,7 +6002,7 @@ which vanished finally due north.”
 
 
 
-“Where north could Matai Shang find an asylum?” asked Thuvan Dihn of
+"Where north could Matai Shang find an asylum?” asked Thuvan Dihn of
 
 Kulan Tith.
 
@@ -6014,7 +6014,7 @@ deep in thought. Then a sudden light brightened his countenance.
 
 
 
-“I have it!” he cried. “Only yesterday Matai Shang let drop a hint of
+"I have it!” he cried. "Only yesterday Matai Shang let drop a hint of
 
 his destination, telling me of a race of people unlike ourselves who
 
@@ -6028,15 +6028,15 @@ heretics' might seek him out. It is there that Matai Shang has gone.”
 
 
 
-“And in all Kaol there be no flier wherein to follow,” I cried.
+"And in all Kaol there be no flier wherein to follow,” I cried.
 
 
 
-“Nor nearer than Ptarth,” replied Thuvan Dihn.
+"Nor nearer than Ptarth,” replied Thuvan Dihn.
 
 
 
-“Wait!” I exclaimed, “beyond the southern fringe of this great forest
+"Wait!” I exclaimed, "beyond the southern fringe of this great forest
 
 lies the wreck of the thern flier which brought me that far upon my
 
@@ -6076,7 +6076,7 @@ own officers who had accompanied him to Kaol.
 
 
 
-“To you I entrust the return of my retinue to Ptarth,” he said. “There
+"To you I entrust the return of my retinue to Ptarth,” he said. "There
 
 my son rules ably in my absence. The Prince of Helium shall not go
 
@@ -6132,7 +6132,7 @@ The distance from the barrier to the pole was no more than a swift
 
 flier should cover in a few hours, and so it was assumed that some
 
-frightful catastrophe awaited those who reached the “forbidden land,”
+frightful catastrophe awaited those who reached the "forbidden land,”
 
 as it had come to be called by the Martians of the outer world.
 
@@ -6216,13 +6216,13 @@ enough for them to feed upon.
 
 
 
-“What shall we do?” asked Thuvan Dihn. “How may we pass that which is
+"What shall we do?” asked Thuvan Dihn. "How may we pass that which is
 
 impassable?”
 
 
 
-“First we must disprove its impassability,” I replied. “Nor shall I
+"First we must disprove its impassability,” I replied. "Nor shall I
 
 admit that it is impassable before I have followed its entire circle
 
@@ -6404,7 +6404,7 @@ astonishment.
 
 
 
-“By all my ancestors!” he ejaculated. “That I should have lived to
+"By all my ancestors!” he ejaculated. "That I should have lived to
 
 witness the reality of the fabled Carrion Caves! If these indeed be
 
@@ -6412,7 +6412,7 @@ they, we have found a way beyond the ice-barrier.
 
 
 
-“The ancient chronicles of the first historians of Barsoom—so ancient
+"The ancient chronicles of the first historians of Barsoom—so ancient
 
 that we have for ages considered them mythology—record the passing of
 
@@ -6424,7 +6424,7 @@ from their strongholds.
 
 
 
-“They tell of the wanderings of the remnants of this once powerful
+"They tell of the wanderings of the remnants of this once powerful
 
 race, harassed at every step, until at last they found a way through
 
@@ -6432,7 +6432,7 @@ the ice-barrier of the north to a fertile valley at the pole.
 
 
 
-“At the opening to the subterranean passage that led to their haven of
+"At the opening to the subterranean passage that led to their haven of
 
 refuge a mighty battle was fought in which the yellow men were
 
@@ -6444,7 +6444,7 @@ stench might warn away their enemies from further pursuit.
 
 
 
-“And ever since that long-gone day have the dead of this fabled land
+"And ever since that long-gone day have the dead of this fabled land
 
 been carried to the Carrion Caves, that in death and decay they might
 
@@ -6458,7 +6458,7 @@ stench that assails our nostrils.
 
 
 
-“And death lurks at every step among rotting dead, for here the fierce
+"And death lurks at every step among rotting dead, for here the fierce
 
 apts lair, adding to the putrid accumulation with the fragments of
 
@@ -6468,13 +6468,13 @@ goal, but it is the only one.”
 
 
 
-“You are sure, then, that we have found the way to the land of the
+"You are sure, then, that we have found the way to the land of the
 
 yellow men?” I cried.
 
 
 
-“As sure as may be,” he replied; “having only ancient legend to support
+"As sure as may be,” he replied; "having only ancient legend to support
 
 my belief. But see how closely, so far, each detail tallies with the
 
@@ -6484,9 +6484,9 @@ we have discovered the way to their ancient hiding place.”
 
 
 
-“If it be true, and let us pray that such may be the case,” I said,
+"If it be true, and let us pray that such may be the case,” I said,
 
-“then here may we solve the mystery of the disappearance of Tardos
+"then here may we solve the mystery of the disappearance of Tardos
 
 Mors, Jeddak of Helium, and Mors Kajak, his son, for no other spot upon
 
@@ -6532,13 +6532,13 @@ search of pure air beyond.
 
 
 
-“Can man breathe this polluted air and live?” asked Thuvan Dihn,
+"Can man breathe this polluted air and live?” asked Thuvan Dihn,
 
 choking.
 
 
 
-“Not for long, I imagine,” I replied; “so let us make haste. I will go
+"Not for long, I imagine,” I replied; "so let us make haste. I will go
 
 first, and you bring up the rear, with Woola between. Come,” and with
 
@@ -6586,7 +6586,7 @@ our goal.
 
 
 
-“In the meantime,” I continued, “I may discover some means of winning
+"In the meantime,” I continued, "I may discover some means of winning
 
 my way alone to the land of the yellow men, but if I am unsuccessful
 
@@ -6598,9 +6598,9 @@ and your daughter.”
 
 
 
-“I shall not return and leave you here alone, John Carter,” replied
+"I shall not return and leave you here alone, John Carter,” replied
 
-Thuvan Dihn. “Whether you go on to victory or death, the Jeddak of
+Thuvan Dihn. "Whether you go on to victory or death, the Jeddak of
 
 Ptarth remains at your side. I have spoken.”
 
@@ -6670,7 +6670,7 @@ strong to insure success at the first blow.
 
 
 
-“And,” I concluded, “if there be time bring Tars Tarkas with you, for
+"And,” I concluded, "if there be time bring Tars Tarkas with you, for
 
 if I live until you reach me I can think of few greater pleasures than
 
@@ -6870,7 +6870,7 @@ fellows, with skins the color of a ripe lemon.
 
 
 
-“The yellow men of Barsoom!” ejaculated Thuvan Dihn, as though even now
+"The yellow men of Barsoom!” ejaculated Thuvan Dihn, as though even now
 
 that he saw them he found it scarce possible to believe that the very
 
@@ -7052,9 +7052,9 @@ had immediately done, was what was expected of me.
 
 
 
-“Then accept from Talu, Prince of Marentina,” said the yellow man,
+"Then accept from Talu, Prince of Marentina,” said the yellow man,
 
-“this token of my gratitude,” and reaching beneath one of his wide
+"this token of my gratitude,” and reaching beneath one of his wide
 
 sleeves he withdrew a bracelet and placed it upon my arm. He then went
 
@@ -7070,15 +7070,15 @@ from Helium he raised his brows.
 
 
 
-“Ah,” he said, “you seek your ruler and his company?”
+"Ah,” he said, "you seek your ruler and his company?”
 
 
 
-“Know you of them?” I asked.
+"Know you of them?” I asked.
 
 
 
-“But little more than that they were captured by my uncle, Salensus
+"But little more than that they were captured by my uncle, Salensus
 
 Oll, Jeddak of Jeddaks, Ruler of Okar, land of the yellow men of
 
@@ -7088,7 +7088,7 @@ uncle, who would crush my power in the principality of Marentina.
 
 
 
-“These from whom you have just saved me are warriors he has sent out to
+"These from whom you have just saved me are warriors he has sent out to
 
 find and slay me, for they know that often I come alone to hunt and
 
@@ -7104,7 +7104,7 @@ of Jeddaks in his place.
 
 
 
-“He is a cruel and tyrannous master whom all hate, and were it not for
+"He is a cruel and tyrannous master whom all hate, and were it not for
 
 the great fear they have of him I could raise an army overnight that
 
@@ -7116,7 +7116,7 @@ tribute to the court of Salensus Oll for a year.
 
 
 
-“Nor can he force us, for a dozen men may hold the narrow way to
+"Nor can he force us, for a dozen men may hold the narrow way to
 
 Marentina against a million. But now, as to thine own affairs. How may
 
@@ -7126,9 +7126,9 @@ coming to Marentina.”
 
 
 
-“When our work is done we shall be glad to accept your invitation,” I
+"When our work is done we shall be glad to accept your invitation,” I
 
-replied. “But now you can assist us most by directing us to the court
+replied. "But now you can assist us most by directing us to the court
 
 of Salensus Oll, and suggesting some means by which we may gain
 
@@ -7144,7 +7144,7 @@ and my white one.
 
 
 
-“First you must come to Marentina,” he said, “for a great change must
+"First you must come to Marentina,” he said, "for a great change must
 
 be wrought in your appearance before you can hope to enter any city in
 
@@ -7334,9 +7334,9 @@ is.
 
 
 
-“There had been but three others cut from the mother stone,” he said,
+"There had been but three others cut from the mother stone,” he said,
 
-“which is in my possession. These three are worn by nobles high in my
+"which is in my possession. These three are worn by nobles high in my
 
 confidence, all of whom have been sent on secret missions to the court
 
@@ -7344,7 +7344,7 @@ of Salensus Oll.
 
 
 
-“Should you come within fifty feet of any of these three you will feel
+"Should you come within fifty feet of any of these three you will feel
 
 a rapid, pricking sensation in the finger upon which you wear this
 
@@ -7360,7 +7360,7 @@ whom you may depend for assistance in time of need.
 
 
 
-“Should another wearer of one of these gems call upon you for aid do
+"Should another wearer of one of these gems call upon you for aid do
 
 not deny him, and should death threaten you swallow the ring rather
 
@@ -7444,17 +7444,17 @@ Could we but deceive these men the rest would be comparatively easy.
 
 
 
-“Kaor!” I cried as I came closer to them.
+"Kaor!” I cried as I came closer to them.
 
 
 
-“Kaor!” responded the officer in charge of the party.
+"Kaor!” responded the officer in charge of the party.
 
 
 
-“We be from Illall,” I continued, giving the name of the most remote
+"We be from Illall,” I continued, giving the name of the most remote
 
-city of Okar, which has little or no intercourse with Kadabra. “Only
+city of Okar, which has little or no intercourse with Kadabra. "Only
 
 yesterday we arrived, and this morning the captain of the gate told us
 
@@ -7542,27 +7542,27 @@ hills.
 
 
 
-“Still other fools who would solve the mysteries of the forbidden
+"Still other fools who would solve the mysteries of the forbidden
 
-north,” said the officer, half to himself. “Will they never cease their
+north,” said the officer, half to himself. "Will they never cease their
 
 fatal curiosity?”
 
 
 
-“Let us hope not,” answered one of the warriors, “for then what should
+"Let us hope not,” answered one of the warriors, "for then what should
 
 we do for slaves and sport?”
 
 
 
-“True; but what stupid beasts they are to continue to come to a region
+"True; but what stupid beasts they are to continue to come to a region
 
 from whence none of them ever has returned.”
 
 
 
-“Let us tarry and watch the end of this one,” suggested one of the men.
+"Let us tarry and watch the end of this one,” suggested one of the men.
 
 
 
@@ -7570,7 +7570,7 @@ The officer looked toward the city.
 
 
 
-“The watch has seen him,” he said; “we may remain, for we may be
+"The watch has seen him,” he said; "we may remain, for we may be
 
 needed.”
 
@@ -7930,7 +7930,7 @@ a red slave within who asked our wishes.
 
 
 
-“Tell Sorav, your master, that two warriors from Illall wish to take
+"Tell Sorav, your master, that two warriors from Illall wish to take
 
 service in the palace guard,” I said.
 
@@ -8072,7 +8072,7 @@ suppressed excitement and surprise. In an instant I was by his side.
 
 
 
-“Look!” said Thuvan Dihn, pointing toward the courtyard below.
+"Look!” said Thuvan Dihn, pointing toward the courtyard below.
 
 
 
@@ -8128,7 +8128,7 @@ daughter.
 
 
 
-“They will not even listen,” he cried to me. “They have put their hands
+"They will not even listen,” he cried to me. "They have put their hands
 
 over their ears and walked to the farther end of the garden. Ever heard
 
@@ -8202,7 +8202,7 @@ spoke again. I could not hear his words, but her answer came clearly.
 
 
 
-“The granddaughter of Tardos Mors can always die,” she said, “but she
+"The granddaughter of Tardos Mors can always die,” she said, "but she
 
 could never live at the price you name.”
 
@@ -8220,7 +8220,7 @@ raise his voice for fear of detection.
 
 
 
-“I would save you from Matai Shang,” I heard him say. “You know the
+"I would save you from Matai Shang,” I heard him say. "You know the
 
 fate that awaits you at his hands. Would you not choose me rather than
 
@@ -8228,17 +8228,17 @@ the other?”
 
 
 
-“I would choose neither,” replied Dejah Thoris, “even were I free to
+"I would choose neither,” replied Dejah Thoris, "even were I free to
 
 choose, as you know well I am not.”
 
 
 
-“You ARE free!” he cried. “John Carter, Prince of Helium, is dead.”
+"You ARE free!” he cried. "John Carter, Prince of Helium, is dead.”
 
 
 
-“I know better than that; but even were he dead, and I must needs
+"I know better than that; but even were he dead, and I must needs
 
 choose another mate, it should be a plant man or a great white ape in
 
@@ -8280,7 +8280,7 @@ bull.
 
 
 
-“Yellow man,” he shrieked, “you knew not upon whom you had laid your
+"Yellow man,” he shrieked, "you knew not upon whom you had laid your
 
 vile hands, but ere I am done with you, you will know well what it
 
@@ -8318,7 +8318,7 @@ stood Matai Shang, and behind them a score of guardsmen.
 
 
 
-“Who are you,” he cried, “and what means this intrusion within the
+"Who are you,” he cried, "and what means this intrusion within the
 
 precincts of the women's garden? I do not recall your face. How came
 
@@ -8336,7 +8336,7 @@ window above.
 
 
 
-“I am an aspirant to membership in the palace guard,” I said, “and from
+"I am an aspirant to membership in the palace guard,” I said, "and from
 
 yonder window in the tower where I was confined awaiting the final test
 
@@ -8392,9 +8392,9 @@ A moment later Salensus Oll turned toward the black.
 
 
 
-“What have you to say in explanation of these charges?” he asked in a
+"What have you to say in explanation of these charges?” he asked in a
 
-deep and terrible voice. “Dare you aspire to one whom the Father of
+deep and terrible voice. "Dare you aspire to one whom the Father of
 
 Therns has chosen—one who might even be a fit mate for the Jeddak of
 
@@ -8426,7 +8426,7 @@ speak.
 
 
 
-“O Mightiest of Jeddaks,” he said, “the man and the women do not speak
+"O Mightiest of Jeddaks,” he said, "the man and the women do not speak
 
 the truth. The fellow had come into the garden to assist them to
 
@@ -8438,7 +8438,7 @@ killed me.
 
 
 
-“What know you of this man? He is a stranger to you, and I dare say
+"What know you of this man? He is a stranger to you, and I dare say
 
 that you will find him an enemy and a spy. Let him be put on trial,
 
@@ -8460,9 +8460,9 @@ Presently the yellow ruler turned to one of his officers.
 
 
 
-“See that this man be securely confined until we have time to go deeper
+"See that this man be securely confined until we have time to go deeper
 
-into this affair,” he commanded, “and as bars alone seem inadequate to
+into this affair,” he commanded, "and as bars alone seem inadequate to
 
 restrain him, let chains be added.”
 
@@ -8598,7 +8598,7 @@ Scarcely had I come before him than Salensus Oll summoned Thurid also.
 
 
 
-“Dator Thurid,” he said, “you have made a strange request of me; but,
+"Dator Thurid,” he said, "you have made a strange request of me; but,
 
 in accordance with your wishes and your promise that it will result
 
@@ -8606,7 +8606,7 @@ only to my interests, I have decided to accede.
 
 
 
-“You tell me that a certain announcement will be the means of
+"You tell me that a certain announcement will be the means of
 
 convicting this prisoner and, at the same time, open the way to the
 
@@ -8618,9 +8618,9 @@ Thurid nodded.
 
 
 
-“Then shall I make the announcement here before all my nobles,”
+"Then shall I make the announcement here before all my nobles,”
 
-continued Salensus Oll. “For a year no queen has sat upon the throne
+continued Salensus Oll. "For a year no queen has sat upon the throne
 
 beside me, and now it suits me to take to wife one who is reputed the
 
@@ -8630,7 +8630,7 @@ truthfully deny.
 
 
 
-“Nobles of Okar, unsheathe your swords and do homage to Dejah Thoris,
+"Nobles of Okar, unsheathe your swords and do homage to Dejah Thoris,
 
 Princess of Helium and future Queen of Okar, for at the end of the
 
@@ -8648,7 +8648,7 @@ cried in a loud voice that they desist.
 
 
 
-“I may not be the wife of Salensus Oll,” she pleaded, “for already I be
+"I may not be the wife of Salensus Oll,” she pleaded, "for already I be
 
 a wife and mother. John Carter, Prince of Helium, still lives. I know
 
@@ -8666,7 +8666,7 @@ Salensus Oll turned upon Thurid with an ugly look.
 
 
 
-“Is this the surprise you held in store for me?” he cried. “You assured
+"Is this the surprise you held in store for me?” he cried. "You assured
 
 me that no obstacle which might not be easily overcome stood between me
 
@@ -8676,7 +8676,7 @@ intervenes. What mean you, man? What have you to say?”
 
 
 
-“And should I deliver John Carter into your hands, Salensus Oll, would
+"And should I deliver John Carter into your hands, Salensus Oll, would
 
 you not feel that I had more than satisfied the promise that I made
 
@@ -8684,19 +8684,19 @@ you?” answered Thurid.
 
 
 
-“Talk not like a fool,” cried the enraged jeddak. “I am no child to be
+"Talk not like a fool,” cried the enraged jeddak. "I am no child to be
 
 thus played with.”
 
 
 
-“I am talking only as a man who knows,” replied Thurid. “Knows that he
+"I am talking only as a man who knows,” replied Thurid. "Knows that he
 
 can do all that he claims.”
 
 
 
-“Then turn John Carter over to me within ten days or yourself suffer
+"Then turn John Carter over to me within ten days or yourself suffer
 
 the end that I should mete out to him were he in my power!” snapped the
 
@@ -8704,15 +8704,15 @@ Jeddak of Jeddaks, with an ugly scowl.
 
 
 
-“You need not wait ten days, Salensus Oll,” replied Thurid; and then,
+"You need not wait ten days, Salensus Oll,” replied Thurid; and then,
 
 turning suddenly upon me as he extended a pointing finger, he cried:
 
-“There stands John Carter, Prince of Helium!”
+"There stands John Carter, Prince of Helium!”
 
 
 
-“Fool!” shrieked Salensus Oll. “Fool! John Carter is a white man. This
+"Fool!” shrieked Salensus Oll. "Fool! John Carter is a white man. This
 
 fellow be as yellow as myself. John Carter's face is smooth—Matai Shang
 
@@ -8726,7 +8726,7 @@ your ruler!”
 
 
 
-“Hold!” cried Thurid, and springing forward before I could guess his
+"Hold!” cried Thurid, and springing forward before I could guess his
 
 intention, he had grasped my beard and ripped the whole false fabric
 
@@ -8760,7 +8760,7 @@ light of her great love.
 
 
 
-“John Carter! John Carter!” she cried as I folded her to my breast, and
+"John Carter! John Carter!” she cried as I folded her to my breast, and
 
 then of a sudden I knew why she had denied me in the garden beneath the
 
@@ -8780,7 +8780,7 @@ indignant. Indeed, but I had been a fool.
 
 
 
-“And it was you,” she cried, “who spoke to me from the tower! How could
+"And it was you,” she cried, "who spoke to me from the tower! How could
 
 I dream that my beloved Virginian lay behind that fierce beard and that
 
@@ -8806,7 +8806,7 @@ trembling with rage and jealousy, shouldered his way to us.
 
 
 
-“Seize the man,” he cried to his warriors, and a hundred ruthless hands
+"Seize the man,” he cried to his warriors, and a hundred ruthless hands
 
 tore us apart.
 
@@ -8838,9 +8838,9 @@ she pointed to where I fought alone against such awful odds.
 
 
 
-“Think you, Salensus Oll, that the wife of such as he is,” she cried,
+"Think you, Salensus Oll, that the wife of such as he is,” she cried,
 
-“would ever dishonor his memory, were he a thousand times dead, by
+"would ever dishonor his memory, were he a thousand times dead, by
 
 mating with a lesser mortal? Lives there upon any world such another as
 
@@ -8852,7 +8852,7 @@ and hordes of savage men, for the love of a woman?
 
 
 
-“I, Dejah Thoris, Princess of Helium, am his. He fought for me and won
+"I, Dejah Thoris, Princess of Helium, am his. He fought for me and won
 
 me. If you be a brave man you will honor the bravery that is his, and
 
@@ -8864,9 +8864,9 @@ of Okar.”
 
 
 
-“Neither slave nor queen dictates to Salensus Oll,” replied the Jeddak
+"Neither slave nor queen dictates to Salensus Oll,” replied the Jeddak
 
-of Jeddaks. “John Carter shall die a natural death in the Pit of
+of Jeddaks. "John Carter shall die a natural death in the Pit of
 
 Plenty, and the day he dies Dejah Thoris shall become my queen.”
 
@@ -8958,7 +8958,7 @@ ear:
 
 
 
-“Courage!”
+"Courage!”
 
 
 
@@ -9142,7 +9142,7 @@ pellets to my lips.
 
 
 
-“Good-bye, my Dejah Thoris!” I breathed. “I have lived for you and
+"Good-bye, my Dejah Thoris!” I breathed. "I have lived for you and
 
 fought for you, and now my next dearest wish is to be realized, for I
 
@@ -9258,7 +9258,7 @@ words, baffled me for some time; but at last I made out the first one.
 
 
 
-It was “courage,” and it was written in the letters of Marentina.
+It was "courage,” and it was written in the letters of Marentina.
 
 
 
@@ -9284,7 +9284,7 @@ read the four words:
 
 
 
-“Courage! Follow the rope.”
+"Courage! Follow the rope.”
 
 
 
@@ -9294,7 +9294,7 @@ read the four words:
 
 
 
-“FOLLOW THE ROPE”
+"FOLLOW THE ROPE”
 
 
 
@@ -9304,7 +9304,7 @@ What could it mean?
 
 
 
-“Follow the rope.” What rope?
+"Follow the rope.” What rope?
 
 
 
@@ -9328,7 +9328,7 @@ head. This I deciphered more easily, now that the key was mine.
 
 
 
-“Bring the rope with you. Beyond the knots lies danger.”
+"Bring the rope with you. Beyond the knots lies danger.”
 
 
 
@@ -9342,7 +9342,7 @@ I did not pause longer than to learn the contents of the second
 
 message, and, though I was none too sure of the meaning of the final
 
-admonition, “Beyond the knots lies danger,” yet I was sure that here
+admonition, "Beyond the knots lies danger,” yet I was sure that here
 
 before me lay an avenue of escape, and that the sooner I took advantage
 
@@ -9440,7 +9440,7 @@ I sought for the other end, but found that as I followed it forward it
 
 extended always before me. So this was the meaning of the words:
 
-“Follow the rope.”
+"Follow the rope.”
 
 
 
@@ -9448,7 +9448,7 @@ The tunnel through which I crawled was low and dark. I had followed it
 
 for several hundred yards when I felt a knot beneath my fingers.
 
-“Beyond the knots lies danger.”
+"Beyond the knots lies danger.”
 
 
 
@@ -9498,7 +9498,7 @@ Thurid was speaking as I came within hearing of the men's voices.
 
 
 
-“Solan,” he was saying, “there is no risk and the reward is great. You
+"Solan,” he was saying, "there is no risk and the reward is great. You
 
 know that you hate Salensus Oll and that nothing would please you more
 
@@ -9510,7 +9510,7 @@ Helium; but I, too, want her, and with your help I may win her.
 
 
 
-“You need not more than step from this room for an instant when I give
+"You need not more than step from this room for an instant when I give
 
 you the signal. I will do the rest, and then, when I am gone, you may
 
@@ -9528,9 +9528,9 @@ lever that protruded from the opposite wall.
 
 
 
-“No! No!” cried the little old man, springing after him, with a wild
+"No! No!” cried the little old man, springing after him, with a wild
 
-shriek. “Not that one! Not that one! That controls the sunray tanks,
+shriek. "Not that one! Not that one! That controls the sunray tanks,
 
 and should you pull it too far down, all Kadabra would be consumed by
 
@@ -9546,7 +9546,7 @@ Thurid approached and examined the handle of the lever.
 
 
 
-“Ah, a magnet,” he said. “I will remember. It is settled then I take
+"Ah, a magnet,” he said. "I will remember. It is settled then I take
 
 it,” he continued.
 
@@ -9558,7 +9558,7 @@ overspread his none too beautiful features.
 
 
 
-“Double the figure,” he said. “Even that were all too small an amount
+"Double the figure,” he said. "Even that were all too small an amount
 
 for the service you ask. Why, I risk my life by even entertaining you
 
@@ -9570,9 +9570,9 @@ done.”
 
 
 
-“He dare not do that, and you know it full well, Solan,” contradicted
+"He dare not do that, and you know it full well, Solan,” contradicted
 
-the black. “Too great a power of life and death you hold over the
+the black. "Too great a power of life and death you hold over the
 
 people of Kadabra for Salensus Oll ever to risk threatening you with
 
@@ -9584,17 +9584,17 @@ out the entire city.”
 
 
 
-“And myself into the bargain,” said Solan, with a shudder.
+"And myself into the bargain,” said Solan, with a shudder.
 
 
 
-“But if you were to die, anyway, you would find the nerve to do it,”
+"But if you were to die, anyway, you would find the nerve to do it,”
 
 replied Thurid.
 
 
 
-“Yes,” muttered Solan, “I have often thought upon that very thing.
+"Yes,” muttered Solan, "I have often thought upon that very thing.
 
 Well, First Born, is your red princess worth the price I ask for my
 
@@ -9604,7 +9604,7 @@ Salensus Oll tomorrow night?”
 
 
 
-“Take your price, yellow man,” replied Thurid, with an oath. “Half now
+"Take your price, yellow man,” replied Thurid, with an oath. "Half now
 
 and the balance when you have fulfilled your contract.”
 
@@ -9634,7 +9634,7 @@ the money in the pouch and rose from the table.
 
 
 
-“Now,” he said, “are you quite sure that you know the way to your
+"Now,” he said, "are you quite sure that you know the way to your
 
 destination? You must travel quickly to cover the ground to the cave
 
@@ -9644,19 +9644,19 @@ more dare I spare you.”
 
 
 
-“Let me repeat it to you,” said Thurid, “that you may see if I be
+"Let me repeat it to you,” said Thurid, "that you may see if I be
 
 letter-perfect.”
 
 
 
-“Proceed,” replied Solan.
+"Proceed,” replied Solan.
 
 
 
-“Through yonder door,” he commenced, pointing to a door at the far end
+"Through yonder door,” he commenced, pointing to a door at the far end
 
-of the apartment, “I follow a corridor, passing three diverging
+of the apartment, "I follow a corridor, passing three diverging
 
 corridors upon my right; then into the fourth right-hand corridor
 
@@ -9666,7 +9666,7 @@ right, hugging the left wall closely to avoid the pit.
 
 
 
-“At the end of this corridor I shall come to a spiral runway, which I
+"At the end of this corridor I shall come to a spiral runway, which I
 
 must follow down instead of up; after that the way is along but a
 
@@ -9674,19 +9674,19 @@ single branchless corridor. Am I right?”
 
 
 
-“Quite right, Dator,” answered Solan; “and now begone. Already have you
+"Quite right, Dator,” answered Solan; "and now begone. Already have you
 
 tempted fate too long within this forbidden place.”
 
 
 
-“Tonight, or tomorrow, then, you may expect the signal,” said Thurid,
+"Tonight, or tomorrow, then, you may expect the signal,” said Thurid,
 
 rising to go.
 
 
 
-“Tonight, or tomorrow,” repeated Solan, and as the door closed behind
+"Tonight, or tomorrow,” repeated Solan, and as the door closed behind
 
 his guest the old man continued to mutter as he turned back to the
 
@@ -9716,7 +9716,7 @@ door. Now he raised his voice, and his words came distinctly.
 
 
 
-“Fool!” he muttered. “Think you that for your happiness Solan will give
+"Fool!” he muttered. "Think you that for your happiness Solan will give
 
 up his life? If you escaped, Salensus Oll would know that only through
 
@@ -9734,7 +9734,7 @@ He laughed in a nasty, cackling note.
 
 
 
-“Poor fool! You may throw the great switch that will give you the
+"Poor fool! You may throw the great switch that will give you the
 
 freedom of the air of Okar, and then, in fatuous security, go on with
 
@@ -9772,7 +9772,7 @@ side.
 
 There was no other way of which I knew, nor could I afford to ignore
 
-the advice to “follow the rope.” I must cross this room, but however I
+the advice to "follow the rope.” I must cross this room, but however I
 
 should accomplish it undetected with that old man in the very center of
 
@@ -9912,9 +9912,9 @@ face.
 
 The first to reach me was the wearer of the mate to my strange ring,
 
-and as he came close he whispered: “Surrender to me!” then in a loud
+and as he came close he whispered: "Surrender to me!” then in a loud
 
-voice shouted: “You are my prisoner, white man,” and menaced me with
+voice shouted: "You are my prisoner, white man,” and menaced me with
 
 his two weapons.
 
@@ -9960,7 +9960,7 @@ him that it had ended at the five corridors he said that it must have
 
 been cut by someone in need of a piece of rope, for he was sure that
 
-“the stupid Kadabrans would never have guessed its purpose.”
+"the stupid Kadabrans would never have guessed its purpose.”
 
 
 
@@ -9972,7 +9972,7 @@ with me, and when we came in sight of the branching ways he whispered:
 
 
 
-“Run up the first upon the right. It leads to the watchtower upon the
+"Run up the first upon the right. It leads to the watchtower upon the
 
 south wall. I will direct the pursuit up the next corridor,” and with
 
@@ -10062,13 +10062,13 @@ faces of two of the prisoners who worked side by side.
 
 
 
-One of the guards started toward me. “Who are you?” he demanded. “What
+One of the guards started toward me. "Who are you?” he demanded. "What
 
 do you here?”
 
 
 
-“I come for Tardos Mors, Jeddak of Helium, and his son, Mors Kajak,” I
+"I come for Tardos Mors, Jeddak of Helium, and his son, Mors Kajak,” I
 
 cried, pointing to the two red prisoners, who had now sprung to their
 
@@ -10076,7 +10076,7 @@ feet, wide-eyed in astonished recognition.
 
 
 
-“Rise, red men! Before we die let us leave a memorial in the palace of
+"Rise, red men! Before we die let us leave a memorial in the palace of
 
 Okar's tyrant that will stand forever in the annals of Kadabra to the
 
@@ -10186,7 +10186,7 @@ accouterments and the commands of officers.
 
 
 
-“The door! Quick, John Carter, bar the door!” cried Tardos Mors.
+"The door! Quick, John Carter, bar the door!” cried Tardos Mors.
 
 
 
@@ -10202,7 +10202,7 @@ me to the heavy portal. With a resounding bang I slammed it shut.
 
 
 
-“The bar!” shouted Tardos Mors.
+"The bar!” shouted Tardos Mors.
 
 
 
@@ -10212,7 +10212,7 @@ attempt.
 
 
 
-“Raise it a little to release the catch,” cried one of the red men.
+"Raise it a little to release the catch,” cried one of the red men.
 
 
 
@@ -10240,7 +10240,7 @@ fetters.
 
 
 
-“The officer of the guard has them,” replied the Jeddak of Helium, “and
+"The officer of the guard has them,” replied the Jeddak of Helium, "and
 
 he is among those without who seek entrance. You will have to force
 
@@ -10320,9 +10320,9 @@ the yellow horde was upon us.
 
 
 
-“To the upper chambers!” shouted the red man who was still fettered to
+"To the upper chambers!” shouted the red man who was still fettered to
 
-the floor. “To the upper chambers! There you may defend the tower
+the floor. "To the upper chambers! There you may defend the tower
 
 against all Kadabra. Do not delay because of me, who could pray for no
 
@@ -10340,7 +10340,7 @@ to leave him.
 
 
 
-“Cut his chains,” I cried to two of the red men, “while the balance of
+"Cut his chains,” I cried to two of the red men, "while the balance of
 
 us hold off the foe.”
 
@@ -10372,7 +10372,7 @@ quarters were too close to cut, thrusting when we could push a foeman
 
 to arm's length; and mingled with the wild cry of the Okarian there
 
-rose and fell the glorious words: “For Helium! For Helium!” that for
+rose and fell the glorious words: "For Helium! For Helium!” that for
 
 countless ages have spurred on the bravest of the brave to those deeds
 
@@ -10406,7 +10406,7 @@ thus divide our attention and our small numbers.
 
 
 
-“To the upper chambers!” cried Tardos Mors, and a moment later we fell
+"To the upper chambers!” cried Tardos Mors, and a moment later we fell
 
 back toward the runway that led to the floors above.
 
@@ -10570,7 +10570,7 @@ nick of time.
 
 
 
-“In the nick of time?”
+"In the nick of time?”
 
 
 
@@ -10652,7 +10652,7 @@ horizon.
 
 
 
-“Alas!” he cried, “that I should be forced to witness cruel fate betray
+"Alas!” he cried, "that I should be forced to witness cruel fate betray
 
 them without power to warn or aid; but they be past either now.”
 
@@ -10668,9 +10668,9 @@ came with ever increasing velocity.
 
 
 
-“The grim shaft that they call the Guardian of the North is beckoning
+"The grim shaft that they call the Guardian of the North is beckoning
 
-to them,” said Mors Kajak sadly, “just as it beckoned to Tardos Mors
+to them,” said Mors Kajak sadly, "just as it beckoned to Tardos Mors
 
 and his great fleet; see where they lie, crumpled and broken, a grim
 
@@ -10744,7 +10744,7 @@ the opening to the runway to stand aside.
 
 
 
-“Way for the Prince of Helium!” I shouted; and before the astonished
+"Way for the Prince of Helium!” I shouted; and before the astonished
 
 yellow man whose misfortune it was to be at the fighting end of the
 
@@ -10756,7 +10756,7 @@ behind him.
 
 
 
-“Way for the Prince of Helium!” I shouted as I cut a path through the
+"Way for the Prince of Helium!” I shouted as I cut a path through the
 
 astonished guardsmen of Salensus Oll.
 
@@ -11026,9 +11026,9 @@ of Jeddaks was addressing them.
 
 
 
-“The allotted hour has come,” he was saying as I entered the apartment;
+"The allotted hour has come,” he was saying as I entered the apartment;
 
-“and though the enemies of Okar be within her gates, naught may stay
+"and though the enemies of Okar be within her gates, naught may stay
 
 the will of Salensus Oll. The great ceremony must be omitted that no
 
@@ -11040,7 +11040,7 @@ Okar.
 
 
 
-“In a moment the thing shall have been done and we may return to the
+"In a moment the thing shall have been done and we may return to the
 
 battle, while she who is now the Princess of Helium looks down from the
 
@@ -11056,7 +11056,7 @@ Then, turning to a courtier, he issued some command in a low voice.
 
 The addressed hastened to a small door at the far end of the chamber
 
-and, swinging it wide, cried: “Way for Dejah Thoris, future Queen of
+and, swinging it wide, cried: "Way for Dejah Thoris, future Queen of
 
 Okar!”
 
@@ -11176,7 +11176,7 @@ could have withstood me then.
 
 
 
-With a single, low: “For the Princess of Helium!” I ran my blade
+With a single, low: "For the Princess of Helium!” I ran my blade
 
 straight through the rotten heart of Okar's rotten ruler, and before
 
@@ -11270,7 +11270,7 @@ room.
 
 
 
-“The Jeddak of Jeddaks!” he cried. “Where is the Jeddak of Jeddaks? The
+"The Jeddak of Jeddaks!” he cried. "Where is the Jeddak of Jeddaks? The
 
 city has fallen before the hordes from beyond the barrier, and but now
 
@@ -11280,7 +11280,7 @@ the south are pouring into its sacred precincts.
 
 
 
-“Where is Salensus Oll? He alone may revive the flagging courage of our
+"Where is Salensus Oll? He alone may revive the flagging courage of our
 
 warriors. He alone may save the day for Okar. Where is Salensus Oll?”
 
@@ -11298,7 +11298,7 @@ face.
 
 
 
-“Then fly, nobles of Okar!” he cried, “for naught can save you. Hark!
+"Then fly, nobles of Okar!” he cried, "for naught can save you. Hark!
 
 They come!”
 
@@ -11424,7 +11424,7 @@ battle.
 
 
 
-“For the Prince of Helium!” they cried. “For the Prince of Helium!”
+"For the Prince of Helium!” they cried. "For the Prince of Helium!”
 
 and, like hungry lions upon their prey, they fell once more upon the
 
@@ -11670,7 +11670,7 @@ First Born came to me:
 
 
 
-“Follow a corridor, passing three diverging corridors upon the right;
+"Follow a corridor, passing three diverging corridors upon the right;
 
 then into the fourth right-hand corridor to where three corridors meet;
 
@@ -12176,15 +12176,15 @@ Her right hand went high with its gleaming blade.
 
 
 
-“That for Matai Shang!” she cried, and she buried her blade deep in the
+"That for Matai Shang!” she cried, and she buried her blade deep in the
 
-dator's breast. “That for the wrong you would have done Dejah Thoris!”
+dator's breast. "That for the wrong you would have done Dejah Thoris!”
 
 and again the sharp steel sank into the bloody flesh.
 
 
 
-“And that, and that, and that!” she shrieked, “for John Carter, Prince
+"And that, and that, and that!” she shrieked, "for John Carter, Prince
 
 of Helium,” and with each word her sharp point pierced the vile heart
 
@@ -12210,9 +12210,9 @@ gazing at her in unconcealed and stupefied wonderment.
 
 A wan smile touched her lips—it was not the cruel and haughty smile of
 
-the goddess with which I was familiar. “You wonder, John Carter,” she
+the goddess with which I was familiar. "You wonder, John Carter,” she
 
-said, “what strange thing has wrought this change in me? I will tell
+said, "what strange thing has wrought this change in me? I will tell
 
 you. It is love—love of you,” and when I darkened my brows in
 
@@ -12220,7 +12220,7 @@ disapproval of her words she raised an appealing hand.
 
 
 
-“Wait,” she said. “It is a different love from mine—it is the love of
+"Wait,” she said. "It is a different love from mine—it is the love of
 
 your princess, Dejah Thoris, for you that has taught me what true love
 
@@ -12230,7 +12230,7 @@ jealous passion for you.
 
 
 
-“Now I am different. Now could I love as Dejah Thoris loves, and so my
+"Now I am different. Now could I love as Dejah Thoris loves, and so my
 
 only happiness can be to know that you and she are once more united,
 
@@ -12238,7 +12238,7 @@ for in her alone can you find true happiness.
 
 
 
-“But I am unhappy because of the wickedness that I have wrought. I have
+"But I am unhappy because of the wickedness that I have wrought. I have
 
 many sins to expiate, and though I be deathless, life is all too short
 
@@ -12246,7 +12246,7 @@ for the atonement.
 
 
 
-“But there is another way, and if Phaidor, daughter of the Holy
+"But there is another way, and if Phaidor, daughter of the Holy
 
 Hekkador of the Holy Therns, has sinned she has this day already made
 
@@ -12388,7 +12388,7 @@ overspread the features of their leader.
 
 
 
-“The author of all our misfortunes!” he cried, pointing at me. “We
+"The author of all our misfortunes!” he cried, pointing at me. "We
 
 shall have the satisfaction of a partial vengeance at least when we
 
@@ -12398,9 +12398,9 @@ Princess of Helium.
 
 
 
-“When they find them,” he went on, jerking his thumb upward toward the
+"When they find them,” he went on, jerking his thumb upward toward the
 
-palace above, “they will realize that the vengeance of the yellow man
+palace above, "they will realize that the vengeance of the yellow man
 
 costs his enemies dear. Prepare to die, John Carter, but that your end
 
@@ -12440,11 +12440,11 @@ at one another.
 
 
 
-“Stop!” shrieked their leader. “You dream not what you do!”
+"Stop!” shrieked their leader. "You dream not what you do!”
 
 
 
-“Right you are,” I replied. “John Carter does not dream. He knows—knows
+"Right you are,” I replied. "John Carter does not dream. He knows—knows
 
 that should one of you take another step toward Dejah Thoris, Princess
 
@@ -12460,11 +12460,11 @@ their leader turned to me.
 
 
 
-“Go your way, John Carter,” he said, “and we shall go ours.”
+"Go your way, John Carter,” he said, "and we shall go ours.”
 
 
 
-“Prisoners do not go their own way,” I answered, “and you are
+"Prisoners do not go their own way,” I answered, "and you are
 
 prisoners—prisoners of the Prince of Helium.”
 
@@ -12484,13 +12484,13 @@ neither aid nor mercy at his hands.
 
 
 
-“Well done, John Carter,” he cried. “You turn their own mighty power
+"Well done, John Carter,” he cried. "You turn their own mighty power
 
 against them. Fortunate for Okar is it that you were here to prevent
 
 their escape, for these be the greatest villains north of the
 
-ice-barrier, and this one”—pointing to the leader of the party—“would
+ice-barrier, and this one”—pointing to the leader of the party—"would
 
 have made himself Jeddak of Jeddaks in the place of the dead Salensus
 
@@ -12668,7 +12668,7 @@ Salensus Oll's.
 
 
 
-“Warriors of Barsoom,” I cried, “Kadabra has fallen, and with her the
+"Warriors of Barsoom,” I cried, "Kadabra has fallen, and with her the
 
 hateful tyrant of the north; but the integrity of Okar must be
 
@@ -12684,7 +12684,7 @@ throne of Okar.
 
 
 
-“There be but one warrior best fitted for the ancient and mighty title
+"There be but one warrior best fitted for the ancient and mighty title
 
 of Jeddak of Jeddaks of the North. Men of Okar, raise your swords to
 
@@ -12726,7 +12726,7 @@ The handsome head of the handsome youth was bent low above the
 
 beautiful face of his companion. I looked at Dejah Thoris, smiling, and
 
-as I drew her close to me I whispered: “Why not?”
+as I drew her close to me I whispered: "Why not?”
 
 
 
@@ -12748,7 +12748,7 @@ Jeddaks.
 
 
 
-“Henceforth,” he said, as the work was completed, “the fleets of the
+"Henceforth,” he said, as the work was completed, "the fleets of the
 
 red men and the black are free to come and go across the ice-barrier as
 
@@ -12756,7 +12756,7 @@ over their own lands.
 
 
 
-“The Carrion Caves shall be cleansed, that the green men may find an
+"The Carrion Caves shall be cleansed, that the green men may find an
 
 easy way to the land of the yellow, and the hunting of the sacred apt
 
@@ -12832,7 +12832,7 @@ caused a lovely garden to be made that we three might find seclusion
 
 and quiet happiness among ourselves, far from the pomp and ceremony of
 
-court, to summon us to the Temple of Reward—“where one is to be judged
+court, to summon us to the Temple of Reward—"where one is to be judged
 
 this night,” the summons concluded.
 
@@ -12924,7 +12924,7 @@ packed the auditorium. Then Tardos Mors arose.
 
 
 
-“John Carter,” he said in his deep, martial voice, “take your place
+"John Carter,” he said in his deep, martial voice, "take your place
 
 upon the Pedestal of Truth, for you are to be tried by a fair and
 
@@ -12968,7 +12968,7 @@ arose.
 
 
 
-“Most righteous judges,” he exclaimed, “you have heard recited all that
+"Most righteous judges,” he exclaimed, "you have heard recited all that
 
 is known of John Carter, Prince of Helium—the good with the bad. What
 
@@ -12992,9 +12992,9 @@ my sword out and had at them all upon the spot.
 
 
 
-“Judges,” he said, “there can be but one verdict. No longer may John
+"Judges,” he said, "there can be but one verdict. No longer may John
 
-Carter be Prince of Helium”—he paused—“but instead let him be Jeddak of
+Carter be Prince of Helium”—he paused—"but instead let him be Jeddak of
 
 Jeddaks, Warlord of Barsoom!”
 
@@ -13044,7 +13044,7 @@ Mors assisted her from the car, leading her forward to my side.
 
 
 
-“Let a world's most beautiful woman share the honor of her husband,” he
+"Let a world's most beautiful woman share the honor of her husband,” he
 
 said.
 

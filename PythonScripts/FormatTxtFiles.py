@@ -54,13 +54,17 @@ def remove_lines_above_and_below(input_file, output_file):
         extracted_content = extract_content_between_markers(content, start_markers, end_markers)
 
         # Check if any smart quotes are present in the extracted content
-        if any(smart_char in extracted_content for smart_char in ('’', '“', '”', '…', '—', '-')):
-            # Remove smart characters from the extracted content
-            cleaned_content = remove_smart_characters(extracted_content)
+        smart_quotes_present = any(smart_char in extracted_content for smart_char in ('’', '“', '”', '…', '—', '-'))
 
-            # Write the cleaned content back to the output file
-            with open(output_file, 'w', encoding='utf-8') as file:
-                file.write(cleaned_content)
+        # Remove smart characters from the extracted content if smart quotes are found
+        if smart_quotes_present:
+            cleaned_content = remove_smart_characters(extracted_content)
+        else:
+            cleaned_content = extracted_content
+
+        # Write the cleaned content back to the output file
+        with open(output_file, 'w', encoding='utf-8') as file:
+            file.write(cleaned_content)
 
     except Exception as e:
         print(f"Error processing file: {input_file}")
