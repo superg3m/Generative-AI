@@ -172,7 +172,6 @@ std::string Generative_Ai::getNextWord(int &foundIndex) const {  // Has an criti
   std::string ret;
 
   if (this->randomLine.empty() || currentPrompt.empty()) {
-    std::cout << "FUCK\n";
     return "FAILED";
   }
 
