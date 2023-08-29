@@ -12,7 +12,7 @@ This is my take on a generative AI. It generates text based on a given dataset u
 4. Open the book to a random location.
 5. Read words until you find the prompt word.
 6. Choose the next word.
-7. add the word to the end of the sentence.
+7. Add the word to the end of the sentence.
 8. This word becomes the next prompt.
 9. When the loop exits, print the sentence.
 
